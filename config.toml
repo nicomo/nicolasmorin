@@ -1,0 +1,45 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 10
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Nicolas Morin (@nicomo)"
+  subtitle    = "I tinker with code, text and ideas. Parfois en Français. 🕶"
+
+  cover       = "img/config-cover-home.jpeg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "nicomo"
+  fbName = ""
+  githubName = "nicomo"
+
+  logo = ""
+  orgName = ""
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Nicolas Morin"
+  authorAvatar = "img/avatar.jpg"
+  authorLocation = "Paris, France"
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
