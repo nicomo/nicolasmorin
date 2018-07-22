@@ -7,7 +7,7 @@ paginate        = 10
 
 [params]
   title       = "Nicolas Morin (@nicomo)"
-  subtitle    = "I tinker with code, text and ideas. Parfois en Français. 🕶"
+  subtitle    = "I tinker with code, texts and ideas. Parfois en Français. 🕶"
 
   cover       = "img/config-cover-home.jpeg"
   description = "Here is a description of your site."
