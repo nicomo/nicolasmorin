@@ -1,7 +1,6 @@
 +++
 title = "Web App With Gobuffalo"
 date = 2018-08-19T17:05:51+02:00
-draft = true
 description = "Building a mock web app to learn the ins & outs of the GoBuffalo web framework"
 tags = [ "golang", "gobuffalo",  ]
 type = "post"
