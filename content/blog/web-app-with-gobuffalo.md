@@ -322,7 +322,7 @@ Simple enough.
 
 ## It's great... can't wait for v.1.0.0
 
-To wrap this already long post up, GoBuffalo **is great**. However, it is currently v0.10.3, and there are some caveats.
+To wrap this already long post up, GoBuffalo **is great**. However, it is currently v0.12.6, and there are some caveats.
 
 ### Context
 
