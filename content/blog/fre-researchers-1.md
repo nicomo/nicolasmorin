@@ -1,12 +1,10 @@
 +++
 title = "A Database of French Researchers (1)"
-date = 2019-08-15T07:57:36+02:00
-draft = true
+date = 2019-08-26T07:57:36+01:00
 description = "First results of a project about French researchers and their publications"
 tags = [ "data", "research" ]
 type = "post"
 image = "img/fre-researchers-1.jpg"
-
 +++
 
 During the spring and this summer, I worked on and off, in my free time, on a side project about French researchers and their publications. This is an ongoing work, but I think it's interesting to start documenting the first results I have.
