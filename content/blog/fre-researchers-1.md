@@ -1,27 +1,27 @@
 +++
 title = "A Database of French Researchers (1)"
-date = 2019-08-26T07:57:36+01:00
+date = 2019-08-24T07:57:36+01:00
 description = "First results of a project about French researchers and their publications"
-tags = [ "data", "research" ]
+tags = [ "data", "universities", "research", "france" ]
 type = "post"
 image = "img/fre-researchers-1.jpg"
 +++
 
-During the spring and this summer, I worked on and off, in my free time, on a side project about French researchers and their publications. This is an ongoing work, but I think it's interesting to start documenting the first results I have.
+During the spring and this summer, I worked on and off, in my free time, on a side project about French researchers and their publications. This is an ongoing work, it will probably move slowly and last for some time, but I think it's interesting to start documenting the first results.
 
-Anyone with a passing knowledge of the French Higher Ed landscape will know this is a daunting task: polite decision makers talk of a _fragmented_ system; less polite people confess it's a terrible mess, a jumble of overlapping structures and competing loyalties, with Universities, University groups, _Ecoles_, the CNRS, and labs big and small with multiple parent organisations.
+Anyone with a passing knowledge of the French Higher Ed landscape will know this is a daunting task: polite decision makers talk of a _fragmented_ system; less polite people confess it's a terrible mess, a jumble of overlapping structures and competing loyalties, with Universities, University groups, _Ecoles_, the CNRS, labs big and small with multiple parent organisations. And changing _all the time_: they split and regroup like crazy cells in a petri dish.
 
-My primary objective is to do 3 things : get the names of as many researchers in the French higher education system; match them with research labs in the country; gather their publications, with a focus on monographs.
+My primary objective is to do 3 things : get as many names of researchers in the French higher education system as possible; match them with research labs in the country (and thus get a list of those); gather their publications, with a focus on monographs.
 
-I used publicly available information, especially from Sudoc, the French union catalog of university libraries, OCLC and the [GRID project](https://grid.ac/). I was especially impressed with the work done by GRID to make sense of the institutes and structures in french HE.
+I only use publicly available information here, especially from Sudoc, the French union catalog of university libraries, OCLC and the [GRID project](https://grid.ac/). I was especially impressed with the work done by GRID to make sense of the institutes and structures in french HE: hat tip to them.
 
-The first result, for me, was that it seems it is indeed possible to build such a database, even though it is always going to be an approximation of the reality.
+The very first result, for me, was that it seems indeed possible to build such a database, even though it is always going to be an approximation of the reality.
 
 So, let's look at a first batch of numbers.
 
-## Labs
+## Labs and researchers
 
-I identified a little more than 500 research labs. Those are not all the labs in French universities, _écoles_, etc.: the set is skewed towards the bigger labs with an affiliation with the CNRS. Smaller, less recognized labs are harder to pinpoint.
+I identified a little more than 500 research labs. Those are not all the labs in French universities, _écoles_, etc.: the set is skewed towards the bigger labs with an affiliation with the CNRS. Smaller, less recognized labs are harder to pinpoint. This is basically the GRID dataset, with a few additions.
 
 I identified about 31 000 researchers and managed to match 21 000 of them with their respective lab and, sometimes, with their employer (university, _école_). I don't have data about other countries, but the size of the typical french research lab seems small to me, especially given my above remark about the data set being skewed towards bigger, more established labs. The range is from under 10 researchers to about 200 researchers, with an average of 39 researchers per lab and a median of 32, _id est_ about 250 labs have under 30 researchers working in them. _Fragmented_, they said. See distribution.
 
@@ -46,7 +46,7 @@ For about 8.300 researchers I could use a known ID to find their [WorldCat Ident
 
 I have not dealt with the publications linked to those identities, but for that first pass, I did retrieve some general information about worldcat records for those people.
 
-This is interesting because all French Higher Education libraries contribute their holdings to worldcat through the Sudoc union catalog, and I think Worldcat is probably a good proxy for holdings of research monographs by current french researchers internationally. So, what do we have?
+This is interesting because all French Higher Education libraries contribute their holdings to worldcat through the Sudoc union catalog, and I think Worldcat is probably a good proxy for holdings of research monographs by current french researchers nationally _and_ internationally. So, what do we have?
 
 ### Works
 
@@ -77,7 +77,7 @@ The top 1% of authors account for 12% of library holdings, and the top 10% accou
 
 Another marker of influence might be the languages of the works. Do you write in English, in French, or in another language? If you write in French, are your works translated?
 
-The works held in Worldcat for these authors are in French (63%), English (36%), and only 1% for all other languages put together.
+The works held in Worldcat for these authors are in French (63%), English (36%), and only 1% for all other languages combined.
 
 3 233 researchers (39%) have more than 90% of their publications in French. At the other end of the spectrum, 756 (9%) have less than 10% of their publications in French.
 
@@ -85,4 +85,4 @@ Do researchers who publish in English have a disproportionate number of holdings
 
 ----------
 
-These were just a few first results from the database, on a fairly general level. I'm working on associated documents right now. I'll then have institutions + researchers + documents, _id est_ the basics blocks I need to then be able to play around with the data. I'll keep you posted here.
+These were just a few first results from the database, on a fairly general level. I'm working on associated documents right now. I'll then have institutions + researchers + documents, _id est_ the basics blocks I need to then be able to play around with the data. I'll keep you posted here... whenever I have made sufficient progress.
