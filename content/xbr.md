@@ -3,458 +3,459 @@ date = "2017-12-22T17:16:28+02:00"
 title = "XBR"
 menu = "main"
 description = "A Christine Brooke-Rose Bibliography"
+
+feature_image = "/img/xbr_portrait.jpg"
 +++
 
-## A Christine Brooke-Rose Bibliography
+Portrait of XBR by [Alexa Brunet / Transit](http://www.alexabrunet.com)
 
-<picture>
-	<source srcset="/img/xbr_portrait.jpg" media="(min-width: 600px)">
-	<img src="./img/xbr_portrait_small.jpg" alt="C. Brooke-Rose">
-</picture>
-<p>XBR by <a href="http://www.alexabrunet.com/">Alexa Brunet / Transit</a></p>
-<p><a href="http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1" target="_blank" alt="The Guardian Obit">The Guardian obituary</a> of Christine Brooke-Rose is still the best introduction, I think. It talks about the &ldquo;marvellously playful and difficult novelist Christine Brooke-Rose&rdquo;. She was a literary critic, an essayist, a novelist, a teacher who lived mainly in the UK and France.<br />
-Her books are published mainly by <a href="http://www.carcanet.co.uk/cgi-bin/indexer?owner_id=83" target="_blank" alt="Carcanet">Carcanet.<br />
-A <a href="http://christinebrookerose.org/about-the-society/" target="_blank" alt="C. Brooke-Rose society">Christine Brooke-Rose society</a> was launched in 2015 but so far it has a very light footprint online.</p>
-<p>You can <a href="/files/xbr_biblio.ris" alt="XBR Bibliography">download this bibliography</a> as a .RIS file</p>
-<p>_last updated Feb. 2018_</p>
-<hr />
-<div style="line-height: 1.35; padding-left: 2em; text-indent:-2em;" class="csl-bib-body">
-  <div class="csl-entry">Auerbach, David. “Xorandor by Christine Brooke-Rose.” <i>Waggish</i> (blog), 2015. http://www.waggish.org/2011/xorandor-by-christine-brooke-rose/.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=blogPost&amp;rft.title=Xorandor%20by%20Christine%20Brooke-Rose&amp;rft.description=Xorandor%C2%A0(1986)%20is%20a%20novel%20by%20Christine%20Brooke-Rose%20(1923-).%C2%A0Jip%20and%20Zab%20are%20preteen%20twins%20who%20speak%20a%20weird%2C%20unfamiliar%20slang%20and%20meet%20up%20with%20a%20talking%20rock%20that%20turns%20out%20to%20be%20a%20foreign%20lifefor...&amp;rft.identifier=http%3A%2F%2Fwww.waggish.org%2F2011%2Fxorandor-by-christine-brooke-rose%2F&amp;rft.aufirst=David&amp;rft.aulast=Auerbach&amp;rft.au=David%20Auerbach&amp;rft.date=2015"></span>
-  <div class="csl-entry">Bartha, Noemi-Alice. “Betweenness or an Interstitial Search for a Self.” <i>Language and Literature : European Landmarks of Identity</i> 8 (2011): 463–68.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Betweenness%20or%20an%20Interstitial%20Search%20for%20a%20Self&amp;rft.jtitle=Language%20and%20Literature%20%3A%20European%20Landmarks%20of%20Identity&amp;rft.volume=8&amp;rft.aufirst=Noemi-Alice&amp;rft.aulast=Bartha&amp;rft.au=Noemi-Alice%20Bartha&amp;rft.date=2011&amp;rft.pages=463-468&amp;rft.spage=463&amp;rft.epage=468"></span>
-  <div class="csl-entry">Berressem, Hanjo. “Thru the Looking Glass: A Journey into the Universe of Discourse.” <i>Review of Contemporary Fiction</i> 9, no. 3 (1989): 128–33.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Thru%20the%20Looking%20Glass%3A%20A%20Journey%20into%20the%20Universe%20of%20Discourse&amp;rft.jtitle=Review%20of%20Contemporary%20Fiction&amp;rft.volume=9&amp;rft.issue=3&amp;rft.aufirst=Hanjo&amp;rft.aulast=Berressem&amp;rft.au=Hanjo%20Berressem&amp;rft.date=1989&amp;rft.pages=128-33&amp;rft.spage=128&amp;rft.epage=33"></span>
-  <div class="csl-entry">Berressem, Hanjo, Bernd Herzogenrath, Richard Martin, and Christine Brooke-Rose, eds. “[unkown].” In <i>Near Encounters: Festschrift for Richard Martin</i>. Frankfurt am Main ; New York: P. Lang, 1995.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A3631485522&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%5Bunkown%5D&amp;rft.place=Frankfurt%20am%20Main%20%3B%20New%20York&amp;rft.publisher=P.%20Lang&amp;rft.aufirst=Hanjo&amp;rft.aulast=Berressem&amp;rft.au=Hanjo%20Berressem&amp;rft.au=Bernd%20Herzogenrath&amp;rft.au=Richard%20Martin&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1995&amp;rft.isbn=3631485522"></span>
-  <div class="csl-entry">Birch, Sarah. <i>Christine Brooke-Rose and Contemporary Fiction</i>. Oxford, New York: Clarendon Press; Oxford University Press, 1994.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780198123750&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Christine%20Brooke-Rose%20and%20contemporary%20fiction&amp;rft.place=Oxford%2C%20New%20York&amp;rft.publisher=Clarendon%20Press%3B%20Oxford%20University%20Press&amp;rft.aufirst=Sarah&amp;rft.aulast=Birch&amp;rft.au=Sarah%20Birch&amp;rft.date=1994&amp;rft.isbn=9780198123750"></span>
-  <div class="csl-entry">———. “Christine Brooke-Rose and Post-War Writing in France.” University of Oxford, Faculty of Medieval and Modern Languages and Literature, 1991.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Christine%20Brooke-Rose%20and%20post-war%20writing%20in%20France&amp;rft.aufirst=Sarah&amp;rft.aulast=Birch&amp;rft.au=Sarah%20Birch&amp;rft.date=1991&amp;rft.language=English"></span>
-  <div class="csl-entry">Boncza-Tomaszewski, Tom. “Christine Brooke-Rose: The Texterminator, an Interview.” <i>The Independent on Sunday</i>, March 27, 2005.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Christine%20Brooke-Rose%3A%20The%20Texterminator%2C%20an%20Interview.&amp;rft.source=The%20Independent%20on%20Sunday&amp;rft.aufirst=Tom&amp;rft.aulast=Boncza-Tomaszewski&amp;rft.au=Tom%20Boncza-Tomaszewski&amp;rft.date=2005-03-27"></span>
-  <div class="csl-entry">Brooke-Rose, Christine. “A for But: ‘The Custom House’ in Hawthorne’s The Scarlet Letter.” <i>Word and Image</i> 3, no. 2 (1987): 143–55.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20for%20But%3A%20%22The%20Custom%20House%22%20in%20Hawthorne's%20The%20Scarlet%20Letter&amp;rft.jtitle=Word%20and%20Image&amp;rft.volume=3&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1987&amp;rft.pages=143-55&amp;rft.spage=143&amp;rft.epage=55"></span>
-  <div class="csl-entry">———. <i>A Grammar of Metaphor</i>. London: Secker &amp; Warburg, 1958.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20grammar%20of%20metaphor&amp;rft.place=London&amp;rft.publisher=Secker%20%26%20Warburg&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1958"></span>
-  <div class="csl-entry">———. A Novel Theory. The Guardian, November 16, 1970.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=A%20Novel%20Theory&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1970-11-16"></span>
-  <div class="csl-entry">———. <i>A Rhetoric of the Unreal: Studies in Narrative and Structure, Especially of the Fantastic</i>. Cambridge: Cambridge University Press, 1981.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780521225618&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20rhetoric%20of%20the%20unreal%3A%20studies%20in%20narrative%20and%20structure%2C%20especially%20of%20the%20fantastic&amp;rft.place=Cambridge&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1981&amp;rft.isbn=9780521225618"></span>
-  <div class="csl-entry">———. <i>A Structural Analysis of Pound’s Usura Canto : Jacobson’s Method Extended and Applied to Free Verse</i>. Paris: Mouton, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20structural%20analysis%20of%20Pound's%20Usura%20Canto%20%3A%20Jacobson's%20method%20extended%20and%20applied%20to%20free%20verse&amp;rft.place=Paris&amp;rft.publisher=Mouton&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976"></span>
-  <div class="csl-entry">———. <i>A Writer’s Constraints: James Bryce Memorial Lecture, Delivered in the Wolfson Hall, Somerville College on Tuesday, 2 March 1993</i>. James Bryce Memorial Lectures. Oxford: Somerville College, 1993.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0950448672%209780950448671&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20writer's%20constraints%3A%20James%20Bryce%20memorial%20lecture%2C%20delivered%20in%20the%20Wolfson%20Hall%2C%20Somerville%20College%20on%20Tuesday%2C%202%20March%201993&amp;rft.place=Oxford&amp;rft.publisher=Somerville%20College&amp;rft.series=James%20Bryce%20Memorial%20Lectures&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1993&amp;rft.tpages=15&amp;rft.isbn=0950448672%209780950448671&amp;rft.language=English"></span>
-  <div class="csl-entry">———. <i>A ZBC of Ezra Pound</i>. Berkeley: University of California Press, 1971.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780520018488&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20ZBC%20of%20Ezra%20Pound&amp;rft.place=Berkeley&amp;rft.publisher=University%20of%20California%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1971&amp;rft.isbn=9780520018488"></span>
-  <div class="csl-entry">———. <i>Amalgamemnon</i>. Manchester [Greater Manchester]: Carcanet, 1984.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0856355399%209780856355394%201857548159%209781857548150&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Amalgamemnon&amp;rft.place=Manchester%20%5BGreater%20Manchester%5D&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1984&amp;rft.isbn=0856355399%209780856355394%201857548159%209781857548150&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Anatomy of Originophobia.” <i>The Times Literary Supplement</i>, May 19, 1961.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Anatomy%20of%20Originophobia&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961-05-19"></span>
-  <div class="csl-entry">———. <i>Between</i>. London: M. Joseph, 1968.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0718106334%209780718106331&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Between&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1968&amp;rft.isbn=0718106334%209780718106331&amp;rft.language=English"></span>
-  <div class="csl-entry">———. Bookmark 16: The Yorshire Ripper, Melvyn Bragg, Christine Brooke-Rose. BBC 2, May 7, 1987.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Bookmark%2016%3A%20The%20Yorshire%20Ripper%2C%20Melvyn%20Bragg%2C%20Christine%20Brooke-Rose&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1987-05-07"></span>
-  <div class="csl-entry">———. “Buzzards, Bloody Owls and One Hawk.” <i>London Magazine</i>, September 1961, 76–80.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Buzzards%2C%20Bloody%20Owls%20and%20One%20Hawk&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961-09&amp;rft.pages=76-80&amp;rft.spage=76&amp;rft.epage=80"></span>
-  <div class="csl-entry">———. “Cheng Ming Chi’i’d’.” <i>PN Review</i> 13, no. 5 (1987): 29–37.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=cheng%20Ming%20Chi'i'd'&amp;rft.jtitle=PN%20Review&amp;rft.volume=13&amp;rft.issue=5&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1987&amp;rft.pages=29-37&amp;rft.spage=29&amp;rft.epage=37"></span>
-  <div class="csl-entry">———. Christine Brooke-Rose in Conversation with Nicholas Tredell. P.N. Review, September 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Christine%20Brooke-Rose%20in%20Conversation%20with%20Nicholas%20Tredell&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990-09"></span>
-  <div class="csl-entry">———. “Claude Lévi-Strauss: A New Multi-Dimensional Way of Thinking.” <i>The Times</i>, March 2, 1968.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Claude%20L%C3%A9vi-Strauss%3A%20A%20New%20Multi-Dimensional%20Way%20of%20Thinking&amp;rft.source=The%20Times&amp;rft.description=Review%20of%20%22Structural%20Anthropology%22%20by%20Claude%20L%C3%A9vi-Strauss&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1968-03-02"></span>
-  <div class="csl-entry">———. “Diary.” <i>London Review of Books</i>, May 10, 1990, 25.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Diary&amp;rft.jtitle=London%20Review%20of%20Books&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990-05-10&amp;rft.pages=25"></span>
-  <div class="csl-entry">———. “Dynamic Gradients.” <i>London Magazine</i>, December 1965, 89–96.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Dynamic%20Gradients&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1965-12&amp;rft.pages=89-96&amp;rft.spage=89&amp;rft.epage=96"></span>
-  <div class="csl-entry">———. <i>Ecrire Du Roman, Aujourd’hui</i>. Villeneuve d’Ascq: Presses universitaires de Lille, 1984.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9782859392505&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ecrire%20du%20roman%2C%20aujourd'hui&amp;rft.place=Villeneuve%20d'Ascq&amp;rft.publisher=Presses%20universitaires%20de%20Lille&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1984&amp;rft.isbn=9782859392505"></span>
-  <div class="csl-entry">———. “Eximplosions.” <i>Genre</i> 14, no. 11 (1982): 9–21.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Eximplosions&amp;rft.jtitle=Genre&amp;rft.volume=14&amp;rft.issue=11&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1982&amp;rft.pages=9-21&amp;rft.spage=9&amp;rft.epage=21"></span>
-  <div class="csl-entry">———. “Exsul.” <i>Poetics Today</i> 17, no. 3 (October 1, 1996): 289–303. https://doi.org/10.2307/1773410.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1773410&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Exsul&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=17&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1996-10-01&amp;rft.pages=289-303&amp;rft.spage=289&amp;rft.epage=303&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">———. “Ezra Pound.” In <i>Littérature De Notre Temps. Écrivains Américains / Recueil 1</i>. Paris: Casterman, 1973.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ezra%20Pound&amp;rft.place=Paris&amp;rft.publisher=Casterman&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1973"></span>
-  <div class="csl-entry">———. “Feeding Mind.” <i>The Times Literary Supplement</i>, July 1, 1960.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Feeding%20Mind&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1960-07-01"></span>
-  <div class="csl-entry">———. “Fiction, Figment, Feindre.” <i>Fabula</i>, no. 3 (1984): 121–32.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Fiction%2C%20figment%2C%20feindre&amp;rft.jtitle=Fabula&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1984&amp;rft.pages=121-32&amp;rft.spage=121&amp;rft.epage=32"></span>
-  <div class="csl-entry">———. “French Fiction: The Long Revolution.” <i>The Times</i>, August 3, 1968.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=French%20Fiction%3A%20The%20Long%20Revolution&amp;rft.source=The%20Times&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1968-08-03"></span>
-  <div class="csl-entry">———. “George and the Seraph.” In <i>Voices 2</i>, by Michael Ratcliffe. London: M. Joseph, 1965.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=George%20and%20the%20seraph&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Michael&amp;rft.aulast=Ratcliffe&amp;rft.au=Michael%20Ratcliffe&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1965"></span>
-  <div class="csl-entry">———. Global Wordcrunching. City Limits, March 9, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Global%20Wordcrunching&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990-03-09"></span>
-  <div class="csl-entry">———. <i>Go When You See the Green Man Walking</i>. London: M. Joseph, 1970.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0718107748%209780718107741&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Go%20When%20You%20See%20the%20Green%20Man%20Walking&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1970&amp;rft.isbn=0718107748%209780718107741&amp;rft.language=English"></span>
-  <div class="csl-entry">———. <i>Gold: A Poem</i>. Aldington [Kent]: Hand and Flower Press, 1954.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gold%3A%20a%20poem&amp;rft.place=Aldington%20%5BKent%5D&amp;rft.publisher=Hand%20and%20Flower%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1954&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “His Name in the Record.” <i>The Times Literary Supplement</i>, June 10, 1960.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=His%20Name%20in%20the%20Record&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1960-06-10"></span>
-  <div class="csl-entry">———. “His Name in the Record.” In <i>The Modern Movement: A TLS Companion</i>, edited by John Gross. The University of Chicago Press, 1993.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780226309873&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=His%20Name%20in%20the%20Record&amp;rft.publisher=The%20University%20of%20Chicago%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=John%20Gross&amp;rft.date=1993&amp;rft.isbn=9780226309873"></span>
-  <div class="csl-entry">———. “Histoire Palimpseste.” In <i>Interprétation et Surinterprétation</i>, by Umberto Eco. Formes Sémiotiques. Paris: Presses universitaires de France, 1996.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9782130472568&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Histoire%20palimpseste&amp;rft.place=Paris&amp;rft.publisher=Presses%20universitaires%20de%20France&amp;rft.series=Formes%20s%C3%A9miotiques&amp;rft.aufirst=Umberto&amp;rft.aulast=Eco&amp;rft.au=Umberto%20Eco&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1996&amp;rft.isbn=9782130472568"></span>
-  <div class="csl-entry">———. “Historical Genres/Theoretical Genres: A Discussion of Todorov on the Fantastic.” <i>New Literary History</i> 8, no. 1 (October 1, 1976): 145–58. https://doi.org/10.2307/468618.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F468618&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Historical%20Genres%2FTheoretical%20Genres%3A%20A%20Discussion%20of%20Todorov%20on%20the%20Fantastic&amp;rft.jtitle=New%20Literary%20History&amp;rft.stitle=New%20Literary%20History&amp;rft.volume=8&amp;rft.issue=1&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-10-01&amp;rft.pages=145-158&amp;rft.spage=145&amp;rft.epage=158&amp;rft.issn=00286087"></span>
-  <div class="csl-entry">———. “How Far de Lonh?” <i>The Times Literary Supplement</i>, April 14, 1966.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=How%20Far%20de%20Lonh%3F&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1966-04-14"></span>
-  <div class="csl-entry">———. ICA talks - Christine Brooke-Rose and A. S. Byatt, in conversation. Interview by A. S. Byatt, September 9, 1986. http://sounds.bl.uk/Arts-literature-and-performance/ICA-talks/024M-C0095X0233XX-0100V0.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=ICA%20talks%20-%20Christine%20Brooke-Rose%20and%20A.%20S.%20Byatt%2C%20in%20conversation&amp;rft.identifier=http%3A%2F%2Fsounds.bl.uk%2FArts-literature-and-performance%2FICA-talks%2F024M-C0095X0233XX-0100V0&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=A.%20S.%20Byatt&amp;rft.date=1986-09-09"></span>
-  <div class="csl-entry">———. “Id Is, Is Id?” In <i>Discourse in Psychoanalysis and Literature</i>, by Shlomith Rimmon-Kenan. University Paperbacks. London ; New York: Methuen, 1987.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0416004520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Id%20is%2C%20is%20id%3F&amp;rft.place=London%20%3B%20New%20York&amp;rft.publisher=Methuen&amp;rft.series=University%20paperbacks&amp;rft.aufirst=Shlomith&amp;rft.aulast=Rimmon-Kenan&amp;rft.au=Shlomith%20Rimmon-Kenan&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1987&amp;rft.isbn=0416004520"></span>
-  <div class="csl-entry">———. “Ill Locations.” <i>Review of Contemporary Fiction</i> 8, no. 3 (1988): 67–81.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ill%20Locations&amp;rft.jtitle=Review%20of%20Contemporary%20Fiction&amp;rft.volume=8&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1988&amp;rft.pages=67-81&amp;rft.spage=67&amp;rft.epage=81"></span>
-  <div class="csl-entry">———. “Ill Locutions.” In <i>Narrative in Culture: The Uses of Storytelling in the Sciences, Philosophy, and Literature</i>, by Cristopher Nash. Warwick Studies in Philosophy and Literature. London ; New York: Routledge, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0415041562&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ill%20Locutions&amp;rft.place=London%20%3B%20New%20York&amp;rft.publisher=Routledge&amp;rft.series=Warwick%20studies%20in%20philosophy%20and%20literature&amp;rft.aufirst=Cristopher&amp;rft.aulast=Nash&amp;rft.au=Cristopher%20Nash&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990&amp;rft.isbn=0415041562"></span>
-  <div class="csl-entry">———. “Ill Logics of Irony.” In <i>New Essays on The Red BAdge of Courage</i>, 129–46. Cambridge: Cambridge University Press, 1986.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ill%20Logics%20of%20Irony&amp;rft.place=Cambridge&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986&amp;rft.pages=129-46&amp;rft.spage=129&amp;rft.epage=46"></span>
-  <div class="csl-entry">———. “Ill Wit and Good Humour: Women’s Comedy and the Canon.” In <i>Comparative Criticism</i>, by E.S. Shaffer. Comparative Criticism 10. Cambridge University Press, 1989.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780521390149&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ill%20Wit%20and%20Good%20Humour%3A%20Women's%20Comedy%20and%20the%20Canon&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.series=Comparative%20Criticism&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=E.S.%20Shaffer&amp;rft.date=1989-11&amp;rft.isbn=9780521390149&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Ill Wit and Sick Tragedy : Jude the Obscure.” In <i>Alternative Hardy</i>, by Lance St John Butler. Basingstoke, Hampshire: Macmillan, 1989.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0333427696&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ill%20Wit%20and%20Sick%20Tragedy%20%3A%20Jude%20the%20Obscure&amp;rft.place=Basingstoke%2C%20Hampshire&amp;rft.publisher=Macmillan&amp;rft.aufirst=Lance%20St%20John&amp;rft.aulast=Butler&amp;rft.au=Lance%20St%20John%20Butler&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1989&amp;rft.isbn=0333427696"></span>
-  <div class="csl-entry">———. “Illicitations.” <i>Review of Contemporary Fiction</i> 9, no. 3 (1989): 101–9.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Illicitations&amp;rft.jtitle=Review%20of%20Contemporary%20Fiction&amp;rft.volume=9&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1989&amp;rft.pages=101-109&amp;rft.spage=101&amp;rft.epage=109"></span>
-  <div class="csl-entry">———. “Illiterations.” In <i>Breaking the Sequence</i>, by Ellen G. Friedman and Miriam Fuchs, 55–71. Princeton University Press, 1992.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Illiterations&amp;rft.publisher=Princeton%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Ellen%20G.%20Friedman&amp;rft.au=Miriam%20Fuchs&amp;rft.date=1992&amp;rft.pages=55-71&amp;rft.spage=55&amp;rft.epage=71"></span>
-  <div class="csl-entry">———. “Illiterazioni.” In <i>Letteratura E Femminismi: Teorie Della Critica in Area Inglese E Americana</i>, by Maria Teresa Chialant and Eleonora Rao, 1. ed. italiana. Leone E L’unicorno 11. Napoli: Liguori, 2000.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A8820730847&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Illiterazioni&amp;rft.place=Napoli&amp;rft.publisher=Liguori&amp;rft.edition=1.%20ed.%20italiana&amp;rft.series=Leone%20e%20l'unicorno&amp;rft.aufirst=Maria%20Teresa&amp;rft.aulast=Chialant&amp;rft.au=Maria%20Teresa%20Chialant&amp;rft.au=Eleonora%20Rao&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=2000&amp;rft.isbn=8820730847"></span>
-  <div class="csl-entry">———. “Illusions of Parody.” <i>Amerikastudien, American Studies</i> 30, no. 2 (1985): 225–33.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Illusions%20of%20Parody&amp;rft.jtitle=Amerikastudien%2C%20American%20studies&amp;rft.volume=30&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1985&amp;rft.pages=225-233&amp;rft.spage=225&amp;rft.epage=233"></span>
-  <div class="csl-entry">———. “Imitations Are Proof of New Writing’s Power.” <i>The Times</i>, May 31, 1977.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Imitations%20Are%20Proof%20of%20New%20Writing's%20Power&amp;rft.source=The%20Times&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1977-05-31"></span>
-  <div class="csl-entry">———. <i>Introduction to “In Transit: An Heroi-Cyclic Novel” by Brigid Brophy</i>. 1st Dalkey Archive ed. Chicago, Ill: Dalkey Archive Press, 2002.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A1564783235&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Introduction%20to%20%22In%20transit%3A%20an%20heroi-cyclic%20novel%22%20by%20Brigid%20Brophy&amp;rft.place=Chicago%2C%20Ill&amp;rft.publisher=Dalkey%20Archive%20Press&amp;rft.edition=1st%20Dalkey%20Archive%20ed&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=2002&amp;rft.tpages=235&amp;rft.isbn=1564783235"></span>
-  <div class="csl-entry">———. <i>Invisible Author : Last Essays</i>. Columbus: Ohio State University Press, 2002.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780814208939&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Invisible%20author%20%3A%20last%20essays&amp;rft.place=Columbus&amp;rft.publisher=Ohio%20State%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=2002&amp;rft.isbn=9780814208939"></span>
-  <div class="csl-entry">———. <i>Kärlekens språk [The Languages of Love]</i>. Translated by Hillevi Blomberg. Stockholm; New York: Sven-Erik Berghs Bokförlag, 1958.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ka%CC%88rlekens%20spra%CC%8Ak%20%5BThe%20Languages%20of%20Love%5D&amp;rft.place=Stockholm%3B%20New%20York&amp;rft.publisher=Sven-Erik%20Berghs%20Bokfo%CC%88rlag&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Hillevi%20Blomberg&amp;rft.date=1958&amp;rft.language=Swedish"></span>
-  <div class="csl-entry">———. “L’imagination Baroque de Robbe-Grillet.” Edited by Barbara Bray and John Herbert Matthews. <i>Revue Des Lettres Modernes</i>, no. 94–99 (1964): 129–52.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L'imagination%20baroque%20de%20Robbe-Grillet&amp;rft.jtitle=Revue%20des%20Lettres%20Modernes&amp;rft.issue=94-99&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Barbara%20Bray&amp;rft.au=John%20Herbert%20Matthews&amp;rft.date=1964&amp;rft.pages=129-152&amp;rft.spage=129&amp;rft.epage=152"></span>
-  <div class="csl-entry">———. “La Dévaluation Du Livre.” <i>Le Monde</i>, January 24, 1968.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=La%20d%C3%A9valuation%20du%20livre&amp;rft.source=Le%20Monde&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1968-01-24"></span>
-  <div class="csl-entry">———. “La Syntaxe et Le Symbolisme Dans La Poésie de Hopkins.” <i>Europe</i> 25, no. 17 (1947): 30–39.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=La%20syntaxe%20et%20le%20symbolisme%20dans%20la%20po%C3%A9sie%20de%20Hopkins&amp;rft.jtitle=Europe&amp;rft.volume=25&amp;rft.issue=17&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1947&amp;rft.pages=30-9&amp;rft.spage=30&amp;rft.epage=9"></span>
-  <div class="csl-entry">———. “Lady Precious Stream.” <i>London Magazine</i>, June 1964, 80–86.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lady%20Precious%20Stream&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1964-06&amp;rft.pages=80-6&amp;rft.spage=80&amp;rft.epage=6"></span>
-  <div class="csl-entry">———. “Lay Me by Aurelie : An Examination of Pound’s Use of Historical and Semi-Historical Sources.” In <i>New Approaches to Ezra Pound: A Co-Ordinated Investigation of Pound’s Poetry and Ideas</i>, edited by Eva Hesse. Berkeley: University of California Press, 1969.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Lay%20me%20by%20Aurelie%20%3A%20an%20examination%20of%20Pound's%20use%20of%20historical%20and%20semi-historical%20sources&amp;rft.place=Berkeley&amp;rft.publisher=University%20of%20California%20Press&amp;rft.aufirst=Eva&amp;rft.aulast=Hesse&amp;rft.au=Eva%20Hesse&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1969"></span>
-  <div class="csl-entry">———. <i>Le membre fantôme</i>. Translated by Bernard Hoepffner. Grenoble: Cent pages, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9782906724259&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Le%20membre%20fanto%CC%82me&amp;rft.place=Grenoble&amp;rft.publisher=Cent%20pages&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Bernard%20Hoepffner&amp;rft.date=1990&amp;rft.isbn=9782906724259&amp;rft.language=French"></span>
-  <div class="csl-entry">———. “Lettres d’Angleterre.” <i>Nouvelle Revue Française</i>, June 1967.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lettres%20d'Angleterre&amp;rft.jtitle=Nouvelle%20Revue%20Fran%C3%A7aise&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1967-06"></span>
-  <div class="csl-entry">———. <i>Life, End of</i>. Manchester: Carcanet, 2006.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9781857548464&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Life%2C%20end%20of&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=2006&amp;rft.isbn=9781857548464"></span>
-  <div class="csl-entry">———. “Making It New.” <i>Observer</i>, October 2, 1966.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Making%20it%20New&amp;rft.source=Observer&amp;rft.description=Review%20of%20%22The%20Inquisitory%20by%20Robert%20Pinget%2C%20and%20%22Degrees%22%20by%20Michel%20Butor&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1966-10-02"></span>
-  <div class="csl-entry">———. “Medium Loser. Small Winner.” In <i>A Coin Has Two Sides: A Collection of Double Stories on the Theme of Love</i>, by James Turner. London: Cassell, 1967.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Medium%20loser.%20Small%20winner&amp;rft.place=London&amp;rft.publisher=Cassell&amp;rft.aufirst=James&amp;rft.aulast=Turner&amp;rft.au=James%20Turner&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1967"></span>
-  <div class="csl-entry">———. “Metaphor in Paradise Lost: A Grammatical Analysis.” In <i>Language and Style in Milton: A Symposium in Honor of the Tercentenary of Paradise Lost</i>, edited by John T. Shawcross and Ronald David Emma, 253–303. New York: Frederick Ungar, 1967.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Metaphor%20in%20Paradise%20Lost%3A%20A%20Grammatical%20Analysis&amp;rft.place=New%20York&amp;rft.publisher=Frederick%20Ungar&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=John%20T.%20Shawcross&amp;rft.au=Ronald%20David%20Emma&amp;rft.date=1967&amp;rft.pages=253-303&amp;rft.spage=253&amp;rft.epage=303"></span>
-  <div class="csl-entry">———. “Mood of the Month - XI.” <i>London Magazine</i>, September 1959, 45–50.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mood%20of%20the%20Month%20-%20XI&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1959-09&amp;rft.pages=45-50&amp;rft.spage=45&amp;rft.epage=50"></span>
-  <div class="csl-entry">———. “Mourning.” <i>Truth</i> 1, no. 386 (December 6, 1957).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mourning&amp;rft.jtitle=Truth&amp;rft.volume=1&amp;rft.issue=386&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1957-12-06"></span>
-  <div class="csl-entry">———. news of the Day Programme Four: Lorna Sage Talks to Christine Brooke-Rose. University of East Anglia Video Archive, January 9, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=news%20of%20the%20Day%20Programme%20Four%3A%20Lorna%20Sage%20Talks%20to%20Christine%20Brooke-Rose&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990-01-09"></span>
-  <div class="csl-entry">———. <i>Next</i>. Manchester: Carcanet, 1998.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9781857543650&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Next&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1998&amp;rft.isbn=9781857543650"></span>
-  <div class="csl-entry">———. “Notes on the Metre of Auden’s ‘The Age of Anxiety.’” <i>Essays in Criticism</i> XIII (1963): 253–64.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Notes%20on%20the%20Metre%20of%20Auden's%20%E2%80%98The%20Age%20of%20Anxiety%E2%80%99&amp;rft.jtitle=Essays%20in%20Criticism&amp;rft.volume=XIII&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1963&amp;rft.pages=253-264&amp;rft.spage=253&amp;rft.epage=264"></span>
-  <div class="csl-entry">———. “On Terms.” In <i>The Fourth Ghost Book</i>, by James Turner. London: Barrie &amp; Rockliff, 1965.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=On%20terms&amp;rft.place=London&amp;rft.publisher=Barrie%20%26%20Rockliff&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=James%20Turner&amp;rft.date=1965"></span>
-  <div class="csl-entry">———. “Once Upon a Time.” <i>Truth</i>, no. 479 (April 27, 1956).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Once%20Upon%20a%20Time&amp;rft.jtitle=Truth&amp;rft.issue=479&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1956-04-27"></span>
-  <div class="csl-entry">———. <i>Out</i>. London: M. Joseph, 1964.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Out&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1964&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Out of the Past.” <i>Spectator</i>, June 12, 1964.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Out%20of%20the%20Past&amp;rft.source=Spectator&amp;rft.description=Review%20of%20%22The%20day%20the%20Call%20Came%22%20by%20Thomas%20Hinde%2C%20%22Berg%22%20by%20Ann%20Quin%2C%20%22The%20Deep%20Freeze%20Girl%22%20by%20Eva%20Defago%2C%20%22Smoke%20Island%22%20by%20Anthony%20Trew&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1964-06-12"></span>
-  <div class="csl-entry">———. Out’s Out - It’s In to be Anti. The Guardian, November 7, 1964.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Out's%20Out%20-%20It's%20In%20to%20be%20Anti&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1964-11-07"></span>
-  <div class="csl-entry">———. “Palimprestes en paragrammes : une phrase narrative bien cachée.” <i>Caliban</i>, no. 22 (1985): 87–99.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Palimprestes%20en%20paragrammes%20%3A%20une%20phrase%20narrative%20bien%20cach%C3%A9e&amp;rft.jtitle=Caliban&amp;rft.issue=22&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1985&amp;rft.pages=87-99&amp;rft.spage=87&amp;rft.epage=99&amp;rft.issn=0575-2124&amp;rft.language=French"></span>
-  <div class="csl-entry">———. “Palimpsest History.” In <i>Interpretation and Over-Interpretation</i>, by Umberto Eco and Richard Rorty, 125–38. Cambridge: Cambridge University Press, 1992.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Palimpsest%20History&amp;rft.place=Cambridge&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Umberto%20Eco&amp;rft.au=Richard%20Rorty&amp;rft.date=1992&amp;rft.pages=125-38&amp;rft.spage=125&amp;rft.epage=38"></span>
-  <div class="csl-entry">———. “Paris Letter: All the City’s a Stage.” <i>Spectator</i>, July 24, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Paris%20Letter%3A%20All%20the%20City's%20a%20Stage&amp;rft.source=Spectator&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-07-24"></span>
-  <div class="csl-entry">———. “Paris Letter: Dramatics.” <i>Spectator</i>, February 28, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Paris%20Letter%3A%20Dramatics&amp;rft.source=Spectator&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-02-28"></span>
-  <div class="csl-entry">———. “Paris Letter: Ganging Up.” <i>Spectator</i>, March 27, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Paris%20Letter%3A%20Ganging%20Up&amp;rft.source=Spectator&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-03-27"></span>
-  <div class="csl-entry">———. “Paris Letter: Le Pop.” <i>Spectator</i>, June 12, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Paris%20Letter%3A%20Le%20Pop&amp;rft.source=Spectator&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-06-12"></span>
-  <div class="csl-entry">———. “Paris Letter: Tricolore Tape.” <i>Spectator</i>, May 22, 1976.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Paris%20Letter%3A%20Tricolore%20Tape&amp;rft.source=Spectator&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-05-22"></span>
-  <div class="csl-entry">———. “Piers Plowman in the Modern Wasteland.” In <i>Ezra Pound Perspectives: Essays in Honor of His Eightieth Birthday</i>, by Noel Stock. Chicago: H. Regnery Co, 1965.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Piers%20Plowman%20in%20the%20modern%20wasteland&amp;rft.place=Chicago&amp;rft.publisher=H.%20Regnery%20Co&amp;rft.aufirst=Noel&amp;rft.aulast=Stock&amp;rft.au=Noel%20Stock&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1965"></span>
-  <div class="csl-entry">———. “PN Review Online - Remaking - Christine Brooke-Rose - PN Review 113.” <i>PN Review</i> 23, no. 3 (1997). http://www.pnreview.co.uk/cgi-bin/scribe?item_id=909.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=PN%20Review%20Online%20-%20Remaking%20-%20Christine%20Brooke-Rose%20-%20PN%20Review%20113&amp;rft.jtitle=PN%20Review&amp;rft.volume=23&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1997"></span>
-  <div class="csl-entry">———. “Problématique de La Réception.” <i>Revue Française Des Études Américaines</i>, November 1986, 393–98.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Probl%C3%A9matique%20de%20la%20r%C3%A9ception&amp;rft.jtitle=Revue%20fran%C3%A7aise%20des%20%C3%A9tudes%20am%C3%A9ricaines&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986-11&amp;rft.pages=393-8&amp;rft.spage=393&amp;rft.epage=8"></span>
-  <div class="csl-entry">———. “Quelques Remarques D’ouverture (pour Placer Le Débat Critique Dans Un Contexte Historique).” In <i>Théorie de La Littérature et Enseignement: Colloque Des 26 et 27 Avril 1980, [Paris VIII/British Council]</i>, edited by Renaud Zuppinger. Saint-Denis [France]: Service de la Recherche de l’Université de Paris VIII, 1981.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Quelques%20remarques%20d'ouverture%20(pour%20placer%20le%20d%C3%A9bat%20critique%20dans%20un%20contexte%20historique)&amp;rft.place=Saint-Denis%20%5BFrance%5D&amp;rft.publisher=Service%20de%20la%20Recherche%20de%20l'Universit%C3%A9%20de%20Paris%20VIII&amp;rft.aufirst=Renaud&amp;rft.aulast=Zuppinger&amp;rft.au=Renaud%20Zuppinger&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1981"></span>
-  <div class="csl-entry">———. Reclaim the Brain. Edinburgh Review 84, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Reclaim%20the%20Brain&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990"></span>
-  <div class="csl-entry">———. “Red Rubber Gloves.” In <i>Tales of Unease</i>, by John Frederick Burke. London: Pan Books, 1966.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Red%20Rubber%20Gloves&amp;rft.place=London&amp;rft.publisher=Pan%20Books&amp;rft.aufirst=John%20Frederick&amp;rft.aulast=Burke&amp;rft.au=John%20Frederick%20Burke&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1966"></span>
-  <div class="csl-entry">———. <i>Remake</i>. Manchester: Carcanet, 1996.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9781857542226&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Remake&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1996&amp;rft.isbn=9781857542226"></span>
-  <div class="csl-entry">———. “Responses.” <i>Truth</i> 1, no. 196 (October 18, 1957).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Responses&amp;rft.jtitle=Truth&amp;rft.volume=1&amp;rft.issue=196&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1957-10-18"></span>
-  <div class="csl-entry">———. “Return from Avilion.” <i>The Times Literary Supplement</i>, December 25, 1959.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Return%20from%20Avilion&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1959-12-25"></span>
-  <div class="csl-entry">———. “Round and Round the Jakobson Diagram: A Survey.” <i>Hebrew University Studies in Literature</i> 8, no. 2 (1980): 153–82.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Round%20and%20Round%20the%20Jakobson%20Diagram%3A%20A%20Survey&amp;rft.jtitle=Hebrew%20University%20Studies%20in%20Literature&amp;rft.volume=8&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1980&amp;rft.pages=153-82&amp;rft.spage=153&amp;rft.epage=82"></span>
-  <div class="csl-entry">———. “Samuel Beckett and the Anti-Novel.” <i>London Magazine</i>, December 1958, 38–46.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Samuel%20Beckett%20and%20the%20Anti-Novel&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1958-12&amp;rft.pages=38-46&amp;rft.spage=38&amp;rft.epage=46"></span>
-  <div class="csl-entry">———. “Self-Confrontation and the Writer.” <i>New Literary History</i> 9, no. 1 (1977): 129–36.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Self-Confrontation%20and%20the%20Writer&amp;rft.jtitle=New%20Literary%20History&amp;rft.volume=9&amp;rft.issue=1&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1977&amp;rft.pages=129-36&amp;rft.spage=129&amp;rft.epage=36"></span>
-  <div class="csl-entry">———. “Southey Ends His Song.” <i>The Times Literary Supplement</i>, April 1, 1960.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Southey%20Ends%20His%20Song&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1960-04-01"></span>
-  <div class="csl-entry">———. <i>Stories, Theories, and Things</i>. Cambridge; New York: Cambridge University Press, 1991.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780521391818&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Stories%2C%20theories%2C%20and%20things&amp;rft.place=Cambridge%3B%20New%20York&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1991&amp;rft.isbn=9780521391818"></span>
-  <div class="csl-entry">———. “Stories, Theories, and Things.” <i>New Literary History</i> 21, no. 1 (October 1, 1989): 121–31. https://doi.org/10.2307/469289.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F469289&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Stories%2C%20Theories%2C%20and%20Things&amp;rft.jtitle=New%20Literary%20History&amp;rft.stitle=New%20Literary%20History&amp;rft.volume=21&amp;rft.issue=1&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1989-10-01&amp;rft.pages=121-131&amp;rft.spage=121&amp;rft.epage=131&amp;rft.issn=00286087"></span>
-  <div class="csl-entry">———. <i>Subscript</i>. Manchester: Carcanet, 1999.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9781857544411&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Subscript&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1999&amp;rft.isbn=9781857544411"></span>
-  <div class="csl-entry">———. <i>Such</i>. London: M. Joseph, 1966.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Such&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1966&amp;rft.language=English"></span>
-  <div class="csl-entry">———. <i>Textermination : A Novel</i>. New York: New Directions Books, 1992.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780811212304&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Textermination%20%3A%20a%20novel&amp;rft.place=New%20York&amp;rft.publisher=New%20Directions%20Books&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1992&amp;rft.isbn=9780811212304"></span>
-  <div class="csl-entry">———. “The American Literary Scene: Writers in Search of a Community.” <i>Observer</i>, April 30, 1961.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=The%20American%20Literary%20Scene%3A%20Writers%20in%20Search%20of%20a%20Community&amp;rft.source=Observer&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961-04-30&amp;rft.pages=28"></span>
-  <div class="csl-entry">———. <i>The Christine Brooke-Rose Omnibus: Four Novels.</i> Manchester: Carcanet, 1986.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0856355607%209780856355608&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Christine%20Brooke-Rose%20omnibus%3A%20four%20novels.&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986&amp;rft.isbn=0856355607%209780856355608&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “The Concept of Ambiguity - The Example of James by Shlomith Rimmon.” <i>Poetics Today</i> 1, no. 1/2 (October 1, 1979): 397–402. https://doi.org/10.2307/1772054.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1772054&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Concept%20of%20Ambiguity%20-%20The%20Example%20of%20James%20by%20Shlomith%20Rimmon.&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=1&amp;rft.issue=1%2F2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1979-10-01&amp;rft.pages=397-402&amp;rft.spage=397&amp;rft.epage=402&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">———. “The Critic’s Eye.” <i>The Times Literary Supplement</i>, March 20, 1959.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=The%20Critic's%20Eye&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1959-03-20"></span>
-  <div class="csl-entry">———. <i>The Dear Deceit : A Novel</i>. London: Secker &amp; Warburg, 1960.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20dear%20deceit%20%3A%20a%20novel&amp;rft.place=London&amp;rft.publisher=Secker%20%26%20Warburg&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1960"></span>
-  <div class="csl-entry">———. “The Dissolution of Character in the Novel.” In <i>Reconstructing Individualism : Autonomy, Individuality, and the Self in Western Thought</i>, by Thomas Heller. Stanford Calif.: Stanford University Press, 1986.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780804712927&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Dissolution%20of%20Character%20in%20the%20Novel&amp;rft.place=Stanford%20Calif.&amp;rft.publisher=Stanford%20University%20Press&amp;rft.aufirst=Thomas&amp;rft.aulast=Heller&amp;rft.au=Thomas%20Heller&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986&amp;rft.isbn=9780804712927"></span>
-  <div class="csl-entry">———. “The Evil Ring: Realism and the Marvelous.” <i>Poetics Today</i> 1, no. 4 (July 1, 1980): 67–90. https://doi.org/10.2307/1771887.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1771887&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Evil%20Ring%3A%20Realism%20and%20the%20Marvelous&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=1&amp;rft.issue=4&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1980-07-01&amp;rft.pages=67-90&amp;rft.spage=67&amp;rft.epage=90&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">———. “The Five Senses.” <i>Whidow</i>, no. 9 (1956): 20–21.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Five%20Senses&amp;rft.jtitle=Whidow&amp;rft.issue=9&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1956&amp;rft.pages=20-21&amp;rft.spage=20&amp;rft.epage=21"></span>
-  <div class="csl-entry">———. “The Foot.” In <i>The Unlikely Ghosts: A Collection of Twelve Ghost Stories</i>, by James Turner. London: Cassell, 1967.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20foot&amp;rft.place=London&amp;rft.publisher=Cassell&amp;rft.aufirst=James&amp;rft.aulast=Turner&amp;rft.au=James%20Turner&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1967"></span>
-  <div class="csl-entry">———. “The Isle of Reil.” <i>Botteghe Oscure</i>, no. 21 (1958): 101–5.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Isle%20of%20Reil&amp;rft.jtitle=Botteghe%20Oscure&amp;rft.issue=21&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1958&amp;rft.pages=101-5&amp;rft.spage=101&amp;rft.epage=5"></span>
-  <div class="csl-entry">———. <i>The Languages of Love</i>. London: Secker &amp; Warburg, 1957.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20languages%20of%20love&amp;rft.place=London&amp;rft.publisher=Secker%20%26%20Warburg&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1957&amp;rft.language=English"></span>
-  <div class="csl-entry">———. <i>The Languages of Love</i>. VerbivoraciousPress, 2014.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9789810793753&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Languages%20of%20Love&amp;rft.publisher=VerbivoraciousPress&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=2014-03-21&amp;rft.tpages=180&amp;rft.isbn=9789810793753&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “The Lunatic Fringe.” <i>The Times Literary Supplement</i>, August 17, 1956.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=The%20Lunatic%20Fringe&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1956-08-17"></span>
-  <div class="csl-entry">———. “The Mickiewicz Centenary.” <i>Tablet</i>, November 26, 1955.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Mickiewicz%20Centenary&amp;rft.jtitle=Tablet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1955-11-26"></span>
-  <div class="csl-entry">———. <i>The Middlemen: A Satire</i>. London: Secker &amp; Warburg, 1961.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20middlemen%3A%20a%20satire&amp;rft.place=London&amp;rft.publisher=Secker%20%26%20Warburg&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “The Readerhood of Man.” In <i>The Reader in the Text: Essays in Audience and Interpretation</i>, by Susan E. Suleiman, 120–48. Princeton, NJ: Princeton University Press, 1980.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Readerhood%20of%20Man&amp;rft.place=Princeton%2C%20NJ&amp;rft.publisher=Princeton%20University%20Press&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Susan%20E.%20Suleiman&amp;rft.date=1980&amp;rft.pages=120-48&amp;rft.spage=120&amp;rft.epage=48"></span>
-  <div class="csl-entry">———. <i>The Snow Goose and Other Stories</i>. Harlow: Longman, 1987.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0582541417%20%209780582541412&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20snow%20goose%20and%20other%20stories&amp;rft.place=Harlow&amp;rft.publisher=Longman&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1987&amp;rft.isbn=0582541417%20%209780582541412&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “The Squirm of the True I: An Essay in Non-Methodology.” <i>Poetics and Theory of Literature</i> 1, no. 2 (1976): 265–94.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Squirm%20of%20the%20True%20I%3A%20An%20Essay%20in%20Non-Methodology&amp;rft.jtitle=Poetics%20and%20Theory%20of%20Literature&amp;rft.volume=1&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976&amp;rft.pages=265-94&amp;rft.spage=265&amp;rft.epage=94"></span>
-  <div class="csl-entry">———. “The Squirm of the True II: The Long Glasses.” <i>Poetics and Theory of Literature</i> 1, no. 3 (1976): 513–46.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Squirm%20of%20the%20True%20II%3A%20The%20Long%20Glasses&amp;rft.jtitle=Poetics%20and%20Theory%20of%20Literature&amp;rft.volume=1&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976&amp;rft.pages=513-46&amp;rft.spage=513&amp;rft.epage=46"></span>
-  <div class="csl-entry">———. “The Squirm of the True III: Surface Structure in Narrative.” <i>Poetics and Theory of Literature</i> 2, no. 3 (1977): 517–62.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Squirm%20of%20the%20True%20III%3A%20Surface%20Structure%20in%20Narrative&amp;rft.jtitle=Poetics%20and%20Theory%20of%20Literature&amp;rft.volume=2&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1977&amp;rft.pages=517-62&amp;rft.spage=517&amp;rft.epage=62"></span>
-  <div class="csl-entry">———. <i>The Sycamore Tree</i>. New York: Norton, 1959.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20sycamore%20tree&amp;rft.place=New%20York&amp;rft.publisher=Norton&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1959&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “The Symbolic Rose by Barbara Seward.” <i>The Modern Language Review</i> 56, no. 2 (April 1, 1961): 235. https://doi.org/10.2307/3721910.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F3721910&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Symbolic%20Rose%20by%20Barbara%20Seward&amp;rft.jtitle=The%20Modern%20Language%20Review&amp;rft.stitle=The%20Modern%20Language%20Review&amp;rft.volume=56&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961-04-01&amp;rft.pages=235&amp;rft.issn=00267937"></span>
-  <div class="csl-entry">———. “The Troglodyte.” In <i>Voices</i>, by Robert Rubens. London: M. Joseph, 1963.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20troglodyte&amp;rft.place=London&amp;rft.publisher=M.%20Joseph&amp;rft.aufirst=Robert&amp;rft.aulast=Rubens&amp;rft.au=Robert%20Rubens&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1963"></span>
-  <div class="csl-entry">———. “The Use of Metaphor in Some Old French and Middle English Lyrics and Romances.” University College London, 1955.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The%20Use%20of%20Metaphor%20in%20Some%20Old%20French%20and%20Middle%20English%20Lyrics%20and%20Romances&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1955"></span>
-  <div class="csl-entry">———. “The Vanishing Author.” <i>Observer</i>, February 12, 1961.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=The%20Vanishing%20Author&amp;rft.source=Observer&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1961-02-12&amp;rft.pages=26"></span>
-  <div class="csl-entry">———. “The Voice of Eternity.” <i>The Times Literary Supplement</i>, June 17, 1955.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=The%20Voice%20of%20Eternity&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1955-06-17"></span>
-  <div class="csl-entry">———. “The World A Catechumen.” <i>Botteghe Oscure</i>, no. 19 (1958): 123–33.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20World%20A%20Catechumen&amp;rft.jtitle=Botteghe%20Oscure&amp;rft.issue=19&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1958&amp;rft.pages=123-33&amp;rft.spage=123&amp;rft.epage=33"></span>
-  <div class="csl-entry">———. “Théorie Des Genres: La Science-Fiction.” In <i>Poétique(s): Domaine Anglais</i>, by Alain Bony. Lyon: Presses Universitaires de Lyon, 1983.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Th%C3%A9orie%20des%20genres%3A%20la%20science-fiction&amp;rft.place=Lyon&amp;rft.publisher=Presses%20Universitaires%20de%20Lyon&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Alain%20Bony&amp;rft.date=1983"></span>
-  <div class="csl-entry">———. <i>Thru</i>. London: H. Hamilton, 1975.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0241891086%209780241891087&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Thru&amp;rft.place=London&amp;rft.publisher=H.%20Hamilton&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1975&amp;rft.isbn=0241891086%209780241891087&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “To My Mother, Taking the Veil.” <i>London Magazine</i>, no. 61 (January 25, 1963).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=To%20My%20Mother%2C%20Taking%20the%20Veil&amp;rft.jtitle=London%20Magazine&amp;rft.issue=61&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1963-01-25"></span>
-  <div class="csl-entry">———. “Today the Acupuncturist.” <i>The Times Literary Supplement</i>, January 25, 1963.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Today%20the%20Acupuncturist&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1963-01-25"></span>
-  <div class="csl-entry">———. <i>Tra: romanzo</i>. Translated by Massimo Ferretti. Milano: Feltrinelli, 1971.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tra%3A%20romanzo&amp;rft.place=Milano&amp;rft.publisher=Feltrinelli&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Massimo%20Ferretti&amp;rft.date=1971&amp;rft.language=Italian"></span>
-  <div class="csl-entry">———. “Transgressions: An Essay-Say on the Novel Novel Novel.” <i>Contemporary Literature</i> 19, no. 3 (July 1, 1978): 378–407. https://doi.org/10.2307/1208276.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1208276&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Transgressions%3A%20An%20Essay-Say%20on%20the%20Novel%20Novel%20Novel&amp;rft.jtitle=Contemporary%20Literature&amp;rft.stitle=Contemporary%20Literature&amp;rft.volume=19&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1978-07-01&amp;rft.pages=378-407&amp;rft.spage=378&amp;rft.epage=407&amp;rft.issn=00107484"></span>
-  <div class="csl-entry">———. “Un Poème Sur Tout.” <i>Quinzaine Littéraire</i> 16, no. 31 (May 1986): 5–6.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Un%20po%C3%A8me%20sur%20tout&amp;rft.jtitle=Quinzaine%20litt%C3%A9raire&amp;rft.volume=16&amp;rft.issue=31&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986-05&amp;rft.pages=5-6&amp;rft.spage=5&amp;rft.epage=6"></span>
-  <div class="csl-entry">———. “[Unknown].” In <i>The Tiger Garden: A Book of Writers’ Dreams</i>, by Nicholas Royle. London ; New York, NY: Serpent’s Tail, 1996.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A1852425334&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%5BUnknown%5D&amp;rft.place=London%20%3B%20New%20York%2C%20NY&amp;rft.publisher=Serpent's%20Tail&amp;rft.aufirst=Nicholas&amp;rft.aulast=Royle&amp;rft.au=Nicholas%20Royle&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1996&amp;rft.isbn=1852425334"></span>
-  <div class="csl-entry">———. <i>Verbivore</i>. Manchester: Carcanet, 1990.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780856358531&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Verbivore&amp;rft.place=Manchester&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990&amp;rft.isbn=9780856358531"></span>
-  <div class="csl-entry">———. “Viewpoint.” <i>The Times Literary Supplement</i>, June 1, 1973.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Viewpoint&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1973-06-01"></span>
-  <div class="csl-entry">———. “Whatever Happened to Narratology?” <i>Poetics Today</i> 11, no. 2 (July 1, 1990): 283–93. https://doi.org/10.2307/1772617.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1772617&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Whatever%20Happened%20to%20Narratology%3F&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=11&amp;rft.issue=2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1990-07-01&amp;rft.pages=283-293&amp;rft.spage=283&amp;rft.epage=293&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">———. “Where Do We Go From Here?” <i>Granta</i>, no. 3 (1980): 161–88.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Where%20Do%20We%20Go%20From%20Here%3F&amp;rft.jtitle=Granta&amp;rft.issue=3&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1980&amp;rft.pages=161-88&amp;rft.spage=161&amp;rft.epage=88"></span>
-  <div class="csl-entry">———. “Where Have All the Lovers Gone?” <i>London Magazine</i>, June 1964, 80–86.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Where%20Have%20All%20the%20Lovers%20Gone%3F&amp;rft.jtitle=London%20Magazine&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1964-06&amp;rft.pages=80-6&amp;rft.spage=80&amp;rft.epage=6"></span>
-  <div class="csl-entry">———. “Woman as a Semiotic Object.” <i>Poetics Today</i> 6, no. 1/2 (January 1, 1985): 9–20. https://doi.org/10.2307/1772118.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1772118&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Woman%20as%20a%20Semiotic%20Object&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=6&amp;rft.issue=1%2F2&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1985-01-01&amp;rft.pages=9-20&amp;rft.spage=9&amp;rft.epage=20&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">———. Woman’s Hour. BBC Radio 4, September 25, 1984.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Woman's%20Hour&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1984-09-25"></span>
-  <div class="csl-entry">———. Writer out on a Limb. Scotsman, April 17, 1965.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=interview&amp;rft.title=Writer%20out%20on%20a%20Limb&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1965-04-17"></span>
-  <div class="csl-entry">———. <i>Xorandor</i>. Manchester [Greater Manchester]: Carcanet, 1986.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0856356557%209780856356551&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Xorandor&amp;rft.place=Manchester%20%5BGreater%20Manchester%5D&amp;rft.publisher=Carcanet&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1986&amp;rft.isbn=0856356557%209780856356551&amp;rft.language=English"></span>
-  <div class="csl-entry">———. <i>Xorandor</i>. Translated by Bernard Hoepffner. Hors Collection. Cent pages, 1989.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A2906724211&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Xorandor&amp;rft.publisher=Cent%20pages&amp;rft.series=Hors%20Collection&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Bernard%20Hoepffner&amp;rft.date=1989&amp;rft.isbn=2906724211&amp;rft.language=French"></span>
-  <div class="csl-entry">Brooke-Rose, Christine, and Joseph Andrew Darlington. <i>The Dear Deceit</i>. VerbivoraciousPress, 2014.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9789810793838&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20Dear%20Deceit&amp;rft.publisher=VerbivoraciousPress&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Joseph%20Andrew%20Darlington&amp;rft.date=2014-12-15&amp;rft.tpages=308&amp;rft.isbn=9789810793838&amp;rft.language=English"></span>
-  <div class="csl-entry">Brooke-Rose, Christine, and Nicolas Tredell. <i>Xorandor/Verbivore</i>. VerbivoraciousPress, 2014.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9789810935924&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Xorandor%2FVerbivore&amp;rft.publisher=VerbivoraciousPress&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Nicolas%20Tredell&amp;rft.date=2014-12-15&amp;rft.tpages=410&amp;rft.isbn=9789810935924&amp;rft.language=English"></span>
-  <div class="csl-entry">Brooke-Rose, Christine, and Joanna Walsh. <i>Go When You See the Green Man Walking</i>. Verbivoraciouspress, 2014.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9789810921675&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Go%20When%20You%20See%20the%20Green%20Man%20Walking&amp;rft.publisher=Verbivoraciouspress&amp;rft.aufirst=Christine&amp;rft.aulast=Brooke-Rose&amp;rft.au=Christine%20Brooke-Rose&amp;rft.au=Joanna%20Walsh&amp;rft.date=2014&amp;rft.tpages=162&amp;rft.isbn=9789810921675&amp;rft.language=Anglais"></span>
-  <div class="csl-entry">Cambiaghi, Mara. “Christine Brooke-Rose’s Routes of Belonging : Remake.” <i>SPELL : Swiss Papers in English Language and Literature</i> 19 (2007). https://doi.org/10.5169/seals-100055.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.5169%2Fseals-100055&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Christine%20Brooke-Rose's%20routes%20of%20belonging%20%3A%20Remake&amp;rft.jtitle=SPELL%20%3A%20Swiss%20papers%20in%20English%20language%20and%20literature&amp;rft.volume=19&amp;rft.aufirst=Mara&amp;rft.aulast=Cambiaghi&amp;rft.au=Mara%20Cambiaghi&amp;rft.date=2007&amp;rft.issn=0940-0478"></span>
-  <div class="csl-entry">Canepari-Labib, Michela. “The Deconstruction of Racial Identity in Christine Brooke-Rose’s Out.” <i>Annuli Anglistica</i> 4, no. 1 (2000): 161–89.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20Deconstruction%20of%20Racial%20Identity%20in%20Christine%20Brooke-Rose's%20Out&amp;rft.jtitle=Annuli%20anglistica&amp;rft.volume=4&amp;rft.issue=1&amp;rft.aufirst=Michela&amp;rft.aulast=Canepari-Labib&amp;rft.au=Michela%20Canepari-Labib&amp;rft.date=2000&amp;rft.pages=161-189&amp;rft.spage=161&amp;rft.epage=189"></span>
-  <div class="csl-entry">———. <i>Word-Worlds Language, Identity and Reality in the Work of Christine Brooke-Rose</i>. Oxford; New York: P. Lang, 2002. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=151566.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A1423758900%20%209781423758907&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Word-worlds%20language%2C%20identity%20and%20reality%20in%20the%20work%20of%20Christine%20Brooke-Rose&amp;rft.place=Oxford%3B%20New%20York&amp;rft.publisher=P.%20Lang&amp;rft.aufirst=Michela&amp;rft.aulast=Canepari-Labib&amp;rft.au=Michela%20Canepari-Labib&amp;rft.date=2002&amp;rft.isbn=1423758900%20%209781423758907&amp;rft.language=English"></span>
-  <div class="csl-entry">Carpi, Daniela. <i>L’ansia Della Scrittura: Parola E Silenzio Nella Narrativa Inglese Contemporanea</i>. 1. ed. Leone E L’unicorno 2. Napoli: Liguori, 1995.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A8820724324&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=L'ansia%20della%20scrittura%3A%20parola%20e%20silenzio%20nella%20narrativa%20inglese%20contemporanea&amp;rft.place=Napoli&amp;rft.publisher=Liguori&amp;rft.edition=1.%20ed&amp;rft.series=Leone%20e%20l'unicorno&amp;rft.aufirst=Daniela&amp;rft.aulast=Carpi&amp;rft.au=Daniela%20Carpi&amp;rft.date=1995&amp;rft.tpages=198&amp;rft.isbn=8820724324"></span>
-  <div class="csl-entry">Caserio, Robert L. “Mobility and Masochism: Christine Brooke-Rose and J. G. Ballard.” <i>Novel: A Forum on Fiction</i> 21, no. 2/3 (January 1, 1988): 292–310. https://doi.org/10.2307/1345497.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1345497&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Mobility%20and%20Masochism%3A%20Christine%20Brooke-Rose%20and%20J.%20G.%20Ballard&amp;rft.jtitle=Novel%3A%20A%20Forum%20on%20Fiction&amp;rft.stitle=NOVEL%3A%20A%20Forum%20on%20Fiction&amp;rft.volume=21&amp;rft.issue=2%2F3&amp;rft.aufirst=Robert%20L.&amp;rft.aulast=Caserio&amp;rft.au=Robert%20L.%20Caserio&amp;rft.date=1988-01-01&amp;rft.pages=292-310&amp;rft.spage=292&amp;rft.epage=310&amp;rft.issn=00295132"></span>
-  <div class="csl-entry">Darlington, Joseph. “A Non-Euclidean Novel: Christine Brooke-Rose’s Such and the Space-Age Sixties.” <i>Journal of Modern Literature</i> 40, no. 2 (Winter 2016): 147–64. https://doi.org/10.2979/jmodelite.40.2.09.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2979%2Fjmodelite.40.2.09&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20Non-Euclidean%20Novel%3A%20Christine%20Brooke-Rose%E2%80%99s%20Such%20and%20the%20Space-Age%20Sixties&amp;rft.jtitle=Journal%20of%20Modern%20Literature&amp;rft.volume=40&amp;rft.issue=2&amp;rft.aufirst=Joseph&amp;rft.aulast=Darlington&amp;rft.au=Joseph%20Darlington&amp;rft.date=2016&amp;rft.pages=147-164&amp;rft.spage=147&amp;rft.epage=164&amp;rft.issn=1529-1464"></span>
-  <div class="csl-entry">———. “The Composition of Christine Brooke-Rose’s Thru: An Afterlife of May ’68.” <i>Journal of European Studies</i> 45, no. 1 (March 2015): 49–64. https://doi.org/10.1177/0047244114553769.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1177%2F0047244114553769&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20composition%20of%20Christine%20Brooke-Rose%E2%80%99s%20Thru%3A%20An%20afterlife%20of%20May%20%E2%80%9968&amp;rft.jtitle=Journal%20of%20European%20Studies&amp;rft.volume=45&amp;rft.issue=1&amp;rft.aufirst=Joseph&amp;rft.aulast=Darlington&amp;rft.au=Joseph%20Darlington&amp;rft.date=2015-03&amp;rft.pages=49-64&amp;rft.spage=49&amp;rft.epage=64&amp;rft.issn=00472441"></span>
-  <div class="csl-entry">———. “Truth, Death and Memory in Christine Brooke-Rose’s Autobiographical Writings.” <i>Textual Practice</i>, December 8, 2017, 1–19. https://doi.org/10.1080/0950236X.2018.1413029.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413029&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Truth%2C%20death%20and%20memory%20in%20Christine%20Brooke-Rose%E2%80%99s%20autobiographical%20writings&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Joseph&amp;rft.aulast=Darlington&amp;rft.au=Joseph%20Darlington&amp;rft.date=2017-12-08&amp;rft.pages=1-19&amp;rft.spage=1&amp;rft.epage=19&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">Egger-Gajardo, Stephanie. <i>Das Prinzip Unentrinnbarkeit: Heteronormativität in Werken von Angela Carter und Christine Brooke-Rose</i>. Würzburg: Königshausen &amp; Neumann, 2008.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9783826038822%20%203826038827&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Das%20Prinzip%20Unentrinnbarkeit%3A%20Heteronormativita%CC%88t%20in%20Werken%20von%20Angela%20Carter%20und%20Christine%20Brooke-Rose&amp;rft.place=Wu%CC%88rzburg&amp;rft.publisher=Ko%CC%88nigshausen%20%26%20Neumann&amp;rft.aufirst=Stephanie&amp;rft.aulast=Egger-Gajardo&amp;rft.au=Stephanie%20Egger-Gajardo&amp;rft.date=2008&amp;rft.isbn=9783826038822%20%203826038827&amp;rft.language=German"></span>
-  <div class="csl-entry">Ferris, Natalie. “Christine Brooke-Rose: The Great British Experimentalist You’ve Never Heard of.” <i>The Guardian</i>, March 23, 2012. http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Christine%20Brooke-Rose%3A%20the%20great%20British%20experimentalist%20you've%20never%20heard%20of&amp;rft.source=The%20Guardian&amp;rft.identifier=http%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2012%2Fmar%2F23%2Fchristine-brooke-rose&amp;rft.aufirst=Natalie&amp;rft.aulast=Ferris&amp;rft.au=Natalie%20Ferris&amp;rft.date=2012-03-23"></span>
-  <div class="csl-entry">———. “‘I Think I Preferred It Abstract’: Christine Brooke-Rose and Visuality in the New Novel.” <i>Textual Practice</i>, December 11, 2017, 1–20. https://doi.org/10.1080/0950236X.2018.1413034.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413034&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E2%80%98I%20think%20I%20preferred%20it%20abstract%E2%80%99%3A%20Christine%20Brooke-Rose%20and%20visuality%20in%20the%20new%20novel&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Natalie&amp;rft.aulast=Ferris&amp;rft.au=Natalie%20Ferris&amp;rft.date=2017-12-11&amp;rft.pages=1-20&amp;rft.spage=1&amp;rft.epage=20&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">———. “‘Ludic Passage’ : Abstraction in Post-War British Literature, 1945-1980.” University of Oxford, 2016. http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.722561.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title='Ludic%20passage'%20%3A%20abstraction%20in%20post-war%20British%20literature%2C%201945-1980&amp;rft.aufirst=Natalie&amp;rft.aulast=Ferris&amp;rft.au=Natalie%20Ferris&amp;rft.date=2016"></span>
-  <div class="csl-entry">Forester, G. N., and M. J. Nicholls. <i>Verbivoracious Festschrift Volume One: Christine Brooke-Rose</i>. Verbivoraciouspress, 2014.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9789810794071&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Verbivoracious%20Festschrift%20Volume%20One%3A%20Christine%20Brooke-Rose&amp;rft.publisher=Verbivoraciouspress&amp;rft.aufirst=G.%20N.&amp;rft.aulast=Forester&amp;rft.au=G.%20N.%20Forester&amp;rft.au=M.%20J.%20Nicholls&amp;rft.date=2014&amp;rft.tpages=320&amp;rft.isbn=9789810794071&amp;rft.language=Anglais"></span>
-  <div class="csl-entry">Frank, Kerstin. <i>Die Erneuerung des Romans im Zeichen postmoderner Realitätsauffassung: Sinnstiftung und Sinnzerstörung in Christine Brooke-Roses Werk</i>. Trier: WVT Wissenschaftlicher Verlag Trier, 2008.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9783868210651%20%203868210652&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Die%20Erneuerung%20des%20Romans%20im%20Zeichen%20postmoderner%20Realita%CC%88tsauffassung%3A%20Sinnstiftung%20und%20Sinnzersto%CC%88rung%20in%20Christine%20Brooke-Roses%20Werk&amp;rft.place=Trier&amp;rft.publisher=WVT%20Wissenschaftlicher%20Verlag%20Trier&amp;rft.aufirst=Kerstin&amp;rft.aulast=Frank&amp;rft.au=Kerstin%20Frank&amp;rft.date=2008&amp;rft.isbn=9783868210651%20%203868210652&amp;rft.language=German"></span>
-  <div class="csl-entry">Friedman, Ellen G, and Richard Martin. <i>Utterly Other Discourse: The Texts of Christine Brooke-Rose</i>. Normal, IL: Dalkey Archive Press, 1995.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A1564780791%209781564780799%201564787079%209781564787071&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Utterly%20other%20discourse%3A%20the%20texts%20of%20Christine%20Brooke-Rose&amp;rft.place=Normal%2C%20IL&amp;rft.publisher=Dalkey%20Archive%20Press&amp;rft.aufirst=Ellen%20G&amp;rft.aulast=Friedman&amp;rft.au=Ellen%20G%20Friedman&amp;rft.au=Richard%20Martin&amp;rft.date=1995&amp;rft.isbn=1564780791%209781564780799%201564787079%209781564787071&amp;rft.language=English"></span>
-  <div class="csl-entry">Friedman, Ellen G. “Utterly Other Discourses: The Anticanon of Experimental Women Writers from Dorothy Richardson to Christine Brooke-Rose.” <i>Modern Fiction Studies</i> 34, no. 3 (1988).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Utterly%20Other%20Discourses%3A%20The%20Anticanon%20of%20Experimental%20Women%20Writers%20from%20Dorothy%20Richardson%20to%20Christine%20Brooke-Rose&amp;rft.jtitle=Modern%20Fiction%20Studies&amp;rft.volume=34&amp;rft.issue=3&amp;rft.aufirst=Ellen%20G.&amp;rft.aulast=Friedman&amp;rft.au=Ellen%20G.%20Friedman&amp;rft.date=1988"></span>
-  <div class="csl-entry">Friedman, Ellen G., and Miriam Fuchs. “A Conversation with Christine Brooke-Rose By Ellen G. Friedman and Miriam Fuchs | Dalkey Archive Press.” <i>The Review of Contemporary Fiction</i> 9, no. 3 (Fall 1989). https://www.dalkeyarchive.com/a-conversation-with-christine-brooke-rose-by-ellen-g-friedman-and-miriam-fuchs/.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20Conversation%20with%20Christine%20Brooke-Rose%20By%20Ellen%20G.%20Friedman%20and%20Miriam%20Fuchs%20%7C%20Dalkey%20Archive%20Press&amp;rft.jtitle=The%20Review%20of%20Contemporary%20Fiction&amp;rft.volume=9&amp;rft.issue=3&amp;rft.aufirst=Ellen%20G.&amp;rft.aulast=Friedman&amp;rft.au=Ellen%20G.%20Friedman&amp;rft.au=Miriam%20Fuchs&amp;rft.date=1989"></span>
-  <div class="csl-entry">Garrido Gallardo, Miguel Ángel, Tzvetan Todorov, and Christine Brooke-Rose, eds. <i>Teoría de Los Géneros Literarios</i>. Serie Lecturas (Madrid, Spain). Madrid: Arco/Libros, 1988.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A8476350333&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Teor%C3%ADa%20de%20los%20g%C3%A9neros%20literarios&amp;rft.place=Madrid&amp;rft.publisher=Arco%2FLibros&amp;rft.series=Serie%20Lecturas%20(Madrid%2C%20Spain)&amp;rft.aufirst=Miguel%20%C3%81ngel&amp;rft.aulast=Garrido%20Gallardo&amp;rft.au=Miguel%20%C3%81ngel%20Garrido%20Gallardo&amp;rft.au=Tzvetan%20Todorov&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1988&amp;rft.tpages=385&amp;rft.isbn=8476350333"></span>
-  <div class="csl-entry">Gortman, Alex. “On Christine Brooke-Rose.” <i>Book Forum</i> (blog), June 19, 2015. http://www.bookforum.com/pubdates/14718.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=blogPost&amp;rft.title=On%20Christine%20Brooke-Rose&amp;rft.identifier=http%3A%2F%2Fwww.bookforum.com%2Fpubdates%2F14718&amp;rft.aufirst=Alex&amp;rft.aulast=Gortman&amp;rft.au=Alex%20Gortman&amp;rft.date=2015-06-19"></span>
-  <div class="csl-entry">Goytisolo, Juan. <i>Children of Chaos</i>. Translated by Christine Brooke-Rose. London: Macgibbon &amp; Kee, 1958.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Children%20of%20chaos&amp;rft.place=London&amp;rft.publisher=Macgibbon%20%26%20Kee&amp;rft.aufirst=Juan&amp;rft.aulast=Goytisolo&amp;rft.au=Juan%20Goytisolo&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1958&amp;rft.tpages=250"></span>
-  <div class="csl-entry">Grech, Marija. “De-Gen(d)eration: Writing Thru the Seriously Playful.” <i>Word and Text</i> 1, no. 2 (2011): 91–100.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=De-gen(d)eration%3A%20Writing%20Thru%20the%20seriously%20playful&amp;rft.jtitle=Word%20and%20Text&amp;rft.volume=1&amp;rft.issue=2&amp;rft.aufirst=Marija&amp;rft.aulast=Grech&amp;rft.au=Marija%20Grech&amp;rft.date=2011&amp;rft.pages=91-100&amp;rft.spage=91&amp;rft.epage=100&amp;rft.issn=2069-9271"></span>
-  <div class="csl-entry">Guy, Adam. “‘that’s a Scientific Fact’: Christine Brooke-Rose’s Experimental Turn.” <i>The Modern Language Review</i> 111, no. 4 (October 2016): 936–55. https://doi.org/10.5699/modelangrevi.111.4.0936.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.5699%2Fmodelangrevi.111.4.0936&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E2%80%98that's%20a%20scientific%20fact%E2%80%99%3A%20Christine%20Brooke-Rose's%20Experimental%20Turn&amp;rft.jtitle=The%20Modern%20Language%20Review&amp;rft.volume=111&amp;rft.issue=4&amp;rft.aufirst=Adam&amp;rft.aulast=Guy&amp;rft.au=Adam%20Guy&amp;rft.date=2016-10&amp;rft.pages=936-955&amp;rft.spage=936&amp;rft.epage=955"></span>
-  <div class="csl-entry">Hawkins, Susan E. “Innovation/History/Politics: Reading Christine Brooke-Rose’s ‘Amalgamemnon.’” <i>Contemporary Literature</i> 32, no. 1 (April 1, 1991): 58–74. https://doi.org/10.2307/1208338.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1208338&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Innovation%2FHistory%2FPolitics%3A%20Reading%20Christine%20Brooke-Rose's%20%22Amalgamemnon%22&amp;rft.jtitle=Contemporary%20Literature&amp;rft.stitle=Contemporary%20Literature&amp;rft.volume=32&amp;rft.issue=1&amp;rft.aufirst=Susan%20E.&amp;rft.aulast=Hawkins&amp;rft.au=Susan%20E.%20Hawkins&amp;rft.date=1991-04-01&amp;rft.pages=58-74&amp;rft.spage=58&amp;rft.epage=74&amp;rft.issn=00107484"></span>
-  <div class="csl-entry">Hayman, David, Keith Cohen, and Christine Brooke-Rose. “An Interview with Christine Brooke-Rose.” <i>Contemporary Literature</i> 17, no. 1 (January 1, 1976): 1–23. https://doi.org/10.2307/1207554.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1207554&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An%20Interview%20with%20Christine%20Brooke-Rose&amp;rft.jtitle=Contemporary%20Literature&amp;rft.stitle=Contemporary%20Literature&amp;rft.volume=17&amp;rft.issue=1&amp;rft.aufirst=David&amp;rft.aulast=Hayman&amp;rft.au=David%20Hayman&amp;rft.au=Keith%20Cohen&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1976-01-01&amp;rft.pages=1-23&amp;rft.spage=1&amp;rft.epage=23&amp;rft.issn=00107484"></span>
-  <div class="csl-entry">Heise, Ursula K. “Effects Predicts Cause. Brooke-Rose’s Out.” In <i>Chronoschisms: Time, Narrative, and Postmodernism</i>, 219–55. Cambridge [etc.]: Cambridge University Press, 1997.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0521554861%20%209780521554862%20%200521555442%20%209780521555449&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Effects%20predicts%20cause.%20Brooke-Rose's%20Out&amp;rft.place=Cambridge%20%5Betc.%5D&amp;rft.publisher=Cambridge%20University%20Press&amp;rft.aufirst=Ursula%20K&amp;rft.aulast=Heise&amp;rft.au=Ursula%20K%20Heise&amp;rft.date=1997&amp;rft.pages=219-255&amp;rft.spage=219&amp;rft.epage=255&amp;rft.isbn=0521554861%20%209780521554862%20%200521555442%20%209780521555449&amp;rft.language=English"></span>
-  <div class="csl-entry">Hitchcock, Victor Paul. “The Politics of Experimentalism in the Fiction of Alain Robbe-Grillet, Christine Brooke-Rose, and Wilson Harris,” 1997.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The%20politics%20of%20experimentalism%20in%20the%20fiction%20of%20Alain%20Robbe-Grillet%2C%20Christine%20Brooke-Rose%2C%20and%20Wilson%20Harris&amp;rft.aufirst=Victor%20Paul&amp;rft.aulast=Hitchcock&amp;rft.au=Victor%20Paul%20Hitchcock&amp;rft.date=1997&amp;rft.language=English"></span>
-  <div class="csl-entry">Jeffries, Stuart. “Christine Brooke-Rose Obituary.” <i>The Guardian</i>, March 23, 2012. http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Christine%20Brooke-Rose%20obituary&amp;rft.source=The%20Guardian&amp;rft.identifier=http%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2012%2Fmar%2F23%2Fchristine-brooke-rose1&amp;rft.aufirst=Stuart&amp;rft.aulast=Jeffries&amp;rft.au=Stuart%20Jeffries&amp;rft.date=2012-03-23"></span>
-  <div class="csl-entry">Jones, Stephanie. “The ‘difficult’ Relationship: Christine Brooke-Rose, Catholicism and Muriel Spark.” <i>Textual Practice</i>, December 14, 2017, 1–19. https://doi.org/10.1080/0950236X.2018.1413038.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413038&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The%20%E2%80%98difficult%E2%80%99%20relationship%3A%20Christine%20Brooke-Rose%2C%20Catholicism%20and%20Muriel%20Spark&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Stephanie&amp;rft.aulast=Jones&amp;rft.au=Stephanie%20Jones&amp;rft.date=2017-12-14&amp;rft.pages=1-19&amp;rft.spage=1&amp;rft.epage=19&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">———. “The Immensity of Confrontable Selves : The ‘Split Subject’ and Multiple Identities in the Experimental Novels of Christine Brooke-Rose.” Aberystwyth University, 2016.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The%20immensity%20of%20confrontable%20selves%20%3A%20the%20'split%20subject'%20and%20multiple%20identities%20in%20the%20experimental%20novels%20of%20Christine%20Brooke-Rose&amp;rft.aufirst=Stephanie&amp;rft.aulast=Jones&amp;rft.au=Stephanie%20Jones&amp;rft.date=2016&amp;rft.tpages=254&amp;rft.language=en"></span>
-  <div class="csl-entry">Jordan, Julia. “Indeterminate Brooke-Rose.” <i>Textual Practice</i>, December 9, 2017, 1–17. https://doi.org/10.1080/0950236X.2018.1413039.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413039&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Indeterminate%20Brooke-Rose&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Julia&amp;rft.aulast=Jordan&amp;rft.au=Julia%20Jordan&amp;rft.date=2017-12-09&amp;rft.pages=1-17&amp;rft.spage=1&amp;rft.epage=17&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">Kafalenos, Emma. “Textasy: Christine Brooke-Rose’s Thru.” <i>International Fiction Review</i> 7, no. 1 (1980).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Textasy%3A%20Christine%20Brooke-Rose's%20Thru&amp;rft.jtitle=International%20Fiction%20Review&amp;rft.volume=7&amp;rft.issue=1&amp;rft.aufirst=Emma&amp;rft.aulast=Kafalenos&amp;rft.au=Emma%20Kafalenos&amp;rft.date=1980"></span>
-  <div class="csl-entry">Kermode, Frank. “Flinch Wince Jerk Shirk.” <i>London Review of Books</i>, April 6, 2006.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=newspaperArticle&amp;rft.title=Flinch%20Wince%20Jerk%20Shirk&amp;rft.source=London%20Review%20of%20Books&amp;rft.identifier=http%3A%2F%2Fwww.lrb.co.uk%2Fv28%2Fn07%2Ffrank-kermode%2Fflinch-wince-jerk-shirk&amp;rft.aufirst=Frank&amp;rft.aulast=Kermode&amp;rft.au=Frank%20Kermode&amp;rft.date=2006-04-06&amp;rft.pages=17&amp;rft.issn=0260-9592"></span>
-  <div class="csl-entry">Lawrence, Karen. “Postmodern ‘Vessels of Conception’: Brooke-Rose and Brophy.” In <i>Penelope Voyages: Women and Travel in the British Literary Tradition</i>. Reading Women Writing. Ithaca, N.Y: Cornell University Press, 1994.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0801426103&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Postmodern%20%22Vessels%20of%20conception%22%3A%20Brooke-Rose%20and%20Brophy&amp;rft.place=Ithaca%2C%20N.Y&amp;rft.publisher=Cornell%20University%20Press&amp;rft.series=Reading%20women%20writing&amp;rft.aufirst=Karen&amp;rft.aulast=Lawrence&amp;rft.au=Karen%20Lawrence&amp;rft.date=1994&amp;rft.isbn=0801426103"></span>
-  <div class="csl-entry">Lawrence, Karen R. <i>Techniques for Living: Fiction and Theory in the Work of Christine Brooke-Rose</i>. 2 edition. Columbus: Ohio State University Press, 2010.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780814211236&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Techniques%20for%20Living%3A%20Fiction%20and%20Theory%20in%20the%20Work%20of%20Christine%20Brooke-Rose&amp;rft.place=Columbus&amp;rft.publisher=Ohio%20State%20University%20Press&amp;rft.edition=2%20edition&amp;rft.aufirst=Karen%20R.&amp;rft.aulast=Lawrence&amp;rft.au=Karen%20R.%20Lawrence&amp;rft.date=2010-03-09&amp;rft.tpages=288&amp;rft.isbn=9780814211236&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Who Could Have Read the Signs? Politics and Prediction in Gertrude Stein’s ‘Mrs. Reynolds’ and Christine Brooke-Rose’s ‘Amalgamemnon.’” <i>Western Humanities Review</i> 59, no. 2 (FAL 2005): 18–38.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Who%20could%20have%20read%20the%20signs%3F%20Politics%20and%20prediction%20in%20Gertrude%20Stein's%20'Mrs.%20Reynolds'%20and%20Christine%20Brooke-Rose's%20'Amalgamemnon'&amp;rft.jtitle=Western%20Humanities%20Review&amp;rft.stitle=West.%20Human.%20Rev.&amp;rft.volume=59&amp;rft.issue=2&amp;rft.aufirst=Karen%20R.&amp;rft.aulast=Lawrence&amp;rft.au=Karen%20R.%20Lawrence&amp;rft.date=2005&amp;rft.pages=18-38&amp;rft.spage=18&amp;rft.epage=38&amp;rft.issn=0043-3845&amp;rft.language=English"></span>
-  <div class="csl-entry">Lecercle, Jean-Jacques. “Une lecture d’Amalgamemnon, de Christine Brooke-Rose.” <i>Tropisms</i>, no. 5 (1991).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Une%20lecture%20d'Amalgamemnon%2C%20de%20Christine%20Brooke-Rose&amp;rft.jtitle=Tropisms&amp;rft.issue=5&amp;rft.aufirst=Jean-Jacques&amp;rft.aulast=Lecercle&amp;rft.au=Jean-Jacques%20Lecercle&amp;rft.date=1991&amp;rft.language=French"></span>
-  <div class="csl-entry">Lennon, Brian. <i>In Babel’s Shadow: Multilingual Literatures, Monolingual States</i>. Minneapolis: University of Minnesota Press, 2010.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A9780816665013%20%20081666501X%20%209780816665020%20%200816665028&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In%20Babel's%20shadow%3A%20multilingual%20literatures%2C%20monolingual%20states&amp;rft.place=Minneapolis&amp;rft.publisher=University%20of%20Minnesota%20Press&amp;rft.aufirst=Brian&amp;rft.aulast=Lennon&amp;rft.au=Brian%20Lennon&amp;rft.date=2010&amp;rft.isbn=9780816665013%20%20081666501X%20%209780816665020%20%200816665028&amp;rft.language=English"></span>
-  <div class="csl-entry">Little, Judy. “Amalgamemnon and the Politics of Narrative.” <i>Review of Contemporary Fiction</i> 9 (Fall 1989).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Amalgamemnon%20and%20the%20Politics%20of%20Narrative&amp;rft.jtitle=Review%20of%20Contemporary%20Fiction&amp;rft.volume=9&amp;rft.aufirst=Judy&amp;rft.aulast=Little&amp;rft.au=Judy%20Little&amp;rft.date=1989"></span>
-  <div class="csl-entry">———. “Humoring the Sentence: Women’s Dialogic Comedy.” In <i>Women’s Comic Visions</i>, by June Sochen. Detroit: Wayne State University Press, 1991.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Humoring%20the%20Sentence%3A%20Women's%20Dialogic%20Comedy&amp;rft.place=Detroit&amp;rft.publisher=Wayne%20State%20University%20Press&amp;rft.aufirst=Judy&amp;rft.aulast=Little&amp;rft.au=Judy%20Little&amp;rft.au=June%20Sochen&amp;rft.date=1991"></span>
-  <div class="csl-entry">———. <i>The Experimental Self: Dialogic Subjectivity in Woolf, Pym, and Brooke-Rose</i>. Carbondale: Southern Illinois University Press, 1996.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0809320614%20%209780809320615&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The%20experimental%20self%3A%20dialogic%20subjectivity%20in%20Woolf%2C%20Pym%2C%20and%20Brooke-Rose&amp;rft.place=Carbondale&amp;rft.publisher=Southern%20Illinois%20University%20Press&amp;rft.aufirst=Judy&amp;rft.aulast=Little&amp;rft.au=Judy%20Little&amp;rft.date=1996&amp;rft.isbn=0809320614%20%209780809320615&amp;rft.language=English"></span>
-  <div class="csl-entry">Martin, Richard. “Just Words on a Page: The Novels of Christine Brooke-Rose.” <i>Review of Contemporary Fiction</i> 9, no. 3 (1989): 110–23.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Just%20Words%20on%20a%20Page%3A%20The%20Novels%20of%20Christine%20Brooke-Rose&amp;rft.jtitle=Review%20of%20Contemporary%20Fiction&amp;rft.volume=9&amp;rft.issue=3&amp;rft.aufirst=Richard&amp;rft.aulast=Martin&amp;rft.au=Richard%20Martin&amp;rft.date=1989&amp;rft.pages=110-123&amp;rft.spage=110&amp;rft.epage=123&amp;rft.issn=0276-0045"></span>
-  <div class="csl-entry">———. “‘Stepping Stones into the Dark’: Redundancy and Generation in Christine Brooke-Rose’s Amalgamemnon.” In <i>Breaking the Sequence: Women’s Experimental Fiction</i>, edited by Ellen G. Friedman and Miriam Fuchs, 177–87, 1988.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=%E2%80%9CStepping%20stones%20into%20the%20dark%E2%80%9D%3A%20redundancy%20and%20generation%20in%20Christine%20Brooke-Rose's%20Amalgamemnon&amp;rft.aufirst=Richard&amp;rft.aulast=Martin&amp;rft.au=Richard%20Martin&amp;rft.au=Ellen%20G.%20Friedman&amp;rft.au=Miriam%20Fuchs&amp;rft.date=1988&amp;rft.pages=177%E2%80%93187"></span>
-  <div class="csl-entry">McLaughlin, Brian Gerard. “Structures of Identity a Reading of the Self-Provoking Fiction of Christine Brooke-Rose, Bryan Stanley Johnson, Eva Figes, and Paul West,” 1981.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Structures%20of%20identity%20a%20reading%20of%20the%20self-provoking%20fiction%20of%20Christine%20Brooke-Rose%2C%20Bryan%20Stanley%20Johnson%2C%20Eva%20Figes%2C%20and%20Paul%20West&amp;rft.aufirst=Brian%20Gerard&amp;rft.aulast=McLaughlin&amp;rft.au=Brian%20Gerard%20McLaughlin&amp;rft.date=1981&amp;rft.language=English"></span>
-  <div class="csl-entry">Miller, Tyrus. “Christine Brooke-Rose.” In <i>British Writers</i>, edited by George Stade and Carol Howard, Supplement IV:97–118. Charles Scribner’s Sons, 1997.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Christine%20Brooke-Rose&amp;rft.publisher=Charles%20Scribner's%20Sons&amp;rft.aufirst=Tyrus&amp;rft.aulast=Miller&amp;rft.au=Tyrus%20Miller&amp;rft.au=George%20Stade&amp;rft.au=Carol%20Howard&amp;rft.date=1997&amp;rft.pages=97-118&amp;rft.spage=97&amp;rft.epage=118"></span>
-  <div class="csl-entry">Pestino, Joseph Francis. “The Reader/writer Affair: Instigating Repertoire in the Experimental Fiction of Susan Sontag, Walter Abish, Réjean Ducharme, Paul West, and Christine Brooke-Rose.” Pennsylvania State University, 1986.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The%20reader%2Fwriter%20affair%3A%20instigating%20repertoire%20in%20the%20experimental%20fiction%20of%20Susan%20Sontag%2C%20Walter%20Abish%2C%20Re%CC%81jean%20Ducharme%2C%20Paul%20West%2C%20and%20Christine%20Brooke-Rose&amp;rft.aufirst=Joseph%20Francis&amp;rft.aulast=Pestino&amp;rft.au=Joseph%20Francis%20Pestino&amp;rft.date=1986&amp;rft.language=English"></span>
-  <div class="csl-entry">Peterkiewicz, Jerzy. <i>In the Scales of Fate: An Autobiography</i>. London ; New York: M. Boyars, 1993.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In%20the%20scales%20of%20fate%3A%20an%20autobiography&amp;rft.place=London%20%3B%20New%20York&amp;rft.publisher=M.%20Boyars&amp;rft.aufirst=Jerzy&amp;rft.aulast=Peterkiewicz&amp;rft.au=Jerzy%20Peterkiewicz&amp;rft.date=1993"></span>
-  <div class="csl-entry">Pohl, Rebecca. “Selling Difficulty: The Case of Christine Brooke-Rose.” <i>Textual Practice</i>, December 15, 2017, 1–17. https://doi.org/10.1080/0950236X.2018.1413046.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413046&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Selling%20difficulty%3A%20the%20case%20of%20Christine%20Brooke-Rose&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Rebecca&amp;rft.aulast=Pohl&amp;rft.au=Rebecca%20Pohl&amp;rft.date=2017-12-15&amp;rft.pages=1-17&amp;rft.spage=1&amp;rft.epage=17&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">Rimmon-Kenan, Shlomith. <i>A Glance beyond Doubt: Narration, Representation, Subjectivity</i>. Columbus: Ohio State Univ. Press, 1996.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A0814207065%209780814207062&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20glance%20beyond%20doubt%3A%20narration%2C%20representation%2C%20subjectivity&amp;rft.place=Columbus&amp;rft.publisher=Ohio%20State%20Univ.%20Press&amp;rft.aufirst=Shlomith&amp;rft.aulast=Rimmon-Kenan&amp;rft.au=Shlomith%20Rimmon-Kenan&amp;rft.date=1996&amp;rft.isbn=0814207065%209780814207062&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Ambiguity and Narrative Levels: Christine Brooke-Rose’s Thru.” <i>Poetics Today</i> 3, no. 1 (January 1, 1982): 21–32. https://doi.org/10.2307/1772204.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1772204&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ambiguity%20and%20Narrative%20Levels%3A%20Christine%20Brooke-Rose's%20Thru&amp;rft.jtitle=Poetics%20Today&amp;rft.stitle=Poetics%20Today&amp;rft.volume=3&amp;rft.issue=1&amp;rft.aufirst=Shlomith&amp;rft.aulast=Rimmon-Kenan&amp;rft.au=Shlomith%20Rimmon-Kenan&amp;rft.date=1982-01-01&amp;rft.pages=21-32&amp;rft.spage=21&amp;rft.epage=32&amp;rft.issn=03335372"></span>
-  <div class="csl-entry">Robbe-Grillet, Alain. <i>In the Labyrinth</i>. Translated by Christine Brooke-Rose. London: Calder and Boyars, 1968.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In%20the%20Labyrinth&amp;rft.place=London&amp;rft.publisher=Calder%20and%20Boyars&amp;rft.aufirst=Alain&amp;rft.aulast=Robbe-Grillet&amp;rft.au=Alain%20Robbe-Grillet&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1968"></span>
-  <div class="csl-entry">Rose, Mark. “Reviewed Work: A Rhetoric of the Unreal: Studies in Narrative and Structure, Especially of the Fantastic by Christine Brooke-Rose.” <i>Comparative Literature</i> 36, no. 2 (Spring 1984): 169–71. https://doi.org/10.2307/1770605.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.2307%2F1770605&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Reviewed%20Work%3A%20A%20Rhetoric%20of%20the%20Unreal%3A%20Studies%20in%20Narrative%20and%20Structure%2C%20Especially%20of%20the%20Fantastic%20by%20Christine%20Brooke-Rose&amp;rft.jtitle=Comparative%20Literature&amp;rft.volume=36&amp;rft.issue=2&amp;rft.aufirst=Mark&amp;rft.aulast=Rose&amp;rft.au=Mark%20Rose&amp;rft.date=1984&amp;rft.pages=169-171&amp;rft.spage=169&amp;rft.epage=171"></span>
-  <div class="csl-entry">Sage, Lorna. <i>Moments of Truth: Twelve Twentieth-Century Women Writers</i>. London: Fourth Estate, 2001.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A1841156353&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Moments%20of%20truth%3A%20twelve%20twentieth-century%20women%20writers&amp;rft.place=London&amp;rft.publisher=Fourth%20Estate&amp;rft.aufirst=Lorna&amp;rft.aulast=Sage&amp;rft.au=Lorna%20Sage&amp;rft.date=2001&amp;rft.tpages=252&amp;rft.isbn=1841156353"></span>
-  <div class="csl-entry">Sapio Garbero, Maria Del. “A Conversation with Christine Brooke-Rose.” In <i>British Postmodern Fiction</i>, edited by Theo D’Haen and Hans Bertens. Amsterdam: Rodopi B.V., 1993.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=A%20Conversation%20with%20Christine%20Brooke-Rose&amp;rft.place=Amsterdam&amp;rft.publisher=Rodopi%20B.V.&amp;rft.aufirst=Maria&amp;rft.aulast=Del%20Sapio%20Garbero&amp;rft.au=Maria%20Del%20Sapio%20Garbero&amp;rft.au=Theo%20D'Haen&amp;rft.au=Hans%20Bertens&amp;rft.date=1993"></span>
-  <div class="csl-entry">———. “Between the Frontiers: Polyglottism and Female Definitions of Self in Christine Brooke-Rose.” In <i>Liminal Postmodernisms: The Postmodern, the (Post-)Colonial, and the (Post-)Feminist</i>, edited by Hans Bertens and Theo D’Haen. Amsterdam: Rodopi B.V., 1994.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Between%20the%20Frontiers%3A%20Polyglottism%20and%20Female%20Definitions%20of%20Self%20in%20Christine%20Brooke-Rose&amp;rft.place=Amsterdam&amp;rft.publisher=Rodopi%20B.V.&amp;rft.aufirst=Maria&amp;rft.aulast=Del%20Sapio%20Garbero&amp;rft.au=Maria%20Del%20Sapio%20Garbero&amp;rft.au=Hans%20Bertens&amp;rft.au=Theo%20D'Haen&amp;rft.date=1994"></span>
-  <div class="csl-entry">———. <i>L’assenza e la voce: scena e intreccio della scrittura in Christina Rossetti, May Sinclair e Christine Brooke-Rose</i>. Napoli: Liguori, 1991.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A8820719398%209788820719395&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=L'assenza%20e%20la%20voce%3A%20scena%20e%20intreccio%20della%20scrittura%20in%20Christina%20Rossetti%2C%20May%20Sinclair%20e%20Christine%20Brooke-Rose&amp;rft.place=Napoli&amp;rft.publisher=Liguori&amp;rft.aufirst=Maria&amp;rft.aulast=Del%20Sapio%20Garbero&amp;rft.au=Maria%20Del%20Sapio%20Garbero&amp;rft.date=1991&amp;rft.isbn=8820719398%209788820719395&amp;rft.language=Italian"></span>
-  <div class="csl-entry">———. “The Fictionality of Fiction: Christine Brooke-Rose’s Sense of Absence.” In <i>British Postmodern Fiction</i>, edited by Theo D’Haen and Hans Bertens. Amsterdam: Rodopi B.V., 1993.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Fictionality%20of%20Fiction%3A%20Christine%20Brooke-Rose's%20Sense%20of%20Absence&amp;rft.place=Amsterdam&amp;rft.publisher=Rodopi%20B.V.&amp;rft.aufirst=Maria&amp;rft.aulast=Del%20Sapio%20Garbero&amp;rft.au=Maria%20Del%20Sapio%20Garbero&amp;rft.au=Theo%20D'Haen&amp;rft.au=Hans%20Bertens&amp;rft.date=1993"></span>
-  <div class="csl-entry">Sauvy, Alfred. <i>Fertility and Survival: Population Problems from Malthus to Mao Tse Tung</i>. Translated by Christine Brooke-Rose. New York: Criterion Books, 1960.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fertility%20and%20Survival%3A%20Population%20Problems%20from%20Malthus%20to%20Mao%20Tse%20Tung&amp;rft.place=New%20York&amp;rft.publisher=Criterion%20Books&amp;rft.aufirst=Alfred&amp;rft.aulast=Sauvy&amp;rft.au=Alfred%20Sauvy&amp;rft.au=Christine%20Brooke-Rose&amp;rft.date=1960"></span>
-  <div class="csl-entry">Schopohl, Eva. “(De-)Constructing Translingual Identity. Interpreters as Literary Characters in Simultan by Ingeborg Bachmann and Between by Christine Brooke-Rose.” <i>TRANS-</i>, no. 6 (2008). http://trans.revues.org/283.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=(De-)Constructing%20translingual%20identity.%20Interpreters%20as%20literary%20characters%20in%20Simultan%20by%20Ingeborg%20Bachmann%20and%20Between%20by%20Christine%20Brooke-Rose&amp;rft.jtitle=TRANS-&amp;rft.issue=6&amp;rft.aufirst=Eva&amp;rft.aulast=Schopohl&amp;rft.au=Eva%20Schopohl&amp;rft.date=2008&amp;rft.issn=1778-3887"></span>
-  <div class="csl-entry">Seed, David. “Christine Brooke-Rose Interviewed.” <i>Textual Practice</i>, no. 7 (Summer 1993).</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Christine%20Brooke-Rose%20Interviewed&amp;rft.jtitle=Textual%20Practice&amp;rft.issue=7&amp;rft.aufirst=David&amp;rft.aulast=Seed&amp;rft.au=David%20Seed&amp;rft.date=1993"></span>
-  <div class="csl-entry">Smith, Ali. “The Armchair, the World.” <i>The Times Literary Supplement</i>, March 24, 2006.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=The%20armchair%2C%20the%20world&amp;rft.source=The%20Times%20Literary%20Supplement&amp;rft.identifier=http%3A%2F%2Fwww.the-tls.co.uk%2Ftls%2Fpublic%2Farticle745493.ece&amp;rft.aufirst=Ali&amp;rft.aulast=Smith&amp;rft.au=Ali%20Smith&amp;rft.date=2006-03-24&amp;rft.pages=21-22&amp;rft.spage=21&amp;rft.epage=22"></span>
-  <div class="csl-entry">Sweeney, Carole. “‘Groping inside Language’: Translation, Humour and Experiment in Christine Brooke-Rose’s Between and Brigid Brophy’s In Transit.” <i>Textual Practice</i>, January 24, 2018, 1–16. https://doi.org/10.1080/0950236X.2018.1413047.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F0950236X.2018.1413047&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E2%80%98Groping%20inside%20language%E2%80%99%3A%20translation%2C%20humour%20and%20experiment%20in%20Christine%20Brooke-Rose%E2%80%99s%20Between%20and%20Brigid%20Brophy%E2%80%99s%20In%20Transit&amp;rft.jtitle=Textual%20Practice&amp;rft.stitle=Textual%20Practice&amp;rft.aufirst=Carole&amp;rft.aulast=Sweeney&amp;rft.au=Carole%20Sweeney&amp;rft.date=2018-01-24&amp;rft.pages=1-16&amp;rft.spage=1&amp;rft.epage=16&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">The Times Literary Supplement. <i>TLS Voices: Christine Brooke-Rose</i>. TLS Voices. Accessed June 26, 2015. https://soundcloud.com/the-tls/christine-brooke-rose.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=podcast&amp;rft.title=TLS%20Voices%3A%20Christine%20Brooke-Rose&amp;rft.description=In%20this%20episode%20of%20TLS%20Voices%2C%20Michael%20Caines%2C%20Natalie%20Ferris%20and%20Mika%20Ross-Southall%20explore%20the%20experimental%20work%20of%20Christine%20Brooke-Rose.&amp;rft.identifier=https%3A%2F%2Fsoundcloud.com%2Fthe-tls%2Fchristine-brooke-rose&amp;rft.aulast=The%20Times%20Literary%20Supplement&amp;rft.au=The%20Times%20Literary%20Supplement&amp;rft.language=English"></span>
-  <div class="csl-entry">Vechinski, Matthew James. “Christine Brooke-Rose and the Science of Fiction: Rethinking Conceptual Writing and Artificial Intelligence in Xorandor.” <i>Critique: Studies in Contemporary Fiction</i> 57, no. 4 (June 8, 2016): 448–63. https://doi.org/10.1080/00111619.2015.1091288.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1080%2F00111619.2015.1091288&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Christine%20Brooke-Rose%20and%20the%20Science%20of%20Fiction%3A%20Rethinking%20Conceptual%20Writing%20and%20Artificial%20Intelligence%20in%20Xorandor.&amp;rft.jtitle=Critique%3A%20Studies%20in%20Contemporary%20Fiction&amp;rft.volume=57&amp;rft.issue=4&amp;rft.aufirst=Matthew%20James&amp;rft.aulast=Vechinski&amp;rft.au=Matthew%20James%20Vechinski&amp;rft.date=2016-06-08&amp;rft.pages=448-463&amp;rft.spage=448&amp;rft.epage=463"></span>
-  <div class="csl-entry">Vidaurre, Rodrigo. “‘Is There a Story? That’s Another Story.’ Reading Christine Brooke-Rose’s Out as an Indictment of Realism.” <i>AAA-Arbeiten Aus Anglistik Une Amerikanistik</i> 39, no. 1 (2014): 21–41.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%22Is%20there%20a%20story%3F%20That's%20another%20story.%22%20Reading%20Christine%20Brooke-Rose's%20Out%20as%20an%20indictment%20of%20realism&amp;rft.jtitle=AAA-Arbeiten%20aus%20Anglistik%20une%20Amerikanistik&amp;rft.volume=39&amp;rft.issue=1&amp;rft.aufirst=Rodrigo&amp;rft.aulast=Vidaurre&amp;rft.au=Rodrigo%20Vidaurre&amp;rft.date=2014&amp;rft.pages=21-41&amp;rft.spage=21&amp;rft.epage=41&amp;rft.issn=0171-5410"></span>
-  <div class="csl-entry">Walsh, Joanna. “The Anti-Canon: Christine Brooke-Rose – an Algorithmic Appreciation,” January 31, 2014. http://www.influxpress.com/the-anti-canon-christine-brooke-rose-an-algorithmic-appreciation-by-joanna-walsh/.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=The%20Anti-Canon%3A%20Christine%20Brooke-Rose%20%E2%80%93%20an%20Algorithmic%20Appreciation&amp;rft.identifier=http%3A%2F%2Fwww.influxpress.com%2Fthe-anti-canon-christine-brooke-rose-an-algorithmic-appreciation-by-joanna-walsh%2F&amp;rft.aufirst=Joanna&amp;rft.aulast=Walsh&amp;rft.au=Joanna%20Walsh&amp;rft.date=2014-01-31"></span>
-  <div class="csl-entry">White, Glyn. “Christine Brooke-Rose : Motes, Beams and the Horse’s Mouth.” <i>Textual Practice</i>, 2018. https://doi.org/https://doi.org/10.1080/0950236X.2018.1413049.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2Fhttps%3A%2F%2Fdoi.org%2F10.1080%2F0950236X.2018.1413049&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Christine%20Brooke-Rose%20%3A%20motes%2C%20beams%20and%20the%20horse's%20mouth&amp;rft.jtitle=Textual%20Practice&amp;rft.aufirst=Glyn&amp;rft.aulast=White&amp;rft.au=Glyn%20White&amp;rft.date=2018&amp;rft.issn=0950-236X"></span>
-  <div class="csl-entry">———. “‘You Are Here’: Reading and Representation in Christine Brooke-Rose’s Thru.” <i>Poetics Today</i> 23, no. 4 (2002): 611–31.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%22You%20are%20here%22%3A%20Reading%20and%20Representation%20in%20Christine%20Brooke-Rose's%20Thru&amp;rft.jtitle=Poetics%20Today&amp;rft.volume=23&amp;rft.issue=4&amp;rft.aufirst=Glyn&amp;rft.aulast=White&amp;rft.au=Glyn%20White&amp;rft.date=2002&amp;rft.pages=611-631&amp;rft.spage=611&amp;rft.epage=631&amp;rft.language=English"></span>
-  <div class="csl-entry">Williamson, Andrew. “Invisible Author? Christine Brooke-Rose’s Absent Presence.” <i>Contemporary Womens Writing</i> 4, no. 1 (March 2010): 55–72. https://doi.org/10.1093/cww/vpp008.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1093%2Fcww%2Fvpp008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Invisible%20Author%3F%20Christine%20Brooke-Rose's%20Absent%20Presence&amp;rft.jtitle=Contemporary%20Womens%20Writing&amp;rft.stitle=Contemp.%20Womens%20Writ.&amp;rft.volume=4&amp;rft.issue=1&amp;rft.aufirst=Andrew&amp;rft.aulast=Williamson&amp;rft.au=Andrew%20Williamson&amp;rft.date=2010-03&amp;rft.pages=55-72&amp;rft.spage=55&amp;rft.epage=72&amp;rft.issn=1754-1476&amp;rft.language=English"></span>
-  <div class="csl-entry">———. “Literature’s Ghosts. Realism and Innovation in the Novels of Christine Brooke-Rose and A. S. Byatt.” University of Queensland, 2008. http://espace.library.uq.edu.au/view/UQ:177169.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=Literature's%20ghosts.%20Realism%20and%20innovation%20in%20the%20novels%20of%20Christine%20Brooke-Rose%20and%20A.%20S.%20Byatt&amp;rft.aufirst=Andrew&amp;rft.aulast=Williamson&amp;rft.au=Andrew%20Williamson&amp;rft.date=2008&amp;rft.language=English"></span>
-  <div class="csl-entry">Zouaoui, Karen. “Sometimes it is sufficient to disimagine » (Out, 185) : penser l’engagement avec Christine Brooke-Rose.” <i>Études britanniques contemporaines</i>, no. 50 (April 2016). http://journals.openedition.org/ebc/3096.</div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sometimes%20it%20is%20sufficient%20to%20disimagine%20%C2%BB%20(Out%2C%20185)%20%3A%20penser%20l%E2%80%99engagement%20avec%20Christine%20Brooke-Rose&amp;rft.jtitle=%C3%89tudes%20britanniques%20contemporaines&amp;rft.issue=50&amp;rft.aufirst=Karen&amp;rft.aulast=Zouaoui&amp;rft.au=Karen%20Zouaoui&amp;rft.date=2016-04&amp;rft.issn=2271-5444&amp;rft.language=fr"></span>
-</div>
+## A Christine Brooke-Rose bibliography
+
+[The Guardian obituary](http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1) of Christine Brooke-Rose is still the best very short introduction, I think. It talks about the &ldquo;marvellously playful and difficult novelist Christine Brooke-Rose&rdquo;. She was a literary critic, an essayist, a novelist, a teacher who lived mainly in the UK and France.<br />
+Her books are published mainly by [Carcanet](http://www.carcanet.co.uk/cgi-bin/indexer?owner_id=83).
+
+A [Christine Brooke-Rose society](http://christinebrookerose.org/about-the-society) was launched in 2015 but so far it has a very light footprint online.
+
+You can [download this bibliography](/files/xbr_biblio.ris) as a .RIS file. It was _last updated Feb. 2018_
+
+***
+
+
+Auerbach, David. “Xorandor by Christine Brooke-Rose.” _Waggish_ (blog), 2015. http://www.waggish.org/2011/xorandor-by-christine-brooke-rose/.
+
+Bartha, Noemi-Alice. “Betweenness or an Interstitial Search for a Self.” _Language and Literature : European Landmarks of Identity_ 8 (2011): 463–68.
+
+Berressem, Hanjo. “Thru the Looking Glass: A Journey into the Universe of Discourse.” _Review of Contemporary Fiction_ 9, no. 3 (1989): 128–33.
+
+Berressem, Hanjo, Bernd Herzogenrath, Richard Martin, and Christine Brooke-Rose, eds. “[unkown].” In _Near Encounters: Festschrift for Richard Martin_. Frankfurt am Main ; New York: P. Lang, 1995.
+
+Birch, Sarah. _Christine Brooke-Rose and Contemporary Fiction_. Oxford, New York: Clarendon Press; Oxford University Press, 1994.
+
+———. “Christine Brooke-Rose and Post-War Writing in France.” University of Oxford, Faculty of Medieval and Modern Languages and Literature, 1991.
+
+Boncza-Tomaszewski, Tom. “Christine Brooke-Rose: The Texterminator, an Interview.” _The Independent on Sunday_, March 27, 2005.
+
+Brooke-Rose, Christine. “A for But: ‘The Custom House’ in Hawthorne’s The Scarlet Letter.” _Word and Image_ 3, no. 2 (1987): 143–55.
+
+———. _A Grammar of Metaphor_. London: Secker &amp; Warburg, 1958.
+
+———. A Novel Theory. The Guardian, November 16, 1970.
+
+———. _A Rhetoric of the Unreal: Studies in Narrative and Structure, Especially of the Fantastic_. Cambridge: Cambridge University Press, 1981.
+
+———. _A Structural Analysis of Pound’s Usura Canto : Jacobson’s Method Extended and Applied to Free Verse_. Paris: Mouton, 1976.
+
+———. _A Writer’s Constraints: James Bryce Memorial Lecture, Delivered in the Wolfson Hall, Somerville College on Tuesday, 2 March 1993_. James Bryce Memorial Lectures. Oxford: Somerville College, 1993.
+
+———. _A ZBC of Ezra Pound_. Berkeley: University of California Press, 1971.
+
+———. _Amalgamemnon_. Manchester [Greater Manchester]: Carcanet, 1984.
+
+———. “Anatomy of Originophobia.” _The Times Literary Supplement_, May 19, 1961.
+
+———. _Between_. London: M. Joseph, 1968.
+
+———. Bookmark 16: The Yorshire Ripper, Melvyn Bragg, Christine Brooke-Rose. BBC 2, May 7, 1987.
+
+———. “Buzzards, Bloody Owls and One Hawk.” _London Magazine_, September 1961, 76–80.
+
+———. “Cheng Ming Chi’i’d’.” _PN Review_ 13, no. 5 (1987): 29–37.
+
+———. Christine Brooke-Rose in Conversation with Nicholas Tredell. P.N. Review, September 1990.
+
+———. “Claude Lévi-Strauss: A New Multi-Dimensional Way of Thinking.” _The Times_, March 2, 1968.
+
+———. “Diary.” _London Review of Books_, May 10, 1990, 25.
+
+———. “Dynamic Gradients.” _London Magazine_, December 1965, 89–96.
+
+———. _Ecrire Du Roman, Aujourd’hui_. Villeneuve d’Ascq: Presses universitaires de Lille, 1984.
+
+———. “Eximplosions.” _Genre_ 14, no. 11 (1982): 9–21.
+
+———. “Exsul.” _Poetics Today_ 17, no. 3 (October 1, 1996): 289–303. https://doi.org/10.2307/1773410.
+
+———. “Ezra Pound.” In _Littérature De Notre Temps. Écrivains Américains / Recueil 1_. Paris: Casterman, 1973.
+
+———. “Feeding Mind.” _The Times Literary Supplement_, July 1, 1960.
+
+———. “Fiction, Figment, Feindre.” _Fabula_, no. 3 (1984): 121–32.
+
+———. “French Fiction: The Long Revolution.” _The Times_, August 3, 1968.
+
+———. “George and the Seraph.” In _Voices 2_, by Michael Ratcliffe. London: M. Joseph, 1965.
+
+———. Global Wordcrunching. City Limits, March 9, 1990.
+
+———. _Go When You See the Green Man Walking_. London: M. Joseph, 1970.
+
+———. _Gold: A Poem_. Aldington [Kent]: Hand and Flower Press, 1954.
+
+———. “His Name in the Record.” _The Times Literary Supplement_, June 10, 1960.
+
+———. “His Name in the Record.” In _The Modern Movement: A TLS Companion_, edited by John Gross. The University of Chicago Press, 1993.
+
+———. “Histoire Palimpseste.” In _Interprétation et Surinterprétation_, by Umberto Eco. Formes Sémiotiques. Paris: Presses universitaires de France, 1996.
+
+———. “Historical Genres/Theoretical Genres: A Discussion of Todorov on the Fantastic.” _New Literary History_ 8, no. 1 (October 1, 1976): 145–58. https://doi.org/10.2307/468618.
+
+———. “How Far de Lonh?” _The Times Literary Supplement_, April 14, 1966.
+
+———. ICA talks - Christine Brooke-Rose and A. S. Byatt, in conversation. Interview by A. S. Byatt, September 9, 1986. http://sounds.bl.uk/Arts-literature-and-performance/ICA-talks/024M-C0095X0233XX-0100V0.
+
+———. “Id Is, Is Id?” In _Discourse in Psychoanalysis and Literature_, by Shlomith Rimmon-Kenan. University Paperbacks. London ; New York: Methuen, 1987.
+
+———. “Ill Locations.” _Review of Contemporary Fiction_ 8, no. 3 (1988): 67–81.
+
+———. “Ill Locutions.” In _Narrative in Culture: The Uses of Storytelling in the Sciences, Philosophy, and Literature_, by Cristopher Nash. Warwick Studies in Philosophy and Literature. London ; New York: Routledge, 1990.
+
+———. “Ill Logics of Irony.” In _New Essays on The Red BAdge of Courage_, 129–46. Cambridge: Cambridge University Press, 1986.
+
+———. “Ill Wit and Good Humour: Women’s Comedy and the Canon.” In _Comparative Criticism_, by E.S. Shaffer. Comparative Criticism 10. Cambridge University Press, 1989.
+
+———. “Ill Wit and Sick Tragedy : Jude the Obscure.” In _Alternative Hardy_, by Lance St John Butler. Basingstoke, Hampshire: Macmillan, 1989.
+
+———. “Illicitations.” _Review of Contemporary Fiction_ 9, no. 3 (1989): 101–9.
+
+———. “Illiterations.” In _Breaking the Sequence_, by Ellen G. Friedman and Miriam Fuchs, 55–71. Princeton University Press, 1992.
+
+———. “Illiterazioni.” In _Letteratura E Femminismi: Teorie Della Critica in Area Inglese E Americana_, by Maria Teresa Chialant and Eleonora Rao, 1. ed. italiana. Leone E L’unicorno 11. Napoli: Liguori, 2000.
+
+———. “Illusions of Parody.” _Amerikastudien, American Studies_ 30, no. 2 (1985): 225–33.
+
+———. “Imitations Are Proof of New Writing’s Power.” _The Times_, May 31, 1977.
+
+———. _Introduction to “In Transit: An Heroi-Cyclic Novel” by Brigid Brophy_. 1st Dalkey Archive ed. Chicago, Ill: Dalkey Archive Press, 2002.
+
+———. _Invisible Author : Last Essays_. Columbus: Ohio State University Press, 2002.
+
+———. _Kärlekens språk [The Languages of Love]_. Translated by Hillevi Blomberg. Stockholm; New York: Sven-Erik Berghs Bokförlag, 1958.
+
+———. “L’imagination Baroque de Robbe-Grillet.” Edited by Barbara Bray and John Herbert Matthews. _Revue Des Lettres Modernes_, no. 94–99 (1964): 129–52.
+
+———. “La Dévaluation Du Livre.” _Le Monde_, January 24, 1968.
+
+———. “La Syntaxe et Le Symbolisme Dans La Poésie de Hopkins.” _Europe_ 25, no. 17 (1947): 30–39.
+
+———. “Lady Precious Stream.” _London Magazine_, June 1964, 80–86.
+
+———. “Lay Me by Aurelie : An Examination of Pound’s Use of Historical and Semi-Historical Sources.” In _New Approaches to Ezra Pound: A Co-Ordinated Investigation of Pound’s Poetry and Ideas_, edited by Eva Hesse. Berkeley: University of California Press, 1969.
+
+———. _Le membre fantôme_. Translated by Bernard Hoepffner. Grenoble: Cent pages, 1990.
+
+———. “Lettres d’Angleterre.” _Nouvelle Revue Française_, June 1967.
+
+———. _Life, End of_. Manchester: Carcanet, 2006.
+
+———. “Making It New.” _Observer_, October 2, 1966.
+
+———. “Medium Loser. Small Winner.” In _A Coin Has Two Sides: A Collection of Double Stories on the Theme of Love_, by James Turner. London: Cassell, 1967.
+
+———. “Metaphor in Paradise Lost: A Grammatical Analysis.” In _Language and Style in Milton: A Symposium in Honor of the Tercentenary of Paradise Lost_, edited by John T. Shawcross and Ronald David Emma, 253–303. New York: Frederick Ungar, 1967.
+
+———. “Mood of the Month - XI.” _London Magazine_, September 1959, 45–50.
+
+———. “Mourning.” _Truth_ 1, no. 386 (December 6, 1957).
+
+———. news of the Day Programme Four: Lorna Sage Talks to Christine Brooke-Rose. University of East Anglia Video Archive, January 9, 1990.
+
+———. _Next_. Manchester: Carcanet, 1998.
+
+———. “Notes on the Metre of Auden’s ‘The Age of Anxiety.’” _Essays in Criticism_ XIII (1963): 253–64.
+
+———. “On Terms.” In _The Fourth Ghost Book_, by James Turner. London: Barrie &amp; Rockliff, 1965.
+
+———. “Once Upon a Time.” _Truth_, no. 479 (April 27, 1956).
+
+———. _Out_. London: M. Joseph, 1964.
+
+———. “Out of the Past.” _Spectator_, June 12, 1964.
+
+———. Out’s Out - It’s In to be Anti. The Guardian, November 7, 1964.
+
+———. “Palimprestes en paragrammes : une phrase narrative bien cachée.” _Caliban_, no. 22 (1985): 87–99.
+
+———. “Palimpsest History.” In _Interpretation and Over-Interpretation_, by Umberto Eco and Richard Rorty, 125–38. Cambridge: Cambridge University Press, 1992.
+
+———. “Paris Letter: All the City’s a Stage.” _Spectator_, July 24, 1976.
+
+———. “Paris Letter: Dramatics.” _Spectator_, February 28, 1976.
+
+———. “Paris Letter: Ganging Up.” _Spectator_, March 27, 1976.
+
+———. “Paris Letter: Le Pop.” _Spectator_, June 12, 1976.
+
+———. “Paris Letter: Tricolore Tape.” _Spectator_, May 22, 1976.
+
+———. “Piers Plowman in the Modern Wasteland.” In _Ezra Pound Perspectives: Essays in Honor of His Eightieth Birthday_, by Noel Stock. Chicago: H. Regnery Co, 1965.
+
+———. “PN Review Online - Remaking - Christine Brooke-Rose - PN Review 113.” _PN Review_ 23, no. 3 (1997). http://www.pnreview.co.uk/cgi-bin/scribe?item_id=909.
+
+———. “Problématique de La Réception.” _Revue Française Des Études Américaines_, November 1986, 393–98.
+
+———. “Quelques Remarques D’ouverture (pour Placer Le Débat Critique Dans Un Contexte Historique).” In _Théorie de La Littérature et Enseignement: Colloque Des 26 et 27 Avril 1980, [Paris VIII/British Council]_, edited by Renaud Zuppinger. Saint-Denis [France]: Service de la Recherche de l’Université de Paris VIII, 1981.
+
+———. Reclaim the Brain. Edinburgh Review 84, 1990.
+
+———. “Red Rubber Gloves.” In _Tales of Unease_, by John Frederick Burke. London: Pan Books, 1966.
+
+———. _Remake_. Manchester: Carcanet, 1996.
+
+———. “Responses.” _Truth_ 1, no. 196 (October 18, 1957).
+
+———. “Return from Avilion.” _The Times Literary Supplement_, December 25, 1959.
+
+———. “Round and Round the Jakobson Diagram: A Survey.” _Hebrew University Studies in Literature_ 8, no. 2 (1980): 153–82.
+
+———. “Samuel Beckett and the Anti-Novel.” _London Magazine_, December 1958, 38–46.
+
+———. “Self-Confrontation and the Writer.” _New Literary History_ 9, no. 1 (1977): 129–36.
+
+———. “Southey Ends His Song.” _The Times Literary Supplement_, April 1, 1960.
+
+———. _Stories, Theories, and Things_. Cambridge; New York: Cambridge University Press, 1991.
+
+———. “Stories, Theories, and Things.” _New Literary History_ 21, no. 1 (October 1, 1989): 121–31. https://doi.org/10.2307/469289.
+
+———. _Subscript_. Manchester: Carcanet, 1999.
+
+———. _Such_. London: M. Joseph, 1966.
+
+———. _Textermination : A Novel_. New York: New Directions Books, 1992.
+
+———. “The American Literary Scene: Writers in Search of a Community.” _Observer_, April 30, 1961.
+
+———. _The Christine Brooke-Rose Omnibus: Four Novels._ Manchester: Carcanet, 1986.
+
+———. “The Concept of Ambiguity - The Example of James by Shlomith Rimmon.” _Poetics Today_ 1, no. 1/2 (October 1, 1979): 397–402. https://doi.org/10.2307/1772054.
+
+———. “The Critic’s Eye.” _The Times Literary Supplement_, March 20, 1959.
+
+———. _The Dear Deceit : A Novel_. London: Secker &amp; Warburg, 1960.
+
+———. “The Dissolution of Character in the Novel.” In _Reconstructing Individualism : Autonomy, Individuality, and the Self in Western Thought_, by Thomas Heller. Stanford Calif.: Stanford University Press, 1986.
+
+———. “The Evil Ring: Realism and the Marvelous.” _Poetics Today_ 1, no. 4 (July 1, 1980): 67–90. https://doi.org/10.2307/1771887.
+
+———. “The Five Senses.” _Whidow_, no. 9 (1956): 20–21.
+
+———. “The Foot.” In _The Unlikely Ghosts: A Collection of Twelve Ghost Stories_, by James Turner. London: Cassell, 1967.
+
+———. “The Isle of Reil.” _Botteghe Oscure_, no. 21 (1958): 101–5.
+
+———. _The Languages of Love_. London: Secker &amp; Warburg, 1957.
+
+———. _The Languages of Love_. VerbivoraciousPress, 2014.
+
+———. “The Lunatic Fringe.” _The Times Literary Supplement_, August 17, 1956.
+
+———. “The Mickiewicz Centenary.” _Tablet_, November 26, 1955.
+
+———. _The Middlemen: A Satire_. London: Secker &amp; Warburg, 1961.
+
+———. “The Readerhood of Man.” In _The Reader in the Text: Essays in Audience and Interpretation_, by Susan E. Suleiman, 120–48. Princeton, NJ: Princeton University Press, 1980.
+
+———. _The Snow Goose and Other Stories_. Harlow: Longman, 1987.
+
+———. “The Squirm of the True I: An Essay in Non-Methodology.” _Poetics and Theory of Literature_ 1, no. 2 (1976): 265–94.
+
+———. “The Squirm of the True II: The Long Glasses.” _Poetics and Theory of Literature_ 1, no. 3 (1976): 513–46.
+
+———. “The Squirm of the True III: Surface Structure in Narrative.” _Poetics and Theory of Literature_ 2, no. 3 (1977): 517–62.
+
+———. _The Sycamore Tree_. New York: Norton, 1959.
+
+———. “The Symbolic Rose by Barbara Seward.” _The Modern Language Review_ 56, no. 2 (April 1, 1961): 235. https://doi.org/10.2307/3721910.
+
+———. “The Troglodyte.” In _Voices_, by Robert Rubens. London: M. Joseph, 1963.
+
+———. “The Use of Metaphor in Some Old French and Middle English Lyrics and Romances.” University College London, 1955.
+
+———. “The Vanishing Author.” _Observer_, February 12, 1961.
+
+———. “The Voice of Eternity.” _The Times Literary Supplement_, June 17, 1955.
+
+———. “The World A Catechumen.” _Botteghe Oscure_, no. 19 (1958): 123–33.
+
+———. “Théorie Des Genres: La Science-Fiction.” In _Poétique(s): Domaine Anglais_, by Alain Bony. Lyon: Presses Universitaires de Lyon, 1983.
+
+———. _Thru_. London: H. Hamilton, 1975.
+
+———. “To My Mother, Taking the Veil.” _London Magazine_, no. 61 (January 25, 1963).
+
+———. “Today the Acupuncturist.” _The Times Literary Supplement_, January 25, 1963.
+
+———. _Tra: romanzo_. Translated by Massimo Ferretti. Milano: Feltrinelli, 1971.
+
+———. “Transgressions: An Essay-Say on the Novel Novel Novel.” _Contemporary Literature_ 19, no. 3 (July 1, 1978): 378–407. https://doi.org/10.2307/1208276.
+
+———. “Un Poème Sur Tout.” _Quinzaine Littéraire_ 16, no. 31 (May 1986): 5–6.
+
+———. “[Unknown].” In _The Tiger Garden: A Book of Writers’ Dreams_, by Nicholas Royle. London ; New York, NY: Serpent’s Tail, 1996.
+
+———. _Verbivore_. Manchester: Carcanet, 1990.
+
+———. “Viewpoint.” _The Times Literary Supplement_, June 1, 1973.
+
+———. “Whatever Happened to Narratology?” _Poetics Today_ 11, no. 2 (July 1, 1990): 283–93. https://doi.org/10.2307/1772617.
+
+———. “Where Do We Go From Here?” _Granta_, no. 3 (1980): 161–88.
+
+———. “Where Have All the Lovers Gone?” _London Magazine_, June 1964, 80–86.
+
+———. “Woman as a Semiotic Object.” _Poetics Today_ 6, no. 1/2 (January 1, 1985): 9–20. https://doi.org/10.2307/1772118.
+
+———. Woman’s Hour. BBC Radio 4, September 25, 1984.
+
+———. Writer out on a Limb. Scotsman, April 17, 1965.
+
+———. _Xorandor_. Manchester [Greater Manchester]: Carcanet, 1986.
+
+———. _Xorandor_. Translated by Bernard Hoepffner. Hors Collection. Cent pages, 1989.
+
+Brooke-Rose, Christine, and Joseph Andrew Darlington. _The Dear Deceit_. VerbivoraciousPress, 2014.
+
+Brooke-Rose, Christine, and Nicolas Tredell. _Xorandor/Verbivore_. VerbivoraciousPress, 2014.
+
+Brooke-Rose, Christine, and Joanna Walsh. _Go When You See the Green Man Walking_. Verbivoraciouspress, 2014.
+
+Cambiaghi, Mara. “Christine Brooke-Rose’s Routes of Belonging : Remake.” _SPELL : Swiss Papers in English Language and Literature_ 19 (2007). https://doi.org/10.5169/seals-100055.
+
+Canepari-Labib, Michela. “The Deconstruction of Racial Identity in Christine Brooke-Rose’s Out.” _Annuli Anglistica_ 4, no. 1 (2000): 161–89.
+
+———. _Word-Worlds Language, Identity and Reality in the Work of Christine Brooke-Rose_. Oxford; New York: P. Lang, 2002. http://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=151566.
+
+Carpi, Daniela. _L’ansia Della Scrittura: Parola E Silenzio Nella Narrativa Inglese Contemporanea_. 1. ed. Leone E L’unicorno 2. Napoli: Liguori, 1995.
+
+Caserio, Robert L. “Mobility and Masochism: Christine Brooke-Rose and J. G. Ballard.” _Novel: A Forum on Fiction_ 21, no. 2/3 (January 1, 1988): 292–310. https://doi.org/10.2307/1345497.
+
+Darlington, Joseph. “A Non-Euclidean Novel: Christine Brooke-Rose’s Such and the Space-Age Sixties.” _Journal of Modern Literature_ 40, no. 2 (Winter 2016): 147–64. https://doi.org/10.2979/jmodelite.40.2.09.
+
+———. “The Composition of Christine Brooke-Rose’s Thru: An Afterlife of May ’68.” _Journal of European Studies_ 45, no. 1 (March 2015): 49–64. https://doi.org/10.1177/0047244114553769.
+
+———. “Truth, Death and Memory in Christine Brooke-Rose’s Autobiographical Writings.” _Textual Practice_, December 8, 2017, 1–19. https://doi.org/10.1080/0950236X.2018.1413029.
+
+Egger-Gajardo, Stephanie. _Das Prinzip Unentrinnbarkeit: Heteronormativität in Werken von Angela Carter und Christine Brooke-Rose_. Würzburg: Königshausen &amp; Neumann, 2008.
+
+Ferris, Natalie. “Christine Brooke-Rose: The Great British Experimentalist You’ve Never Heard of.” _The Guardian_, March 23, 2012. http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose.
+
+———. “‘I Think I Preferred It Abstract’: Christine Brooke-Rose and Visuality in the New Novel.” _Textual Practice_, December 11, 2017, 1–20. https://doi.org/10.1080/0950236X.2018.1413034.
+
+———. “‘Ludic Passage’ : Abstraction in Post-War British Literature, 1945-1980.” University of Oxford, 2016. http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.722561.
+
+Forester, G. N., and M. J. Nicholls. _Verbivoracious Festschrift Volume One: Christine Brooke-Rose_. Verbivoraciouspress, 2014.
+
+Frank, Kerstin. _Die Erneuerung des Romans im Zeichen postmoderner Realitätsauffassung: Sinnstiftung und Sinnzerstörung in Christine Brooke-Roses Werk_. Trier: WVT Wissenschaftlicher Verlag Trier, 2008.
+
+Friedman, Ellen G, and Richard Martin. _Utterly Other Discourse: The Texts of Christine Brooke-Rose_. Normal, IL: Dalkey Archive Press, 1995.
+
+Friedman, Ellen G. “Utterly Other Discourses: The Anticanon of Experimental Women Writers from Dorothy Richardson to Christine Brooke-Rose.” _Modern Fiction Studies_ 34, no. 3 (1988).
+
+Friedman, Ellen G., and Miriam Fuchs. “A Conversation with Christine Brooke-Rose By Ellen G. Friedman and Miriam Fuchs | Dalkey Archive Press.” _The Review of Contemporary Fiction_ 9, no. 3 (Fall 1989). https://www.dalkeyarchive.com/a-conversation-with-christine-brooke-rose-by-ellen-g-friedman-and-miriam-fuchs/.
+
+Garrido Gallardo, Miguel Ángel, Tzvetan Todorov, and Christine Brooke-Rose, eds. _Teoría de Los Géneros Literarios_. Serie Lecturas (Madrid, Spain). Madrid: Arco/Libros, 1988.
+
+Gortman, Alex. “On Christine Brooke-Rose.” _Book Forum_ (blog), June 19, 2015. http://www.bookforum.com/pubdates/14718.
+
+Goytisolo, Juan. _Children of Chaos_. Translated by Christine Brooke-Rose. London: Macgibbon &amp; Kee, 1958.
+
+Grech, Marija. “De-Gen(d)eration: Writing Thru the Seriously Playful.” _Word and Text_ 1, no. 2 (2011): 91–100.
+
+Guy, Adam. “‘that’s a Scientific Fact’: Christine Brooke-Rose’s Experimental Turn.” _The Modern Language Review_ 111, no. 4 (October 2016): 936–55. https://doi.org/10.5699/modelangrevi.111.4.0936.
+
+Hawkins, Susan E. “Innovation/History/Politics: Reading Christine Brooke-Rose’s ‘Amalgamemnon.’” _Contemporary Literature_ 32, no. 1 (April 1, 1991): 58–74. https://doi.org/10.2307/1208338.
+
+Hayman, David, Keith Cohen, and Christine Brooke-Rose. “An Interview with Christine Brooke-Rose.” _Contemporary Literature_ 17, no. 1 (January 1, 1976): 1–23. https://doi.org/10.2307/1207554.
+
+Heise, Ursula K. “Effects Predicts Cause. Brooke-Rose’s Out.” In _Chronoschisms: Time, Narrative, and Postmodernism_, 219–55. Cambridge [etc.]: Cambridge University Press, 1997.
+
+Hitchcock, Victor Paul. “The Politics of Experimentalism in the Fiction of Alain Robbe-Grillet, Christine Brooke-Rose, and Wilson Harris,” 1997.
+
+Jeffries, Stuart. “Christine Brooke-Rose Obituary.” _The Guardian_, March 23, 2012. http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1.
+
+Jones, Stephanie. “The ‘difficult’ Relationship: Christine Brooke-Rose, Catholicism and Muriel Spark.” _Textual Practice_, December 14, 2017, 1–19. https://doi.org/10.1080/0950236X.2018.1413038.
+
+———. “The Immensity of Confrontable Selves : The ‘Split Subject’ and Multiple Identities in the Experimental Novels of Christine Brooke-Rose.” Aberystwyth University, 2016.
+
+Jordan, Julia. “Indeterminate Brooke-Rose.” _Textual Practice_, December 9, 2017, 1–17. https://doi.org/10.1080/0950236X.2018.1413039.
+
+Kafalenos, Emma. “Textasy: Christine Brooke-Rose’s Thru.” _International Fiction Review_ 7, no. 1 (1980).
+
+Kermode, Frank. “Flinch Wince Jerk Shirk.” _London Review of Books_, April 6, 2006.
+
+Lawrence, Karen. “Postmodern ‘Vessels of Conception’: Brooke-Rose and Brophy.” In _Penelope Voyages: Women and Travel in the British Literary Tradition_. Reading Women Writing. Ithaca, N.Y: Cornell University Press, 1994.
+
+Lawrence, Karen R. _Techniques for Living: Fiction and Theory in the Work of Christine Brooke-Rose_. 2 edition. Columbus: Ohio State University Press, 2010.
+
+———. “Who Could Have Read the Signs? Politics and Prediction in Gertrude Stein’s ‘Mrs. Reynolds’ and Christine Brooke-Rose’s ‘Amalgamemnon.’” _Western Humanities Review_ 59, no. 2 (FAL 2005): 18–38.
+
+Lecercle, Jean-Jacques. “Une lecture d’Amalgamemnon, de Christine Brooke-Rose.” _Tropisms_, no. 5 (1991).
+
+Lennon, Brian. _In Babel’s Shadow: Multilingual Literatures, Monolingual States_. Minneapolis: University of Minnesota Press, 2010.
+
+Little, Judy. “Amalgamemnon and the Politics of Narrative.” _Review of Contemporary Fiction_ 9 (Fall 1989).
+
+———. “Humoring the Sentence: Women’s Dialogic Comedy.” In _Women’s Comic Visions_, by June Sochen. Detroit: Wayne State University Press, 1991.
+
+———. _The Experimental Self: Dialogic Subjectivity in Woolf, Pym, and Brooke-Rose_. Carbondale: Southern Illinois University Press, 1996.
+
+Martin, Richard. “Just Words on a Page: The Novels of Christine Brooke-Rose.” _Review of Contemporary Fiction_ 9, no. 3 (1989): 110–23.
+
+———. “‘Stepping Stones into the Dark’: Redundancy and Generation in Christine Brooke-Rose’s Amalgamemnon.” In _Breaking the Sequence: Women’s Experimental Fiction_, edited by Ellen G. Friedman and Miriam Fuchs, 177–87, 1988.
+
+McLaughlin, Brian Gerard. “Structures of Identity a Reading of the Self-Provoking Fiction of Christine Brooke-Rose, Bryan Stanley Johnson, Eva Figes, and Paul West,” 1981.
+
+Miller, Tyrus. “Christine Brooke-Rose.” In _British Writers_, edited by George Stade and Carol Howard, Supplement IV:97–118. Charles Scribner’s Sons, 1997.
+
+Pestino, Joseph Francis. “The Reader/writer Affair: Instigating Repertoire in the Experimental Fiction of Susan Sontag, Walter Abish, Réjean Ducharme, Paul West, and Christine Brooke-Rose.” Pennsylvania State University, 1986.
+
+Peterkiewicz, Jerzy. _In the Scales of Fate: An Autobiography_. London ; New York: M. Boyars, 1993.
+
+Pohl, Rebecca. “Selling Difficulty: The Case of Christine Brooke-Rose.” _Textual Practice_, December 15, 2017, 1–17. https://doi.org/10.1080/0950236X.2018.1413046.
+
+Rimmon-Kenan, Shlomith. _A Glance beyond Doubt: Narration, Representation, Subjectivity_. Columbus: Ohio State Univ. Press, 1996.
+
+———. “Ambiguity and Narrative Levels: Christine Brooke-Rose’s Thru.” _Poetics Today_ 3, no. 1 (January 1, 1982): 21–32. https://doi.org/10.2307/1772204.
+
+Robbe-Grillet, Alain. _In the Labyrinth_. Translated by Christine Brooke-Rose. London: Calder and Boyars, 1968.
+
+Rose, Mark. “Reviewed Work: A Rhetoric of the Unreal: Studies in Narrative and Structure, Especially of the Fantastic by Christine Brooke-Rose.” _Comparative Literature_ 36, no. 2 (Spring 1984): 169–71. https://doi.org/10.2307/1770605.
+
+Sage, Lorna. _Moments of Truth: Twelve Twentieth-Century Women Writers_. London: Fourth Estate, 2001.
+
+Sapio Garbero, Maria Del. “A Conversation with Christine Brooke-Rose.” In _British Postmodern Fiction_, edited by Theo D’Haen and Hans Bertens. Amsterdam: Rodopi B.V., 1993.
+
+———. “Between the Frontiers: Polyglottism and Female Definitions of Self in Christine Brooke-Rose.” In _Liminal Postmodernisms: The Postmodern, the (Post-)Colonial, and the (Post-)Feminist_, edited by Hans Bertens and Theo D’Haen. Amsterdam: Rodopi B.V., 1994.
+
+———. _L’assenza e la voce: scena e intreccio della scrittura in Christina Rossetti, May Sinclair e Christine Brooke-Rose_. Napoli: Liguori, 1991.
+
+———. “The Fictionality of Fiction: Christine Brooke-Rose’s Sense of Absence.” In _British Postmodern Fiction_, edited by Theo D’Haen and Hans Bertens. Amsterdam: Rodopi B.V., 1993.
+
+Sauvy, Alfred. _Fertility and Survival: Population Problems from Malthus to Mao Tse Tung_. Translated by Christine Brooke-Rose. New York: Criterion Books, 1960.
+
+Schopohl, Eva. “(De-)Constructing Translingual Identity. Interpreters as Literary Characters in Simultan by Ingeborg Bachmann and Between by Christine Brooke-Rose.” _TRANS-_, no. 6 (2008). http://trans.revues.org/283.
+
+Seed, David. “Christine Brooke-Rose Interviewed.” _Textual Practice_, no. 7 (Summer 1993).
+
+Smith, Ali. “The Armchair, the World.” _The Times Literary Supplement_, March 24, 2006.
+
+Sweeney, Carole. “‘Groping inside Language’: Translation, Humour and Experiment in Christine Brooke-Rose’s Between and Brigid Brophy’s In Transit.” _Textual Practice_, January 24, 2018, 1–16. https://doi.org/10.1080/0950236X.2018.1413047.
+
+The Times Literary Supplement. _TLS Voices: Christine Brooke-Rose_. TLS Voices. Accessed June 26, 2015. https://soundcloud.com/the-tls/christine-brooke-rose.
+
+Vechinski, Matthew James. “Christine Brooke-Rose and the Science of Fiction: Rethinking Conceptual Writing and Artificial Intelligence in Xorandor.” _Critique: Studies in Contemporary Fiction_ 57, no. 4 (June 8, 2016): 448–63. https://doi.org/10.1080/00111619.2015.1091288.
+
+Vidaurre, Rodrigo. “‘Is There a Story? That’s Another Story.’ Reading Christine Brooke-Rose’s Out as an Indictment of Realism.” _AAA-Arbeiten Aus Anglistik Une Amerikanistik_ 39, no. 1 (2014): 21–41.
+
+Walsh, Joanna. “The Anti-Canon: Christine Brooke-Rose – an Algorithmic Appreciation,” January 31, 2014. http://www.influxpress.com/the-anti-canon-christine-brooke-rose-an-algorithmic-appreciation-by-joanna-walsh/.
+
+White, Glyn. “Christine Brooke-Rose : Motes, Beams and the Horse’s Mouth.” _Textual Practice_, 2018. https://doi.org/https://doi.org/10.1080/0950236X.2018.1413049.
+
+———. “‘You Are Here’: Reading and Representation in Christine Brooke-Rose’s Thru.” _Poetics Today_ 23, no. 4 (2002): 611–31.
+
+Williamson, Andrew. “Invisible Author? Christine Brooke-Rose’s Absent Presence.” _Contemporary Womens Writing_ 4, no. 1 (March 2010): 55–72. https://doi.org/10.1093/cww/vpp008.
+
+———. “Literature’s Ghosts. Realism and Innovation in the Novels of Christine Brooke-Rose and A. S. Byatt.” University of Queensland, 2008. http://espace.library.uq.edu.au/view/UQ:177169.
+
+Zouaoui, Karen. “Sometimes it is sufficient to disimagine » (Out, 185) : penser l’engagement avec Christine Brooke-Rose.” _Études britanniques contemporaines_, no. 50 (April 2016). http://journals.openedition.org/ebc/3096.
+

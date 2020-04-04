@@ -4,7 +4,7 @@ title = "Amazon 2017"
 description = "Amazon achète Whole Foods (et les évolutions de la consommation)"
 tags = ["business", "tech"]
 type = "post"
-image = "/img/amazon2017.png"
+feature_image = "/img/amazon2017.png"
 +++
 
 Qu'est-ce qu'un supermarché? Un endroit où le client doit faire le travail d'aller chercher les produits qui l'intéressent en rayon, sans avoir le choix des quantités, en échange d'une baisse des prix et d'une variété de stock importante. Par opposition à la situation _avant_ les supermarchés, où le client fait appel à du personnel qui va chercher en magasin un produit, et lui en sert la quantité souhaitée. Confer _Au Bonheur des Dames_, et aussi les courses de ma grand-mère, qui passait au boucher, puis au crémier, au boulanger, etc.

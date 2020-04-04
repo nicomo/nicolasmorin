@@ -4,7 +4,7 @@ date = 2019-01-06T14:50:11+01:00
 description = "Music I listened to in the past year"
 tags = [ "music" ]
 type = "post"
-image = "img/dan-auerbach.png"
+feature_image = "/img/dan-auerbach.png"
 +++
 
 With the caveat that my last.fm account was disconnected in April and I didn't realize it before the beginning of May, I have a few stats about the music I listened to in 2018:

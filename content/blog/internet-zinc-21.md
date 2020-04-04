@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez - 03/09/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #21"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. com·mod·i·ty

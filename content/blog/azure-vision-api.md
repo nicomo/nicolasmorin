@@ -4,7 +4,7 @@ date= 2018-01-17T12:09:18+01:00
 description = "Playing around with the Azure Vision API to automagically index photographs"
 tags = [ "microsoft", "machine learning", "vision", "golang" ]
 type = "post"
-image = "img/manioc-okoume.jpg"
+feature_image = "/img/manioc-okoume.jpg"
 +++
 
 Following an [experiment with the Google Cloud Speech API](/blog/speechapitests/), where I tried to extract information from sound files - transcripts of speech, keywords, etc. - I thought I'd try another Machine Learning API, with the same overarching goal but a different project.
@@ -17,7 +17,7 @@ The project this time is to use Microsoft Azure to analyze images, and see what 
 
 There's no specific Golang documentation on the Azure Cognitive Sciences site yet, but there's [documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/Computer-vision/) for several other languages, such as Python, and these are REST API calls, fairly straightforward to work with.
 
-For each image, you should generate a request of the form _https://[location].api.cognitive.microsoft.com/vision/v1.0/analyze[?visualFeatures][&details][&language]_
+For each image, you should generate a request of the form 'https://[location].api.cognitive.microsoft.com/vision/v1.0/analyze[?visualFeatures][&details][&language]'
 
 The first part is just the base URL for the service. You can point your program at, say, _westcentralus.api.cognitive.microsoft.com_
 
@@ -38,7 +38,7 @@ visualFeatures is a comma-separated list of keywords listing the services you wa
 > Adult - detects if the image is pornographic in nature (depicts nudity or a sex act). Sexually suggestive content is also detected.
 
 The same holds for the oddly-named _details_ parameter:
-    
+
 > Celebrities - identifies celebrities if detected in the image.
 >
 > Landmarks - identifies landmarks if detected in the image.
@@ -49,16 +49,16 @@ You also have to insert a minimum of information in the http header.
 
 _Ocp-Apim-Subscription-Key_ is a string with your subscription key, which provides access to the API. It's obviously a required param.
 
-The _Content-Type_ can be : 
+The _Content-Type_ can be :
 
 - either _application/json_ if, in the http body, you provide a url to the image to analyse, like so: {"url":"http://example.com/images/test.jpg"}
-- or _application/octet-stream_ if, in the http body, you upload the image as a raw image binary 
+- or _application/octet-stream_ if, in the http body, you upload the image as a raw image binary
 
 ## Test with one image
 
 ### Analyze
 
-The image we are using is not very good: a grainy scan of an old black and white picture in a book. 
+The image we are using is not very good: a grainy scan of an old black and white picture in a book.
 
 ![Archival picture: cutting an Okoumé tree](/img/manioc-okoume.jpg "Archival picture: cutting an Okoumé tree")
 

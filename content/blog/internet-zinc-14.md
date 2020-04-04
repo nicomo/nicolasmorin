@@ -4,7 +4,7 @@ date = 2016-05-14T15:14:03+02:00
 description = "Internet cette semaine comme si vous y étiez - 14/05/2016"
 tags = [ "internetzinc" ]
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. Sonic Pi

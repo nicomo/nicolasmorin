@@ -1,8 +1,8 @@
 +++
 date = "2016-05-02T17:14:45+02:00"
 title = "99 books"
-menu = "main"
 description = "A personal literary canon in 100 x 100 px, black & white icons."
+draft = true
 +++
 
 A personal literary canon in 100 x 100 px, black & white icons.

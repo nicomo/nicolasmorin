@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez - 15/10/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #27"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. Blockchain

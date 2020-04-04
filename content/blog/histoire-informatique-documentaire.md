@@ -4,7 +4,7 @@ title = "Une histoire de l'informatique documentaire"
 description = "Une histoire personnelle de l'informatique documentaire dans les BU françaises (1995–2015) "
 tags = ["informatique", "bibliothèques", "histoire"]
 type = "post"
-image = "/img/histInfoDoc.png"
+feature_image = "/img/histInfoDoc.png"
 +++
 
 _Caveat lector : il ne s’agit pas d’une histoire, puisque je n’ai fait aucun effort de recherche ou de documentation, ce sont simplement mes souvenirs de la période et du sujet._

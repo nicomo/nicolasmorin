@@ -4,7 +4,7 @@ description = "Internet cette année comme si vous y étiez - 19/11/2016"
 tags = [ "internetzinc", "machine learning", "securité", "ethnologie", "musique" ]
 title = "Internet zinc #32"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 
 +++
 

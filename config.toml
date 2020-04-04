@@ -1,24 +1,27 @@
 baseurl         = "/"
-theme           = "casper-two"
+theme           = "casper3"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 10
+Title       = "Nicolas Morin (@nicomo)"
 #SectionPagesMenu = "main"
+# background       = "/img/config-cover-home.jpeg"
 
 [params]
-  title       = "Nicolas Morin (@nicomo)"
-  subtitle    = "I tinker with code, texts and ideas. Parfois en Français. 🕶"
+  Title       = "Nicolas Morin (@nicomo)"
 
-  cover       = "img/config-cover-home.jpeg"
-  description = "Personal web site for Nicolas Morin, a.k.a. @nicomo"
+
+  description = "I tinker with code, texts and ideas. Parfois en Français. 🕶"
   metaDescription = ""
   googleAnalytics = "UA-108664-17"
   customCSS = []
   RSSLink = ""
 
-  twitterName = "nicomo"
+  mainSections = ["post"]
+
+  twitter = "nicomo"
   fbName = ""
-  githubName = "nicomo"
+  github = "nicomo"
 
   logo = ""
   orgName = ""
@@ -33,8 +36,8 @@ paginate        = 10
 
   pageNotFoundTitle = "404 - Page not found"
 
-  #casper or caspertwo
-  singleViewStyle = "casper"
+  #casper3
+  singleViewStyle = "casper3"
 
 [permalinks]
   post = ":slug/"
@@ -44,7 +47,3 @@ paginate        = 10
   url = "/"
   weight = 200
 
-[[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 180

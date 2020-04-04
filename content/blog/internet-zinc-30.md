@@ -4,7 +4,7 @@ description = "Internet cette année comme si vous y étiez - 05/11/2016"
 tags = ["internetzinc", "design", "DNS", "publicité", "UX", "UI"]
 title = "Internet zinc #30"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. L'industrie technologique n'existe pas

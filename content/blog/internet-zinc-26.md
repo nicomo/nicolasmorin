@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez - 08/10/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #26"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 Pour cause de déplacements professionnels (ceux de ma femme puis les miens), et de semaines plus chargées qu’habituellement, cette semaine et, si possible, la semaine prochaine, je vous envoie deux lettres au format plus libre que d’habitude. Des idées jetées sur le clavier.

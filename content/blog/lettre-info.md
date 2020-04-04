@@ -4,7 +4,7 @@ date = 2019-06-07T17:14:31+02:00
 description = "Quelques leçons tirées de la publication de Doc. - voir aussi"
 tags = [ "bibliothèques" ]
 type = "post"
-image = "img/lettre-info.jpg"
+feature_image = "/img/lettre-info.jpg"
 +++
 
 Depuis janvier je gère la publication d'une lettre d'information professionnelle, hebdomadaire, "Doc. - Voir aussi", sur des sujets de documentation.

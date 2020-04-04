@@ -4,7 +4,7 @@ date = "2018-03-31T10:19:46+01:00"
 description = "A Do-It-Yourself NAS using a headless Raspeberry Pi and a USB HD"
 tags = [ "diy", "raspberrypi" ]
 type = "post"
-image = "img/diy-nas.png"
+feature_image = "/img/diy-nas.png"
 +++
 
 This isn't much of an article, the information here is quite readily available elsewhere, but I'm just documenting how I set up a Raspeberry Pi 3 with a removable hard drive to work as a DIY NAS at home. Just so I can come back to it if I have to do it again.

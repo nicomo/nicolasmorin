@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez - 25/06/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #20"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. Le Wordpress de la Réalité Virtuelle?

@@ -4,7 +4,7 @@ date = 2018-08-19T17:05:51+02:00
 description = "Building a mock web app to learn the ins & outs of the GoBuffalo web framework"
 tags = [ "golang", "gobuffalo",  ]
 type = "post"
-image = "img/kumano-kodo.jpg"
+feature_image = "/img/kumano-kodo.jpg"
 +++
 
 Two years ago I started [learning the Go Programming language](https://www.nicolasmorin.com/blog/learning-go/). I'm not a professional dev and so couldn't devote as much time to it as I would have liked, but I did continue to learn and got better at it.

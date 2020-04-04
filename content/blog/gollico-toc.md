@@ -4,7 +4,7 @@ date = "2018-02-11T10:19:46+01:00"
 description = "A Go Client for the Gallica APIs. #1. Table of Contents"
 tags = [ "gallica", "golang", "gollico" ]
 type = "post"
-image = "img/gallica-toc.png"
+feature_image = "/img/gallica-toc.png"
 +++
 
 The _[Bibliothèque nationale de France](http://www.bnf.fr/)_ (BnF) has opened APIs for a number of services, including their [Gallica](http://gallica.bnf.fr/) digital library, which contains 4.3 millions of documents: digitized books, maps, photos, musical scores, etc. from the collections of the BnF and partner libraries.

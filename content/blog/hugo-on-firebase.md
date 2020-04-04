@@ -4,7 +4,7 @@ title = "Hugo on Firebase"
 description = "How to deploy a gohugo site on firebase"
 tags = [ "golang", "gohugo", "firebase" ]
 type = "post"
-image = "img/hugo-logo.png"
+feature_image = "/img/hugo-logo.png"
 +++
 
 This is a short post to document how I deployed my [Hugo](https://gohugo.io) static website to Google [Firebase](https://firebase.google.com) hosting. I do not cover Hugo itself: see their [Quickstart guide](https://gohugo.io/overview/quickstart/).

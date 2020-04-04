@@ -4,7 +4,7 @@ title = "Future library"
 description = "Why I bought a Future Library Certificate, 2014 - 2114"
 tags = [ "art", "libraries", "norway", "books" ]
 type = "post"
-image = "img/Katie_Paterson_Future_Library.jpg"
+feature_image = "/img/Katie_Paterson_Future_Library.jpg"
 +++
 
 In the early 1990s, when I was a student, I visited an art exhibition with photographs by [Sugimoto Hiroshi](https://www.sugimotohiroshi.com). It was from a series called _Seascapes_. The photographs were all in black and white. They had been taken around the world with a view camera, but all showed the same thing: the sea and the sky, with the line of the horizon cutting the picture in two halves. Sometimes it was almost night, sometimes the horizon disappeared in fog, sometimes it was as thin and clear-cut as a pencil line on a white paper.

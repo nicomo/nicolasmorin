@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y 22/10/2016"
 tags = ["internetzinc", "programmation"]
 title = "Internet zinc #28"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 Cette semaine j’étais en déplacement : j’ai manqué de temps et, surtout, j’ai manqué de connexion internet suffisante pour faire mon travail habituel de lecture, synthèse, etc. Du coup pour cette semaine, exceptionnellement, je vous propose une édition différence d’Internet Zinc, que j’écris dans mon avion de retour à la maison — sans connexion — et qui n’a qu’un seul sujet : QU’EST-CE QU’UN PROGRAMME ?

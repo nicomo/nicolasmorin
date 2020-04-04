@@ -4,7 +4,7 @@ date = 2018-01-31T13:48:42+01:00
 description = "Playing around with Machinebox to automagically detect faces in photographs"
 tags = [ "machinebox", "machine learning", "golang"  ]
 type = "post"
-image = "img/machinebox.png"
+feature_image = "/img/machinebox.png"
 +++
 
 Following an [experiment with the Google Cloud Speech API](/blog/speechapitests/), and another with the [Azure Vision API](/blog.azure-vision-api/), I continue my experiments in Machine Learning for archival materials with [Machine Box](https://machinebox.io/).

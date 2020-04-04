@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez - 10/09/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #22"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. AlphaGo trie les concombres

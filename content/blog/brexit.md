@@ -4,7 +4,7 @@ description = "How the Brexit debate echoes the debates of the 1950s and 1960s"
 tags = ["brexit", "politics", "history"]
 title = "Brexit 1956"
 type = "post"
-image = "img/brexit1956.jpg"
+feature_image = "/img/brexit1956.jpg"
 
 +++
 

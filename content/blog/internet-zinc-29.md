@@ -4,7 +4,7 @@ description = "Internet cette semaine, comme si vous y étiez — 29/10/2016
 tags = ["internetzinc", "IA", "Data Science", "photographie", "Shenzen"]
 title = "Internet zinc #29"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. Data Scientist : en fait.

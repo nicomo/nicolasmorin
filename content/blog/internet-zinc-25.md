@@ -5,7 +5,7 @@ description = "Internet cette semaine, comme si vous y étiez - 01/10/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #25"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. DDoS — exemple

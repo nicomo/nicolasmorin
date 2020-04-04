@@ -4,7 +4,7 @@ description = "Internet cette année comme si vous y étiez - 12/11/2016"
 tags = ["internetzinc"]
 title = "Internet zinc #31"
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 ## 1. Oh, la belle bleue ! Ah non, tiens, c’est rouge…

@@ -4,7 +4,7 @@ title = "Internet zinc #33"
 description = "Internet en 2017 comme si vous y étiez"
 tags = [ "internetzinc", "twitter", "politique", "édition", "réalité augmentée", "accessibilité", "futur" ]
 type = "post"
-image = "img/iz-banner.png"
+feature_image = "/img/iz-banner.png"
 +++
 
 J’étais parti, début 2016, sur un rythme d’un épisode d’[Internet Zinc](/tags/internetzinc/) par semaine. Après 30+ épisodes, je trouvais que je commençais à me répéter, et l’élection de Trump en novembre a achevé de me couper les pattes. Ensuite j’ai eu des problèmes de santé, fait un déménagement transatlantique, tout ça... Pas pour me chercher des excuses, mais disons que 32 lettres en 2016, c'était trop.
