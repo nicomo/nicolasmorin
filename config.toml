@@ -1,5 +1,5 @@
 baseurl         = "/"
-theme           = "casper3"
+theme           = "hugo-casper3"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 10
