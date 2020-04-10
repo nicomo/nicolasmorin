@@ -11,8 +11,10 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
-    <!-- nicomo : adds template for Open Graph metadata -->
+    <!-- nicomo: adds template for Open Graph metadata -->
     {{ template "_internal/opengraph.html" . }}
+    <!-- nicomo: adds template for Google Analytics -->
+    {{ template "_internal/google_analytics.html" . }}
 
     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" />

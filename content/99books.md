@@ -2,92 +2,158 @@
 date = "2016-05-02T17:14:45+02:00"
 title = "99 books"
 description = "A personal literary canon in 100 x 100 px, black & white icons."
-draft = true
+menu = "main"
 +++
 
-A personal literary canon in 100 x 100 px, black & white icons.
+A personal literary canon in 100 x 100 px, black & white icons. Work in _slooow_ progress (started 2016).
 
-*Work in progress*
+Hover over the icon to see the book title.
 
 ## Icons done
 
-<figure class="books99img"><img src="/img/99books/OneOfUs.png" width="100px" width="100" alt="Åsne Seierstad. One of Us - 2015"><figcaption>Åsne Seierstad. One of Us - 2015</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/HowToBeBoth.png" width="100" alt="Ali Smith. how to be both - 2015"><figcaption>Ali Smith. how to be both - 2015</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/NaissanceDunPont.png" width="100" alt="Maylis de Kerangal. Birth of a Bridge - 2010" title="Maylis de Kerangal. Birth of a Bridge - 2010"/><figcaption>Maylis de Kerangal. Birth of a Bridge - 2010</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheEmperorOfAllMaladies.png" width="100" alt="Siddhartha Mukherjee. The Emperor of All Maladies: A Biography of Cancer - 2010" title="Siddhartha Mukherjee. The Emperor of All Maladies: A Biography of Cancer - 2010 " /><figcaption>Siddhartha Mukherjee. The Emperor of All Maladies: A Biography of Cancer - 2010</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/MemoryChalet.png" width="100" alt="Tony Judt. The Memory Chalet - 2010" title="Tony Judt. The Memory Chalet - 2010 " /><figcaption>Tony Judt. The Memory Chalet - 2010</figcaption></figure>
- <figure class="books99img"><img src="/img/99books/TheCityAndTheCity.png" width="100" alt="China Miéville. The City & the City - 2009" title="China Miéville. The City & the City - 2009" /><figcaption>China Miéville. The City & the City - 2009</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/LifeEndof.png" width="100" alt="Christine Brooke-Rose. Life, End of - 2006" title="Christine Brooke-Rose. Life, End of - 2006" /><figcaption>Christine Brooke-Rose. Life, End of - 2006</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Postwar.png" width="100" alt="Tony Judt. Postwar: A History of Europe Since 1945 - 2005" title="Tony Judt. Postwar: A History of Europe Since 1945 - 2005" /><figcaption>Tony Judt. Postwar: A History of Europe Since 1945 - 2005</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/MilleniumPeople.png" width="100" alt="J.G. Ballard. Millenium People - 2003" title="J.G. Ballard. Millenium People - 2003" /><figcaption>J.G. Ballard. Millenium People - 2003</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/OutStealingHorses.png" width="100" alt="Per Petterson. Out Stealing Horses - 2003" title="Per Petterson. Out Stealing Horses - 2003" /><figcaption>Per Petterson. Out Stealing Horses - 2003</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/UneSaisonDeMachettes.png" width="100" alt="Jean Hatzfeld. Life Laid Bare - 2000 and Machete Season - 2003" title="Jean Hatzfeld. Life Laid Bare - 2000 and Machete Season - 2003" /><figcaption>Jean Hatzfeld. Life Laid Bare - 2000 and Machete Season - 2003</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/PaysageFer.png" width="100" alt="François Bon. Paysage fer - 2000" title="François Bon. Paysage fer - 2000" /><figcaption>François Bon. Paysage fer - 2000</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/please-kill-me.png" width="100" alt="Legs McNeill and Gillian McCain. Please Kill Me: The Uncensored Oral History of Punk - 1997" title="Legs McNeill and Gillian McCain. Please Kill Me: The Uncensored Oral History of Punk - 1997" /><figcaption>Legs McNeill and Gillian McCain. Please Kill Me: The Uncensored Oral History of Punk - 1997</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheBlackBook.png" width="100" alt="Orhan Pamuk. The Black Book - 1990" title="Orhan Pamuk. The Black Book - 1990" /><figcaption>Orhan Pamuk. The Black Book - 1990</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/QuelqueChoseNoir.png" width="100" alt="Jacques Roubaud. Quelque chose noir - 1986" title="Jacques Roubaud. Quelque chose noir - 1986"  /><figcaption>Jacques Roubaud. Quelque chose noir - 1986</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/OldMasters.png" width="100" alt="Thomas Bernhard. Old Masters, a Comedy - 1985" title="Thomas Bernhard. Old Masters, a Comedy - 1985" /><figcaption>Thomas Bernhard. Old Masters, a Comedy - 1985</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/ExercicesSpirituels.png" width="100" alt="Pierre Hadot. Philosophy as a Way of Life - 1981" title="Pierre Hadot. Philosophy as a Way of Life - 1981" /><figcaption>Pierre Hadot. Philosophy as a Way of Life - 1981</figcaption></figure> 
-<figure class="books99img"><img src="/img/99books/APeoplesHistoryOfTheUS.png" width="100" alt="Howard Zinn. A People’s History of the United States - 1980" title="Howard Zinn. A People’s History of the United States - 1980" /><figcaption>Howard Zinn. A People’s History of the United States - 1980</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/LaVieModeEmploi.png" width="100" alt="Georges Perec. Life a User’s Manual - 1978" title="Georges Perec. Life a User’s Manual - 1978" /><figcaption>Georges Perec. Life a User’s Manual - 1978</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/FromageVers.png" width="100" alt="Carlo Ginzburg. The Cheese and the Worms : the cosmos of a sixteenth-century miller - 1976" title="Carlo Ginzburg. The Cheese and the Worms : the cosmos of a sixteenth-century miller - 1976" /><figcaption>Carlo Ginzburg. The Cheese and the Worms : the cosmos of a sixteenth-century miller - 1976</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Foreverwar.png" width="100" alt="Joe Haldeman. The Forever War - 1974" title="Joe Haldeman. The Forever War - 1974" /><figcaption>Joe Haldeman. The Forever War - 1974</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/G.png" width="100" alt="John Berger. G. - 1972" title="John Berger. G. - 1972 " /><figcaption>John Berger. G. - 1972</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/KolymaTales.png" width="100" alt="Varlam Shalamov. Kolyma Tales - 1966" title="Varlam Shalamov. Kolyma Tales - 1966" /><figcaption>Varlam Shalamov. Kolyma Tales - 1966</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Cosmicomics.png" width="100" alt="Italo Calvino. Cosmicomics - 1965" title="Italo Calvino. Cosmicomics - 1965" /><figcaption>Italo Calvino. Cosmicomics - 1965</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Dune.png" width="100" alt="Frank Herbert. Dune - 1965" title="Frank Herbert. Dune - 1965 " /><figcaption>Frank Herbert. Dune - 1965</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Herzog.png" width="100" alt="Saul Bellow. Herzog (1964)" title="Saul Bellow. Herzog (1964)" /><figcaption>Saul Bellow. Herzog (1964)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/ArendtEichmann.png" width="100" alt="Hannah Arendt. Eichmann in Jerusalem - 1963" title="Hannah Arendt. Eichmann in Jerusalem - 1963 " /><figcaption>Hannah Arendt. Eichmann in Jerusalem - 1963</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheGardenOfTheFinziContinis.png" width="100" alt="Giorgio Bassani. The Garden of the Finzi-Continis - 1962" title="Giorgio Bassani. The Garden of the Finzi-Continis - 1962" /><figcaption>Giorgio Bassani. The Garden of the Finzi-Continis - 1962</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Solaris.png" width="100" alt="Stanisław Lem. Solaris - 1961" title="Stanisław Lem. Solaris - 1961" /><figcaption>Stanisław Lem. Solaris - 1961</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/CentMilleMilliardsDePoemes.png" width="100" alt="Raymond Queneau. Hundred Thousand Billion Poems - 1961" title="Raymond Queneau. Hundred Thousand Billion Poems - 1961" /><figcaption>Raymond Queneau. Hundred Thousand Billion Poems - 1961</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/papiersColles.png" width="100" alt="Georges Perros. Papiers collés - 1961–1978" title="Georges Perros. Papiers collés - 1961–1978" /><figcaption>Georges Perros. Papiers collés - 1961–1978</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Paley.png" width="100" alt="Grace Paley. Short Stories (1959–1985)" title="Grace Paley. Short Stories (1959–1985)" /><figcaption>Grace Paley. Short Stories (1959–1985)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/GrossmanLifeFate.png" width="100" alt="Vasily Grossman. Life and Fate - 1959" title="Vasily Grossman. Life and Fate - 1959" /><figcaption>Vasily Grossman. Life and Fate - 1959</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheLeopard.png" width="100" alt="Giuseppe Tomasi di Lampedusa. The Leopard - 1958" title="Giuseppe Tomasi di Lampedusa. The Leopard - 1958" /><figcaption>Giuseppe Tomasi di Lampedusa. The Leopard - 1958</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/GombrowiczDiary.png" width="100" alt="Witold Gombrowicz. Diary - 1957–66" title="Witold Gombrowicz. Diary - 1957–66" /><figcaption>Witold Gombrowicz. Diary - 1957–66</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheCairoTrilogy.png" width="100" alt="Naguib Mahfouz. The Cairo Trilogy - 1956–57" title="Naguib Mahfouz. The Cairo Trilogy - 1956–57" /><figcaption>Naguib Mahfouz. The Cairo Trilogy - 1956–57</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Lolita.png" width="100" alt="Vladimir Nabokov. Lolita - 1955" title="Vladimir Nabokov. Lolita - 1955" /><figcaption>Vladimir Nabokov. Lolita - 1955</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/wittgenstein.png" width="100" alt="Ludwig Wittgenstein † 1951 - body of work" title="Ludwig Wittgenstein † 1951 - body of work" /><figcaption>Ludwig Wittgenstein † 1951 - body of work</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/gide.png" width="100" alt="André Gide. Journal - 1950" title="André Gide. Journal - 1950" /><figcaption>André Gide. Journal - 1950</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/MillerRosy.png" width="100" alt="Henry Miller. The Rosy Crucifixion - 1949–59" title="Henry Miller. The Rosy Crucifixion - 1949–59" /><figcaption>Henry Miller. The Rosy Crucifixion - 1949–59</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Levi.png" width="100" alt="Primo Levi. If This is a Man - 1947" title="Primo Levi. If This is a Man - 1947" /><figcaption>Primo Levi. If This is a Man - 1947</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/camuslapeste.png" width="100" alt="Albert Camus. The Plague - 1947" title="Albert Camus. The Plague - 1947" /><figcaption>Albert Camus. The Plague - 1947</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/LTI.png" width="100" alt="Victor Klemperer. LTI, Lingua Tertii Imperii : a philologist’s notebook - 1947" title="Victor Klemperer. LTI, Lingua Tertii Imperii : a philologist’s notebook - 1947" /><figcaption>Victor Klemperer. LTI, Lingua Tertii Imperii : a philologist’s notebook - 1947</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/EtrangeDefaite.png" width="100" alt="Marc Bloch. Strange Defeat - 1940, published 1946" title="Marc Bloch. Strange Defeat - 1940, published 1946" /><figcaption>Marc Bloch. Strange Defeat - 1940, published 1946</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/ferdydurke.png" width="100" alt="Witold Gombrowicz. Ferdydurke - 1937" title="Witold Gombrowicz. Ferdydurke - 1937" /><figcaption>Witold Gombrowicz. Ferdydurke - 1937</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/VoyageAuBoutDeLaNuit.png" width="100" alt="Louis-Ferdinand Céline. Journey to the End of the Night - 1932" title="Louis-Ferdinand Céline. Journey to the End of the Night - 1932" /><figcaption>Louis-Ferdinand Céline. Journey to the End of the Night - 1932</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheManWithoutQualities.png" width="100" alt="Robert Musil. The Man Without Qualities - 1930–43" title="Robert Musil. The Man Without Qualities - 1930–43" /><figcaption>Robert Musil. The Man Without Qualities - 1930–43</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/We.png" width="100" alt="Yevgeny Zamyatin. We - 1924"  title="Yevgeny Zamyatin. We - 1924 " /><figcaption>Yevgeny Zamyatin. We - 1924</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Ulysses.png" width="100" alt="James Joyce. Ulysses - 1922" title="James Joyce. Ulysses - 1922" /><figcaption>James Joyce. Ulysses - 1922</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/DerniersJoursHumanite.png" width="100" alt="Karl Kraus. The Last Days of Mankind - 1922" title="Karl Kraus. The Last Days of Mankind - 1922" /><figcaption>Karl Kraus. The Last Days of Mankind - 1922</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/TheMagneticFields.png" width="100" alt="André Breton and Philippe Soupault. The Magnetic Fields - 1920" title="André Breton and Philippe Soupault. The Magnetic Fields - 1920" /><figcaption>André Breton and Philippe Soupault. The Magnetic Fields - 1920</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/KafkaTrial.png" width="100" alt="Franz Kafka. The Trial (1915, published 1925)" title="Franz Kafka. The Trial (1915, published 1925)" /><figcaption>Franz Kafka. The Trial (1915, published 1925)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Botchan.png" width="100" alt="Natsume Sōseki. Botchan - 1906" title="Natsume Sōseki. Botchan - 1906" /><figcaption>Natsume Sōseki. Botchan - 1906</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/HeartOfDarkness.png" width="100" alt="Joseph Conrad. Heart of Darkness (1899)" title="Joseph Conrad. Heart of Darkness (1899)" /><figcaption>Joseph Conrad. Heart of Darkness (1899)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/rimbaud.png" width="100" alt="Arthur Rimbaud. Poésies complètes. c. 1869–1873" title="Arthur Rimbaud. Poésies complètes. c. 1869–1873" /><figcaption>Arthur Rimbaud. Poésies complètes. c. 1869–1873</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/AliceInWonderland.png" width="100" alt="Lewis Carroll. Alice’s Adventures in Wonderland (1865)" title="Lewis Carroll. Alice’s Adventures in Wonderland (1865)" /><figcaption>Lewis Carroll. Alice’s Adventures in Wonderland (1865)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/FleursMal.png" width="100" alt="Charles Baudelaire. Les fleurs du mal (1857)" title="Charles Baudelaire. Les fleurs du mal (1857)" /><figcaption>Charles Baudelaire. Les fleurs du mal (1857)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/MadameBovary.png" width="100" alt="Gustave Flaubert. Madame Bovary (1856)" title="Gustave Flaubert. Madame Bovary (1856)" /><figcaption>Gustave Flaubert. Madame Bovary (1856)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/BartlebyTheScrivener.png" width="100" alt="Herman Melville. Bartleby, the Scrivener: A Story of Wall Street (1853)" title="Herman Melville. Bartleby, the Scrivener: A Story of Wall Street (1853)" /><figcaption>Herman Melville. Bartleby, the Scrivener: A Story of Wall Street (1853)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/18Brumaire.png" width="100" alt="Karl Marx. The Eighteenth Brumaire of Louis-Napoléon (1852)" title="Karl Marx. The Eighteenth Brumaire of Louis-Napoléon (1852)" /><figcaption>Karl Marx. The Eighteenth Brumaire of Louis-Napoléon (1852)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/RougeEtLeNoir.png" width="100" alt="Stendhal. Le Rouge et le Noir (1830)" title="Stendhal. Le Rouge et le Noir (1830)" /><figcaption>Stendhal. Le Rouge et le Noir (1830)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Grimm.png" width="100" alt="Grimm Brothers. Children’s and Household Tales (1812)" title="Grimm Brothers. Children’s and Household Tales (1812)" /><figcaption>Grimm Brothers. Children’s and Household Tales (1812)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/pepys.png" width="100" alt="Samuel Pepys. Diaries (1660–1669)" title="Samuel Pepys. Diaries (1660–1669)" /><figcaption>Samuel Pepys. Diaries (1660–1669)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Shakespeare.png" width="100" alt="Shakespeare. Complete Works - 1623" title="Shakespeare. Complete Works - 1623" /><figcaption>Shakespeare. Complete Works - 1623</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/montaigneEssais.png" width="100" alt="Michel de Montaigne. Essais (1580–1592)" title="Michel de Montaigne. Essais (1580–1592)" /><figcaption>Michel de Montaigne. Essais (1580–1592)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/DonQuixote.png" width="100" alt="Miguel de Cervantes. Don Quixote (1605–1615)" title="Miguel de Cervantes. Don Quixote (1605–1615)" /><figcaption>Miguel de Cervantes. Don Quixote (1605–1615)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Rabelais.png" width="100" alt="Rabelais. La vie de Gargantua et de Pantagruel - 1532–64" title="Rabelais. La vie de Gargantua et de Pantagruel - 1532–64" /><figcaption>Rabelais. La vie de Gargantua et de Pantagruel - 1532–64</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/ThePrince.png" width="100" alt="Niccolò Machiavelli. The Prince (1532)" title="Niccolò Machiavelli. The Prince (1532)" /><figcaption>Niccolò Machiavelli. The Prince (1532)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/RomanDeRenart.png" width="100" alt="Reynard (12th-13th c.)" title="Reynard (12th-13th c.)" /><figcaption>Reynard (12th-13th c.)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/boethius.png" width="100" alt="Boethius. The Consolation of Philosophy - 524" title="Boethius. The Consolation of Philosophy - 524" /><figcaption>Boethius. The Consolation of Philosophy - 524</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Meditations.png" width="100" alt="Marcus Aurelius. Meditations (2d c. AC)" title="Marcus Aurelius. Meditations (2d c. AC)" /><figcaption>Marcus Aurelius. Meditations (2d c. AC)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Aristotle.png" width="100" alt="Aristotle. On the Soul - 4th c. BC" title="Aristotle. On the Soul - 4th c. BC" /><figcaption>Aristotle. On the Soul - 4th c. BC</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Medea.png" width="100" alt="Euripides. Medea - 431 BC" title="Euripides. Medea - 431 BC" /><figcaption>Euripides. Medea - 431 BC</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Iliad.png" width="100" alt="Homer. Iliad (c. 800 BC)" title="Homer. Iliad (c. 800 BC)" /><figcaption>Homer. Iliad (c. 800 BC)</figcaption></figure>
-<figure class="books99img"><img src="/img/99books/Odyssey.png" width="100" alt="Homer. Odyssey (c. 800 BC)" title="Homer. Odyssey (c. 800 BC)" /><figcaption>Homer. Odyssey (c. 800 BC)</figcaption></figure>
+![Åsne Seierstad. One of Us - 2015](/img/99books/OneOfUs.png "Åsne Seierstad. One of Us - 2015")
+ ![Ali Smith. how to be both - 2015](/img/99books/HowToBeBoth.png "Ali Smith. how to be both - 2015")
+ ![Maylis de Kerangal. Birth of a Bridge - 2010](/img/99books/NaissanceDunPont.png "Maylis de Kerangal. Birth of a Bridge - 2010")
+ ![Siddhartha Mukherjee. The Emperor of All Maladies: A Biography of Cancer - 2010](/img/99books/TheEmperorOfAllMaladies.png  "Siddhartha Mukherjee. The Emperor of All Maladies: A Biography of Cancer - 2010")
+ ![Tony Judt. The Memory Chalet - 2010](/img/99books/MemoryChalet.png "Tony Judt. The Memory Chalet - 2010")
+ ![China Miéville. The City & the City - 2009](/img/99books/TheCityAndTheCity.png  "China Miéville. The City & the City - 2009")
+ ![Christine Brooke-Rose. Life, End of - 2006](/img/99books/LifeEndof.png "Christine Brooke-Rose. Life, End of - 2006")
 
-<div style="clear: both;"></div>
+ ![Tony Judt. Postwar: A History of Europe Since 1945 - 2005](/img/99books/Postwar.png "Tony Judt. Postwar: A History of Europe Since 1945 - 2005")
+
+ ![J.G. Ballard. Millenium People - 2003](/img/99books/MilleniumPeople.png "J.G. Ballard. Millenium People - 2003")
+
+ ![Per Petterson. Out Stealing Horses - 2003](/img/99books/OutStealingHorses.png "Per Petterson. Out Stealing Horses - 2003")
+
+ ![Jean Hatzfeld. Life Laid Bare - 2000 and Machete Season - 2003](/img/99books/UneSaisonDeMachettes.png "Jean Hatzfeld. Life Laid Bare - 2000 and Machete Season - 2003")
+
+ ![François Bon. Paysage fer - 2000](/img/99books/PaysageFer.png "François Bon. Paysage fer - 2000")
+
+ ![Legs McNeill and Gillian McCain. Please Kill Me: The Uncensored Oral History of Punk - 1997](/img/99books/please-kill-me.png "Legs McNeill and Gillian McCain. Please Kill Me: The Uncensored Oral History of Punk - 1997")
+
+ ![Orhan Pamuk. The Black Book - 1990](/img/99books/TheBlackBook.png "Orhan Pamuk. The Black Book - 1990")
+
+ ![Jacques Roubaud. Quelque chose noir - 1986](/img/99books/QuelqueChoseNoir.png "Jacques Roubaud. Quelque chose noir - 1986")
+
+ ![Thomas Bernhard. Old Masters, a Comedy - 1985](/img/99books/OldMasters.png "Thomas Bernhard. Old Masters, a Comedy - 1985")
+
+ ![Pierre Hadot. Philosophy as a Way of Life - 1981](/img/99books/ExercicesSpirituels.png "Pierre Hadot. Philosophy as a Way of Life - 1981")
+
+ ![Howard Zinn. A People’s History of the United States - 1980](/img/99books/APeoplesHistoryOfTheUS.png "Howard Zinn. A People’s History of the United States - 1980")
+
+ ![Georges Perec. Life a User’s Manual - 1978](/img/99books/LaVieModeEmploi.png "Georges Perec. Life a User’s Manual - 1978")
+
+ ![Carlo Ginzburg. The Cheese and the Worms : the cosmos of a sixteenth-century miller - 1976](/img/99books/FromageVers.png "Carlo Ginzburg. The Cheese and the Worms : the cosmos of a sixteenth-century miller - 1976")
+
+ ![Joe Haldeman. The Forever War - 1974](/img/99books/Foreverwar.png "Joe Haldeman. The Forever War - 1974")
+
+ ![John Berger. G. - 1972](/img/99books/G.png "John Berger. G. - 1972")
+
+ ![Varlam Shalamov. Kolyma Tales - 1966](/img/99books/KolymaTales.png "Varlam Shalamov. Kolyma Tales - 1966")
+
+ ![Italo Calvino. Cosmicomics - 1965](/img/99books/Cosmicomics.png "Italo Calvino. Cosmicomics - 1965")
+
+ ![Frank Herbert. Dune - 1965](/img/99books/Dune.png "Frank Herbert. Dune - 1965")
+
+ ![Saul Bellow. Herzog (1964)](/img/99books/Herzog.png "Saul Bellow. Herzog (1964)")
+
+ ![Hannah Arendt. Eichmann in Jerusalem - 1963](/img/99books/ArendtEichmann.png "Hannah Arendt. Eichmann in Jerusalem - 1963")
+
+ ![Giorgio Bassani. The Garden of the Finzi-Continis - 1962](/img/99books/TheGardenOfTheFinziContinis.png "Giorgio Bassani. The Garden of the Finzi-Continis - 1962")
+
+ ![Stanisław Lem. Solaris - 1961](/img/99books/Solaris.png "Stanisław Lem. Solaris - 1961")
+
+ ![Raymond Queneau. Hundred Thousand Billion Poems - 1961](/img/99books/CentMilleMilliardsDePoemes.png "Raymond Queneau. Hundred Thousand Billion Poems - 1961")
+
+ ![Georges Perros. Papiers collés - 1961–1978](/img/99books/papiersColles.png "Georges Perros. Papiers collés - 1961–1978")
+
+ ![Grace Paley. Short Stories (1959–1985)](/img/99books/Paley.png "Grace Paley. Short Stories (1959–1985)")
+
+ ![Vasily Grossman. Life and Fate - 1959](/img/99books/GrossmanLifeFate.png "Vasily Grossman. Life and Fate - 1959")
+
+ ![Giuseppe Tomasi di Lampedusa. The Leopard - 1958](/img/99books/TheLeopard.png "Giuseppe Tomasi di Lampedusa. The Leopard - 1958")
+
+ ![Witold Gombrowicz. Diary - 1957–66](/img/99books/GombrowiczDiary.png "Witold Gombrowicz. Diary - 1957–66")
+
+ ![Naguib Mahfouz. The Cairo Trilogy - 1956–57](/img/99books/TheCairoTrilogy.png "Naguib Mahfouz. The Cairo Trilogy - 1956–57")
+
+ ![Vladimir Nabokov. Lolita - 1955](/img/99books/Lolita.png "Vladimir Nabokov. Lolita - 1955")
+
+ ![Ludwig Wittgenstein † 1951 - body of work](/img/99books/wittgenstein.png "Ludwig Wittgenstein † 1951 - body of work")
+
+ ![André Gide. Journal - 1950](/img/99books/gide.png "André Gide. Journal - 1950")
+
+ ![Henry Miller. The Rosy Crucifixion - 1949–59](/img/99books/MillerRosy.png "Henry Miller. The Rosy Crucifixion - 1949–59")
+
+ ![Primo Levi. If This is a Man - 1947](/img/99books/Levi.png "Primo Levi. If This is a Man - 1947")
+
+ ![Albert Camus. The Plague - 1947](/img/99books/camuslapeste.png "Albert Camus. The Plague - 1947")
+
+ ![Victor Klemperer. LTI, Lingua Tertii Imperii : a philologist’s notebook - 1947](/img/99books/LTI.png "Victor Klemperer. LTI, Lingua Tertii Imperii : a philologist’s notebook - 1947")
+
+ ![Marc Bloch. Strange Defeat - 1940, published 1946](/img/99books/EtrangeDefaite.png "Marc Bloch. Strange Defeat - 1940, published 1946")
+
+ ![Witold Gombrowicz. Ferdydurke - 1937](/img/99books/ferdydurke.png "Witold Gombrowicz. Ferdydurke - 1937")
+
+ ![Louis-Ferdinand Céline. Journey to the End of the Night - 1932](/img/99books/VoyageAuBoutDeLaNuit.png "Louis-Ferdinand Céline. Journey to the End of the Night - 1932")
+
+ ![Robert Musil. The Man Without Qualities - 1930–43](/img/99books/TheManWithoutQualities.png "Robert Musil. The Man Without Qualities - 1930–43")
+
+ ![Yevgeny Zamyatin. We - 1924](/img/99books/We.png "Yevgeny Zamyatin. We - 1924")
+
+ ![James Joyce. Ulysses - 1922](/img/99books/Ulysses.png "James Joyce. Ulysses - 1922")
+
+ ![Karl Kraus. The Last Days of Mankind - 1922](/img/99books/DerniersJoursHumanite.png "Karl Kraus. The Last Days of Mankind - 1922")
+
+ ![André Breton and Philippe Soupault. The Magnetic Fields - 1920](/img/99books/TheMagneticFields.png "André Breton and Philippe Soupault. The Magnetic Fields - 1920")
+
+ ![Franz Kafka. The Trial (1915, published 1925)](/img/99books/KafkaTrial.png "Franz Kafka. The Trial (1915, published 1925)")
+
+ ![Natsume Sōseki. Botchan - 1906](/img/99books/Botchan.png "Natsume Sōseki. Botchan - 1906")
+
+ ![Joseph Conrad. Heart of Darkness (1899)](/img/99books/HeartOfDarkness.png "Joseph Conrad. Heart of Darkness (1899)")
+
+ ![Arthur Rimbaud. Poésies complètes. c. 1869–1873](/img/99books/rimbaud.png "Arthur Rimbaud. Poésies complètes. c. 1869–1873")
+
+ ![Lewis Carroll. Alice’s Adventures in Wonderland (1865)](/img/99books/AliceInWonderland.png "Lewis Carroll. Alice’s Adventures in Wonderland (1865)")
+
+ ![Charles Baudelaire. Les fleurs du mal (1857)](/img/99books/FleursMal.png "Charles Baudelaire. Les fleurs du mal (1857)")
+
+ ![Gustave Flaubert. Madame Bovary (1856)](/img/99books/MadameBovary.png "Gustave Flaubert. Madame Bovary (1856)")
+
+ ![Herman Melville. Bartleby, the Scrivener: A Story of Wall Street (1853)](/img/99books/BartlebyTheScrivener.png "Herman Melville. Bartleby, the Scrivener: A Story of Wall Street (1853)")
+
+ ![Karl Marx. The Eighteenth Brumaire of Louis-Napoléon (1852)](/img/99books/18Brumaire.png "Karl Marx. The Eighteenth Brumaire of Louis-Napoléon (1852)")
+
+ ![Stendhal. Le Rouge et le Noir (1830)](/img/99books/RougeEtLeNoir.png "Stendhal. Le Rouge et le Noir (1830)")
+
+ ![Grimm Brothers. Children’s and Household Tales (1812)](/img/99books/Grimm.png "Grimm Brothers. Children’s and Household Tales (1812)")
+
+ ![Samuel Pepys. Diaries (1660–1669)](/img/99books/pepys.png "Samuel Pepys. Diaries (1660–1669)")
+
+ ![Shakespeare. Complete Works - 1623](/img/99books/Shakespeare.png "Shakespeare. Complete Works - 1623")
+
+ ![Michel de Montaigne. Essais (1580–1592)](/img/99books/montaigneEssais.png "Michel de Montaigne. Essais (1580–1592)")
+
+ ![Miguel de Cervantes. Don Quixote (1605–1615)](/img/99books/DonQuixote.png "Miguel de Cervantes. Don Quixote (1605–1615)")
+
+ ![Rabelais. La vie de Gargantua et de Pantagruel - 1532–64](/img/99books/Rabelais.png "Rabelais. La vie de Gargantua et de Pantagruel - 1532–64")
+
+ ![Niccolò Machiavelli. The Prince (1532)](/img/99books/ThePrince.png "Niccolò Machiavelli. The Prince (1532)")
+
+ ![Reynard (12th-13th c.)](/img/99books/RomanDeRenart.png "Reynard (12th-13th c.)")
+
+ ![Boethius. The Consolation of Philosophy - 524](/img/99books/boethius.png "Boethius. The Consolation of Philosophy - 524")
+
+ ![Marcus Aurelius. Meditations (2d c. AC)](/img/99books/Meditations.png "Marcus Aurelius. Meditations (2d c. AC)")
+
+ ![Aristotle. On the Soul - 4th c. BC](/img/99books/Aristotle.png "Aristotle. On the Soul - 4th c. BC")
+
+ ![Euripides. Medea - 431 BC](/img/99books/Medea.png "Euripides. Medea - 431 BC")
+
+ ![Homer. Iliad (c. 800 BC)](/img/99books/Iliad.png "Homer. Iliad (c. 800 BC)")
+
+ ![Homer. Odyssey (c. 800 BC)](/img/99books/Odyssey.png "Homer. Odyssey (c. 800 BC)")
 
 ## ToDo
 
