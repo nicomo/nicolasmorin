@@ -47,3 +47,8 @@ Title       = "Nicolas Morin (@nicomo)"
   url = "/"
   weight = 200
 
+[[menu.main]]
+  name = "Liberté d'expression"
+  url = "/tags/liberté-dexpression/"
+  weight = 210
+
