@@ -20,3 +20,11 @@ Dans cette tradition (David Hume, Adam Smith et John Millar en particulier), l�
 Je pense qu’il faut lire le 1er amendement dans le cadre de cette philosophie personnelle de James Madison : il ne faut pas chercher à limiter la liberté de la presse, même s’il en résulte des conflits importants au sein de la société ; au contraire, le conflit des opinions et leur libre concurrence prémunissent contre le plus grand danger qui représenterait la capacité d’un parti, d’une faction, de s’imposer aux dépens de tous les autres.
 
 > A lire sur le sujet : Branson, Roy. « James Madison and the Scottish Enlightenment. » Journal of the History of Ideas, vol. 40, no. 2, 1979, pp. 235–250. JSTOR, www.jstor.org/stable/2709150
+Ce billet fait parti d'une série sur le 1er amendement de la constitution des États-Unis :
+
+1. [Ratification de la constitution](/blog/premier-amendement-1/)
+1. [le Bill of Rights](/blog/premier-amendement-2/)
+1. [les Lumières écossaises](/blog/premier-amendement-3/)
+1. [les 100 premières années](/blog/premier-amendement-4/)
+1. [un « danger clair et immédiat »](/blog/premier-amendement-5/)
+1. [Vietnam et au-delà](/blog/premier-amendement-6/)
