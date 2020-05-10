@@ -1,0 +1,4 @@
+img[src$='#books'] {
+    background-color: white;
+    max-width: 100px;
+}

@@ -18,7 +18,11 @@
 
     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" />
-
+   
+    <!-- nicomo: add custom css-->
+    {{ range .Site.Params.customCSS -}}
+        <link rel="stylesheet" href="{{ . | absURL }}">
+    {{- end }}
 </head>
 <body class="{{ block "body_class" . }} {{ end }}">
 
