@@ -33,4 +33,11 @@ Toujours est-il que _De la liberté_ est bien un texte fondateur du libéralisme
 
 > L’objectif principal des lois interdisant de fumer [dans les lieux publics] n’est pas de protéger les fumeurs d’eux-mêmes (un objectif que Mill aurait condamné), mais de protéger les non-fumeurs des fumeurs (ce que Mill aurait applaudi).
 
-Très juste. Prochain épisode, _De la liberté_, introduction.
+Très juste.
+
+Ce billet fait parti d'une série sur _De la liberté_, de John Stuart Mill :
+
+1. [Préambule](/blog/jsmill-liberte-0/)
+1. [Présentation du Principe de non-nuisance : chap. 1](/blog/jsmill-liberte-1/)
+1. [Principe de non-nuisance et Bon Samaritain : chap. 1](/blog/jsmill-liberte-2/)
+1. [De la liberté en pratique : chap. 2 à 5](/blog/jsmill-liberte-3/)

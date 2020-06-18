@@ -52,3 +52,10 @@ Quel est le principe proposé ?
 Ce principe devenu classique est aujourd’hui appelé, en Anglais, _the harm principle_. Les traductions françaises ont varié. Ruwen Ogien, dans _L’éthique aujourd’hui. Maximalistes et minimalistes_ utilise le terme de _non nuisance_. On pourrait parler aussi de _tort_ ou de _préjudice_. C’est un principe extrêmement simple dans son expression initiale, mais extrêmement puissant, et tout le reste du livre vise à le justifier, à le préciser, et à en tirer les conséquences pratiques.
 
 Suite au prochain épisode.
+
+Ce billet fait parti d'une série sur _De la liberté_, de John Stuart Mill :
+
+1. [Préambule](/blog/jsmill-liberte-0/)
+1. [Présentation du Principe de non-nuisance : chap. 1](/blog/jsmill-liberte-1/)
+1. [Principe de non-nuisance et Bon Samaritain : chap. 1](/blog/jsmill-liberte-2/)
+1. [De la liberté en pratique : chap. 2 à 5](/blog/jsmill-liberte-3/)

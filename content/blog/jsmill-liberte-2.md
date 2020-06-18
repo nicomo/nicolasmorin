@@ -46,3 +46,10 @@ Et si on m’oblige à sauver quelqu’un qui se noie, considérant, selon le mo
 C’est un sujet complexe, et Ruwen Ogien par exemple, dans _L’éthique aujourd’hui_, estime que le cas du bon samaritain peut être justifié, mais pas en utilisant directement le principe de non-nuisance, qui serait dans ce contexte la porte ouverte au paternalisme. Il lui préfère le principe, tiré de Thomas Nagel, d’égale considération de la voix de chacun qui, dit-il, « donne un rôle plus central aux _demandes_ d’aide et aux _revendications_ de droits qu’aux _offres_ d’assistance ou de charité ». Personne ne veut qu’on lui manque de considération au point d’être abandonné à son sort et, dans notre exemple, de mourir noyé. C’est en combinant les deux, principe de non-nuisance et principe d’égalité de la voix de chacun, qu’on arrive selon Ruwen Ogien à justifier le cas du bon samaritain, ou de la participation positive à la société sous la forme d’une obligation d’assurer son devoir de juré dans un tribunal par exemple.
 
 Je trouve l’argument assez convaincant.
+
+Ce billet fait parti d'une série sur _De la liberté_, de John Stuart Mill :
+
+1. [Préambule](/blog/jsmill-liberte-0/)
+1. [Présentation du Principe de non-nuisance : chap. 1](/blog/jsmill-liberte-1/)
+1. [Principe de non-nuisance et Bon Samaritain : chap. 1](/blog/jsmill-liberte-2/)
+1. [De la liberté en pratique : chap. 2 à 5](/blog/jsmill-liberte-3/)
