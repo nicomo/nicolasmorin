@@ -13,8 +13,6 @@
     
     <!-- nicomo: adds template for Open Graph metadata -->
     {{ template "_internal/opengraph.html" . }}
-    <!-- nicomo: adds template for Google Analytics -->
-    {{ template "_internal/google_analytics.html" . }}
 
     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" />
@@ -23,6 +21,7 @@
     {{ range .Site.Params.customCSS -}}
         <link rel="stylesheet" href="{{ . | absURL }}">
     {{- end }}
+
 </head>
 <body class="{{ block "body_class" . }} {{ end }}">
 

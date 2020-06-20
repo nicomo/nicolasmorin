@@ -13,7 +13,7 @@ Title       = "Nicolas Morin (@nicomo)"
 
   description = "I tinker with code, texts and ideas. Parfois en Français. 🕶"
   metaDescription = ""
-  googleAnalytics = "UA-108664-17"
+  googleAnalytics = ""
   customCSS = ["css/nicomo.css"]
   RSSLink = ""
 
