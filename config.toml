@@ -1,6 +1,6 @@
 baseurl         = "/"
 theme           = "hugo-casper3"
-languageCode    = "en-US"
+languageCode    = "fr-FR"
 disqusShortname = ""
 paginate        = 10
 Title       = "Nicolas Morin (@nicomo)"
@@ -11,7 +11,7 @@ Title       = "Nicolas Morin (@nicomo)"
   Title       = "Nicolas Morin (@nicomo)"
 
 
-  description = "I tinker with code, texts and ideas. Parfois en Français. 🕶"
+  description = "Bricoleur de code et d'idées. Sometimes in English. 🕶"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["css/nicomo.css"]
