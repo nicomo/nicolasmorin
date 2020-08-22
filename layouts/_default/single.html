@@ -15,13 +15,20 @@
         <article class="post-full post {{ if not (.Param "featured_image") }} no-image {{ end }}">
 
             <header class="post-full-header">
-
+<!-- default template only displays 1st tag 
                 {{ with .Params.tags }}
                     {{ $primaryTag := (index . 0) }}
                     <section class="post-full-tags">
                         <a href="{{ "/tags/" | relLangURL }}{{ $primaryTag | urlize }}">{{ $primaryTag }}</a>
                     </section>
                 {{ end }}
+-->
+<!-- modified template to display all tags -->
+                <section class="post-full-tags">
+                    {{ range .Params.tags }}
+                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>&nbsp;|&nbsp; 
+                    {{ end }}
+                </section>
 
                 <h1 class="post-full-title">{{ .Title }}</h1>
 
