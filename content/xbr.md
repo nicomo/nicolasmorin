@@ -20,7 +20,6 @@ You can [download this bibliography](/files/xbr_biblio.ris) as a .RIS file. It w
 
 ***
 
-
 Auerbach, David. “Xorandor by Christine Brooke-Rose.” _Waggish_ (blog), 2015. http://www.waggish.org/2011/xorandor-by-christine-brooke-rose/.
 
 Bartha, Noemi-Alice. “Betweenness or an Interstitial Search for a Self.” _Language and Literature : European Landmarks of Identity_ 8 (2011): 463–68.
@@ -440,6 +439,8 @@ Seed, David. “Christine Brooke-Rose Interviewed.” _Textual Practice_, no. 7 
 Smith, Ali. “The Armchair, the World.” _The Times Literary Supplement_, March 24, 2006.
 
 Sweeney, Carole. “‘Groping inside Language’: Translation, Humour and Experiment in Christine Brooke-Rose’s Between and Brigid Brophy’s In Transit.” _Textual Practice_, January 24, 2018, 1–16. https://doi.org/10.1080/0950236X.2018.1413047.
+
+———. _Vagabond Fictions. Gender and Experiment in British Women’s Writing, 1945-1970_ Edinburgh: Edinburgh University Press, 2020. [Chap. 4. Christine Brooke-Rose: ‘un écrivain [sic] dite éxperimentale’]
 
 The Times Literary Supplement. _TLS Voices: Christine Brooke-Rose_. TLS Voices. Accessed June 26, 2015. https://soundcloud.com/the-tls/christine-brooke-rose.
 
