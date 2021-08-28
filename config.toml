@@ -4,6 +4,7 @@ languageCode    = "fr-FR"
 disqusShortname = ""
 paginate        = 10
 Title       = "Nicolas Morin (@nicomo)"
+ignoreErrors = ["error-remote-getjson"]
 #SectionPagesMenu = "main"
 # background       = "/img/config-cover-home.jpeg"
 

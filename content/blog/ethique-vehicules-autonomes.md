@@ -1,10 +1,10 @@
 +++
 title = "Éthique des véhicules autonomes"
 date = 2021-08-26T21:52:26+02:00
-description = "Recension de Hansson, Belin & Lundgren, _Self-Driving Vehicles—an Ethical Overview."
-tags = [ "éthique, technique" ]
+description = "Une lecture de Hansson, S.O., Belin, MÅ. & Lundgren, B. _Self-Driving Vehicles—an Ethical Overview._ Philos. Technol. (2021)"
+tags = [ "éthique", "tech" ]
 type = "post"
-feature_image = "img/"
+feature_image = "/img/ethique-vehicules-autonomes.jpg"
 +++
 
 Une lecture de Hansson, S.O., Belin, MÅ. & Lundgren, B. _Self-Driving Vehicles—an Ethical Overview._ Philos. Technol. (2021). <https://doi.org/10.1007/s13347-021-00464-5>
