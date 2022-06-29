@@ -7,7 +7,7 @@ type = "post"
 feature_image = "/img/gifct.png"
 +++
 
-_Ou comment entreprises informatiques et gouvernements tentent de gérer la censure des contenus terroristes en ligne&nbsp;?_<!--more-->
+Ou comment entreprises informatiques et gouvernements tentent de gérer la censure des contenus terroristes en ligne&nbsp;?<!--more-->
 
 Le web est connu pour avoir quasiment éliminé toute barrière d’entrée à la publication. Auparavant, les obstacles à la publication étaient multiples. Pour le livre il fallait trouver un éditeur, ou au moins réunir de l’argent et trouver un imprimeur, pour diffuser une idée qui aurait, de toute façon, une circulation matériellement assez restreinte. Et de nombreux agents (éditeur, radio, télévision, etc.) jouaient un rôle de filtre permettant d’empêcher assez facilement la circulation des idées les plus « dangereuses ». Ce système avait de nombreux revers, comme de limiter souvent indûment la circulation d’idées qui, jugées dangereuses par les gardiens du temple, n’étaient en réalité qu’excentriques ou originales, quand ce n’est pas tout simplement « en avance sur leur temps ». Mais au moins le système rendait son office sur un point : les idées les plus dangereuses n’accédaient pas facilement à la publication.
 
