@@ -90,3 +90,51 @@ Le rhum, la culture du pacifique et Hollywood n’ont _a priori_ pas grand rappo
 > Servir dans un verre de type Old Fashionned, et compléter avec de la glace pilée.
 > Décorer d’une tranche de citron vert et de feuilles de menthe.
 
+## 📚 Livres lus
+
+Michel Leiris. _Journal (1922-1989)_. Aucun intérêt. Les grands bourgeois immatures qui grenouillent dans l'Enseignement Supérieur et la Recherche en se donnant des airs de révolutionnaire tourmenté font déjà mon quotidien professionnel, merci bien.
+
+Maria Stepanova. _En mémoire de la mémoire_. Lu dans la traduction anglaise. La mémoire personnelle, familiale, nationale de juifs russes au 20e siècle. Une citation : "Ce livre sur ma famille ne concerne pas du tout ma famille, mais quelque chose de très différent : la façon dont fonctionne la mémoire, et ce que la mémoire attend de moi."
+
+## 🛒 Ajouté à ma liste
+
+### 📋 Essais
+
+Elizabeth Becker. _You don't belong here. How three women rewrote the story of war_. Trois femmes journalistes dans la guerre du Vietnam.
+
+Virginie Linhart. _L'effet maternel_. La relation de V. Linhart avec sa mère et la grande Histoire : la Shoah, Mai 68 et les conquêtes féministes des années 1970. J'ai une tendresse particulière pour le travail de Virginie Linhart, qui est de ma génération et creuse un sillon mémoriel proche du mien, parents soixante-huitards, etc.
+
+Michel Barnier. _La grande illusion. Journal secret du Brexit, 2016-2020_. J'ai d'autres intérêts que la littérature et le rhum : le rapport de la Grande-Bretagne à l'Europe est un autre de mes dada. C'était mon sujet de recherche avant que je renonce à poursuivre une thèse en Histoire au milieu des années 1990.
+
+### 📖 Littérature
+
+Danielle Mémoire. _Lecture publique suivie d'un débat_. P.O.L. Quatrième de couverture : "Quelqu’un (mais qui donc, à la fin ?) se trouve là (dans ce livre que vous tiendrez entre vos mains) pour publiquement lire un ouvrage en cours dont il ou elle n’est pas forcément l’auteur, et en débattre, ainsi qu’il est en principe annoncé. Ce lecteur, particulièrement complaisant, mais pas toujours, va se couper en quatre, voire en beaucoup plus que quatre, au point qu’une possible vérité s’impose : il n’y a pas un lecteur mais des lecteurs, il n’y pas une histoire mais des histoires."
+
+Richard Brautigan. _La vengeance de la pelouse_. Soixante-deux courts textes.
+
+Ben Smith. _Doggerland_. Premier roman. Quatrième de couverture : "En mer du Nord, loin de ce qui reste du littoral, un parc éolien s'étend sur des milliers d'hectares. Le garçon, qui n'est plus vraiment un garçon, et le vieil homme, dont l'âge est imprévisible, sont chargés de son entretien. Ils effectuent leur travail sans fin, récurés par le vent et le sel, alors que les vagues roulent, entraînant d'étranges bancs de flotsam à travers les champs de turbines. La terre n'est qu'un souvenir." Pas de traduction française pour l'instant à ma connaissance.
+
+### 🎁 Autre
+
+  - Metaltex 250315 Ouvre-boîtes Papillon
+  - Masalchi Piment De Jamaïque Moulu Bio 32 G
+
+## 🎧 Dans mes oreilles
+
+### 🎙️ Podcasts
+
+_Talking  Politics: History of Ideas_.️ David Runciman, qui enseigne les Sciences Politiques à Cambridge University, explore l'oeuvre d'un auteur de philosophie politique par épisode : Hobbes, Marx, Gandi, Arendt, Hayek, Nozick, Beauvoir, etc.
+
+_Liftoff_. Espace, fusées, etc. Exemple d'un épisode récent d'une heure : comment gère-t-on le traffic et la réservation de places sur la Station Spatiale Internationale + quels instruments scientifiques seront embarqués sur le satelitte Europa Clipper.  
+
+_Les bonnes choses_. Quand France Culture, le dimanche, parle nourriture et alimentation. L'asperge, le cacao, la cuisine libanaise, le gras.
+
+### 🎵 Musique
+
+Marc Rebillet. _Europe_. Un album qui compile quelques morceaux tirés de concerts d'avant le covid. Mais Rebillet fait sa musique en direct et en ligne chaque semaine sur Twitch et sur YouTube, où il a 1,4 millions d'abonnés. En caleçon et peignoir de bain dans son appartement, avec un synthé, un looper et un mac book pro, il improvise un mélange de techno et de Soul assez incroyable.
+
+Daniel Barenboim. _Mi Buenos Aires Querido_. Dans ma discothèque depuis sa sortie en 1996 et régulièrement écouté depuis. Barenboim est connu pour son oeuvre de musique classique, mais joue ici des tangos de son Argentine natale. Une superbe exception à son travail habituel.
+
+Floating Points, Pharaoh Sanders & The London Symphony Orchestra. _Promises_. Paru récemment. Collaboration inattendue mais très réussie entre la musique électronique, le jazz et le classique.
+
+Compilation. _Studio One in the 1960s_. Paru en 2018 sur le label Soul Jazz Records : le reggae avant Marley.
