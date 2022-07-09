@@ -7,7 +7,7 @@ tags: ["cuisine"]
 feature_image: "/img/marcher-separer.jpg"
 ---
 
-Quand j’ai commencé à réfléchir à ce site, et spécifiquement à _Cuisine_ comme lettre mensuelle, nous étions pleinement confinés. On se disait initialement que dans ces circonstances on aurait tous enfin assez de temps pour lire _La recherche du temps perdu_ ou, à défaut, rêver, dessiner, lire et écrire. <!--more-->En réalité, ce temps a été engouffré dans des heures de _doomscrolling_. Le terme est nouveau et « surveillé », comme presque tout de nos jours, par le dictionnaire Merriam-Webster :
+Quand j’ai commencé à réfléchir à ce site, et spécifiquement à _Cuisine_ comme lettre mensuelle, nous étions pleinement confinés. <!--more-->On se disait initialement que dans ces circonstances on aurait tous enfin assez de temps pour lire _La recherche du temps perdu_ ou, à défaut, rêver, dessiner, lire et écrire. En réalité, ce temps a été engouffré dans des heures de _doomscrolling_. Le terme est nouveau et « surveillé », comme presque tout de nos jours, par le dictionnaire Merriam-Webster :
 
 > Doomscrolling et doomsurfing sont de nouveaux termes faisant référence à la tendance à continuer à surfer ou à faire défiler les mauvaises nouvelles sur son téléphone, même si ces nouvelles sont tristes, décourageantes ou déprimantes. De nombreuses personnes se retrouvent à lire continuellement de mauvaises nouvelles sur le COVID-19 sans avoir la possibilité de s’arrêter ou de reculer.
 

@@ -7,7 +7,7 @@ type = "post"
 feature_image = "/img/ethique-vehicules-autonomes.jpg"
 +++
 
-Une lecture de Hansson, S.O., Belin, MÅ. & Lundgren, B. _Self-Driving Vehicles—an Ethical Overview._ Philos. Technol. (2021). <https://doi.org/10.1007/s13347-021-00464-5>
+Une lecture de Hansson, S.O., Belin, MÅ. & Lundgren, B. _Self-Driving Vehicles—an Ethical Overview._ Philos. Technol. (2021).<!--more--> <https://doi.org/10.1007/s13347-021-00464-5>
 
 La majeure partie des réflexions éthiques sur les véhicules autonomes portent sur la problématique de l’accident, et en particulier sur les cas limites et souvent un peu théoriques de choix particuliers, entre deux victimes par exemple (version remise à jour du [dilemme du tramway](https://fr.wikipedia.org/wiki/Dilemme_du_tramway)). Cet article vise à la fois à examiner un spectre beaucoup plus large de sujets, et à envisager des situations plus réalistes.
 
