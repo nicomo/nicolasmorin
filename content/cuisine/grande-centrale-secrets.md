@@ -7,7 +7,7 @@ feature_image: "/img/grande-centrale-secrets.jpg"
 description: "Cuisine #5. Grande centrale des secrets. Chats multiples. Rhum kitsch. Livres lus et listes."
 ---
 
-J'ai trois idées : les magazines, le téléphone, les secrets. Allons-y dans l'ordre.
+J'ai trois idées : les magazines, le téléphone, les secrets. Allons-y dans l'ordre.<!--more-->
 
 Vous êtes ou vous étiez abonné au _New Yorker_, à _Télérama_, aux _Inrockuptibles_, à _Vogue_, _Elle_, _The Face_. Il y a mille façons de consommer ce produit culturel, le magazine. Vous ne le lisez pas, mais vous aimez d’une part savoir que vous allez le recevoir, et d’autre part l’idée que vous êtes quelqu’un qui est abonné à ce magazine. Vous êtes un psychopathe et vous le lisez du début à la fin sans rien omettre, publicités comprises. Vous ne regardez que les publicités. Vous le mettez dans vos toilettes, vous le feuilletez, parfois vous notez la référence d’un livre, d’une pièce de théâtre, d’un nouveau modèle de maillot de bain. Vous aimez sa forme familière : d’abord des publicités pleine page, des photographies de qualité, puis une table des matières, quels courts articles, entrecoupés de publicités, puis le _feature_, l’article de fond, où il y a moins, voire plus du tout de publicité, puis des chroniques culturelles, qui sont en réalité souvent des publicités.
 
