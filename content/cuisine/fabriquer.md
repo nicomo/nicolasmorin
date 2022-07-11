@@ -79,6 +79,6 @@ Si je trouve le temps pendant l'été, je ferais une vraie lecture / résumé / 
 ## 🎧 Dans mes oreilles
 
   - Shanti Celeste. _Tangerine_. Premier album d'une jeune DJ anglaise. Mélodique sans être mièvre, éclectique sans être fourre-tout, vraiment intéressant.
-  Thruston Moore. _Spirit Counsel_. 3 morceaux pour 2 h 20 de musique instrumentale par le vétéran de Sonic Youth qui, à 62 ans, continue de chercher et de créer.
-  Kronos Quartet. _Sunrise of the Planetary Dream Collector: Music of Terry Riley_. J'aime le minimalisme : en art, en design, en musique...
-  Talkdemonic. _Ruins_. Un album de 2011 du duo constitué par Kevin O'Connor et Lisa Molinaro. C'est un mélange d'electronica et de folk, de longs morceaux entièrement instrumentaux avec loops, beatboxes et violon acoustique (L. Molinaro) dans une ambiance de cinéma (K. O'Connor fait par ailleurs des musiques de film). Dix ans avant la vogue de Bon Iver ou Sylvan Esso.
+  - Thruston Moore. _Spirit Counsel_. 3 morceaux pour 2 h 20 de musique instrumentale par le vétéran de Sonic Youth qui, à 62 ans, continue de chercher et de créer.
+  - Kronos Quartet. _Sunrise of the Planetary Dream Collector: Music of Terry Riley_. J'aime le minimalisme : en art, en design, en musique...
+  - Talkdemonic. _Ruins_. Un album de 2011 du duo constitué par Kevin O'Connor et Lisa Molinaro. C'est un mélange d'electronica et de folk, de longs morceaux entièrement instrumentaux avec loops, beatboxes et violon acoustique (L. Molinaro) dans une ambiance de cinéma (K. O'Connor fait par ailleurs des musiques de film). Dix ans avant la vogue de Bon Iver ou Sylvan Esso.
