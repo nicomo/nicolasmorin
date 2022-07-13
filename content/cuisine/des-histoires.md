@@ -7,7 +7,7 @@ feature_image: "/img/des-histoires.jpg"
 description: "Cuisine #8 : Histoires de voitures cassées. Objets trouvés. Barbancourt. Pages de vieux journal. Listes."
 ---
 
-> Un personnage roule en voiture dans la campagne. Sa voiture tombe en panne, il se range sur le bas-côté. Il sort son téléphone portable, pas de signal. Il commence à marcher en direction du prochain village. Une petite demi-heure de marche, il récupère du signal et appelle son assurance. Il y a d’ailleurs un garage dans le village. Une heure plus tard, sa voiture est au garage, deux heures plus tard, il est reparti.
+> Un personnage roule en voiture dans la campagne. Sa voiture tombe en panne, il se range sur le bas-côté.<!--more--> Il sort son téléphone portable, pas de signal. Il commence à marcher en direction du prochain village. Une petite demi-heure de marche, il récupère du signal et appelle son assurance. Il y a d’ailleurs un garage dans le village. Une heure plus tard, sa voiture est au garage, deux heures plus tard, il est reparti.
 
 Cette histoire, où tout se passe « comme dans la vie », n’a aucun intérêt.
 
