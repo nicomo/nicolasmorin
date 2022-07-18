@@ -47,7 +47,7 @@ En tant que fils aîné de la fratrie, c’est moi qui ai écrit et dit l’eulo
 
 J’ai été obligé d’y (re-)penser une première fois cette semaine en lisant ce tweet de Pieter Hintjens, le développeur dont je vous ai parlé la semaine dernière à l’occasion de la publication de ses Confessions of a Necromancer. Pieter Hintjens est mort le 4 octobre.
 
-{{< tweet 783254242052206592 >}}
+{{< tweet user="hintjens" id="783254242052206592" >}}
 
 J’ai été obligé d’y repenser encore en lisant cet article de The Verge sur le “[Roman bot](http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot)”. De quoi s’agit-il? Roman Mazurenko est mort renversé par une voiture; il avait moins de 30 ans. Son amie Eugenia Kuyda travaille dans une startup qui fait de l’intelligence artificielle. Elle a géré son deuil à sa façon : elle a récupéré les centaines de SMS et chats échangés avec Roman, ainsi que ceux qu’il avait échangé avec d’autres membres de leur groupe d’amis, elle en a nourri une intelligence artificielle qui a essayé d’analyser ses textes, de comprendre ses maniérismes… et elle fait un bot.
 

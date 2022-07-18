@@ -61,7 +61,7 @@ En tout cas, il sera intéressant de voir comment ces solutions de « tablettes 
 
 Et tous les acheteurs ne seront pas à égalité par rapport à ces évolutions des outils. Cf ce tweet, le tweet de la semaine pour ce qui me concerne…
 
-{{< tweet 730487929907216384 >}}
+{{< tweet user="JennyBryan" id="730487929907216384" >}}
 
 ## 4. Remix OS et le laptop à moins de 100€
 

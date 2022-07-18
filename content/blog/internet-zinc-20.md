@@ -9,7 +9,7 @@ feature_image = "/img/iz-banner.png"
 
 ## 1. Le Wordpress de la Réalité Virtuelle?
 
-{{< tweet 745334863709016064 >}}
+{{< tweet user="pomeranian99" id="745334863709016064" >}}
 
 Excellente question.
 

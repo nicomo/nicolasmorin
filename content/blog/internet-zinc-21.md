@@ -84,5 +84,3 @@ Elle a aussi donné une [interview de 4 minutes à la radio WNYC](http://www.wny
 Suivez [@punchesbears](https://twitter.com/punchesbears) ! Il développe des jeux de réalité virtuelle. Un jeu avec de gros ours sympas qui dansent au rythme de la musique. Ça donne une idée de ce que c’est que le développement de jeux, il poste plein de petites vidéos où l’on voit la progression de son travail.
 
 Et vous aurez des perles comme celle-la : _« Programmé les ours pour qu’ils me coursent en réalité virtuelle. Un d’eux faisait genre 6 mètres de haut. Mon cerveau a paniqué et je me suis encadré dans mon frigo. »_
-
-{{< tweet 764277873452589056 >}}
