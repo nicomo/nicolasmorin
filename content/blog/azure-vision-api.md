@@ -2,7 +2,7 @@
 title= "Azure Vision Api"
 date= 2018-01-17T12:09:18+01:00
 description = "Playing around with the Azure Vision API to automagically index photographs"
-tags = [ "microsoft", "machine learning", "vision", "golang" ]
+tags = [ "divers", "microsoft", "machine learning", "vision", "golang" ]
 type = "post"
 feature_image = "/img/manioc-okoume.jpg"
 +++

@@ -2,7 +2,7 @@
 date = "2015-01-13T16:46:24+01:00"
 title = "Une histoire de l'informatique documentaire"
 description = "Une histoire personnelle de l'informatique documentaire dans les BU françaises (1995–2015) "
-tags = ["informatique", "bibliothèques", "histoire"]
+tags = ["divers", "informatique", "bibliothèques", "histoire"]
 type = "post"
 feature_image = "/img/histInfoDoc.png"
 +++

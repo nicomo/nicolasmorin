@@ -2,7 +2,7 @@
 title = "A Database of French Researchers (1)"
 date = 2019-08-24T07:57:36+01:00
 description = "First results of a project about French researchers and their publications"
-tags = [ "data", "universities", "research", "france" ]
+tags = [ "divers", "data", "universities", "research", "france" ]
 type = "post"
 feature_image = "/img/fre-researchers-1.jpg"
 +++

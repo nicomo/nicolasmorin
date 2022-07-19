@@ -2,7 +2,7 @@
 title = "J. S. Mill, De la liberté. (3 - suite et fin)"
 date = 2020-06-18T08:05:49+02:00
 description = "Une lecture du De la liberté de John Stuart Mill. Chap. 2 à 5"
-tags = [ "Liberté d'expression", "Mill", "De la liberté"  ]
+tags = [ "éthique", "Liberté d'expression", "Mill", "De la liberté"  ]
 type = "post"
 feature_image = "/img/mill-house-avignon.jpg"
 +++

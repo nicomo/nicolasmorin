@@ -2,7 +2,7 @@
 title = "Simple civilité : désaccords et limites à la tolérance"
 date = 2020-08-21T05:15:07+02:00
 description = "Recension de Teresa M. Bejan, Mere Civility"
-tags = [ "liberté d'expression", "hobbes", "locke", "williams" ]
+tags = [ "éthique", "liberté d'expression", "hobbes", "locke", "williams" ]
 type = "post"
 feature_image = "/img/bejan-mere-civility.jpg"
 +++

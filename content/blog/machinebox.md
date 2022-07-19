@@ -2,7 +2,7 @@
 title = "Machinebox"
 date = 2018-01-31T13:48:42+01:00
 description = "Playing around with Machinebox to automagically detect faces in photographs"
-tags = [ "machinebox", "machine learning", "golang"  ]
+tags = [ "divers", "machinebox", "machine learning", "golang"  ]
 type = "post"
 feature_image = "/img/machinebox.png"
 +++

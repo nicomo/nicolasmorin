@@ -2,7 +2,7 @@
 date = "2017-06-18T10:24:53+02:00"
 title = "Hugo on Firebase"
 description = "How to deploy a gohugo site on firebase"
-tags = [ "golang", "gohugo", "firebase" ]
+tags = [ "divers", "golang", "gohugo", "firebase" ]
 type = "post"
 feature_image = "/img/hugo-logo.png"
 +++

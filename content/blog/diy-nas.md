@@ -2,7 +2,7 @@
 title = "DIY NAS"
 date = "2018-03-31T10:19:46+01:00"
 description = "A Do-It-Yourself NAS using a headless Raspeberry Pi and a USB HD"
-tags = [ "diy", "raspberrypi" ]
+tags = [ "divers", "diy", "raspberrypi" ]
 type = "post"
 feature_image = "/img/diy-nas.png"
 +++

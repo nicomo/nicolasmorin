@@ -2,7 +2,7 @@
 title = "Web App With Gobuffalo"
 date = 2018-08-19T17:05:51+02:00
 description = "Building a mock web app to learn the ins & outs of the GoBuffalo web framework"
-tags = [ "golang", "gobuffalo",  ]
+tags = [ "divers", "golang", "gobuffalo",  ]
 type = "post"
 feature_image = "/img/kumano-kodo.jpg"
 +++

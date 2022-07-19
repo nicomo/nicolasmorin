@@ -2,7 +2,7 @@
 title = "Le 1er amendement (6) : Vietnam et au-delà"
 date = 2020-04-14T07:04:12+02:00
 description = "Du danger clair et imminent à l'action illégale imminente, l'évolution de la jurisprudence du 1er amendement après la Seconde Guerre Mondiale."
-tags = [ "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 +++

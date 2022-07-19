@@ -2,7 +2,7 @@
 date = "2016-08-15T11:04:51+02:00"
 title = "Learning Go"
 description = "This is just another “Learning Go” Post"
-tags = [ "golang", "programming" ]
+tags = [ "divers", "golang", "programming" ]
 type = "post"
 +++
 

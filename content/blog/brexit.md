@@ -1,7 +1,7 @@
 +++
 date = "2017-07-25T19:29:41+02:00"
 description = "How the Brexit debate echoes the debates of the 1950s and 1960s"
-tags = ["brexit", "politics", "history"]
+tags = ["divers", "brexit", "politics", "history"]
 title = "Brexit 1956"
 type = "post"
 feature_image = "/img/brexit1956.jpg"

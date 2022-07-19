@@ -2,7 +2,7 @@
 date = "2017-06-16T19:25:25+02:00"
 title = "Amazon 2017"
 description = "Amazon achète Whole Foods (et les évolutions de la consommation)"
-tags = ["business", "tech"]
+tags = ["divers", "business", "tech"]
 type = "post"
 feature_image = "/img/amazon2017.png"
 +++

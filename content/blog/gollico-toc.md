@@ -2,7 +2,7 @@
 title = "Gollico - ToC"
 date = "2018-02-11T10:19:46+01:00"
 description = "A Go Client for the Gallica APIs. #1. Table of Contents"
-tags = [ "gallica", "golang", "gollico" ]
+tags = [ "divers", "gallica", "golang", "gollico" ]
 type = "post"
 feature_image = "/img/gallica-toc.png"
 +++

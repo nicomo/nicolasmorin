@@ -2,7 +2,7 @@
 title = "Lèse-nation"
 date = 2020-11-22T12:57:04+01:00
 description = "Recension de Charles Walton, Policing Public Opinion in the French Revolution"
-tags = [ "liberté d'expression", "revolution", "france" ]
+tags = [ "éthique", "liberté d'expression", "revolution", "france" ]
 type = "post"
 feature_image = "/img/walton.png"
 +++

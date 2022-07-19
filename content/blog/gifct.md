@@ -2,7 +2,7 @@
 title = "Qu'est-ce que GIFCT?"
 date = 2020-09-05T11:20:46+02:00
 description = "GIFCT: une base de données partagée sur les contenus terroristes"
-tags = [ "liberté d'expression", "gifct", "censure" ]
+tags = [ "éthique", "liberté d'expression", "gifct", "censure" ]
 type = "post"
 feature_image = "/img/gifct.png"
 +++

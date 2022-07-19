@@ -2,7 +2,7 @@
 title = "J. S. Mill, De la liberté. 1. Introduction (1)"
 date = 2020-05-10T08:43:19+02:00
 description = "Une lecture du De la liberté de John Stuart Mill. Introduction."
-tags = [ "Liberté d'expression", "Mill", "De la liberté" ]
+tags = [ "éthique", "Liberté d'expression", "Mill", "De la liberté" ]
 type = "post"
 feature_image = "/img/mill-house-avignon.jpg"
 +++

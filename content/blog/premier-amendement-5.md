@@ -2,7 +2,7 @@
 title = "Le 1er amendement (5) : un « danger clair et immédiat »"
 date = 2020-04-12T08:14:24+02:00
 description = "O. Wendell Holmes et le critère du danger clair et imminent, le 1er amendement autour de la Première Guerre Mondiale."
-tags = [ "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 +++

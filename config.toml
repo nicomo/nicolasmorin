@@ -49,11 +49,16 @@ ignoreErrors = ["error-remote-getjson"]
   weight = 200
 
 [[menu.main]]
-  name = "Liberté d'expression"
-  url = "/tags/liberté-dexpression/"
+  name = "éthique"
+  url = "/tags/éthique/"
   weight = 210
 
 [[menu.main]]
-  name = "Littérature"
-  url = "https://www.nicomo.io"
-  weight = 215
+  name = "cuisine"
+  url = "/cuisine/"
+  weight = 211
+
+[[menu.main]]
+  name = "Divers"
+  url = "/tags/divers/"
+  weight = 220

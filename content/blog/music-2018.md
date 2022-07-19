@@ -2,7 +2,7 @@
 title = "Music 2018"
 date = 2019-01-06T14:50:11+01:00
 description = "Music I listened to in the past year"
-tags = [ "music" ]
+tags = [ "divers", "music" ]
 type = "post"
 feature_image = "/img/dan-auerbach.png"
 +++

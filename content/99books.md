@@ -2,7 +2,6 @@
 date = "2016-05-02T17:14:45+02:00"
 title = "99 books"
 description = "A personal literary canon in 100 x 100 px, black & white icons."
-menu = "main"
 +++
 
 A personal literary canon in 100 x 100 px, black & white icons. Work in _slooow_ progress (started 2016).

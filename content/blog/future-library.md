@@ -2,7 +2,7 @@
 date = "2017-06-22T12:15:30+02:00"
 title = "Future library"
 description = "Why I bought a Future Library Certificate, 2014 - 2114"
-tags = [ "art", "libraries", "norway", "books" ]
+tags = [ "divers", "art", "libraries", "norway", "books" ]
 type = "post"
 feature_image = "/img/Katie_Paterson_Future_Library.jpg"
 +++

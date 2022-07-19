@@ -2,7 +2,7 @@
 date = "2015-12-22T13:27:08+02:00"
 title = "Books 2015"
 description = "The books I read in 2015"
-tags = [ "books", "reading" ]
+tags = [ "divers", "books", "reading" ]
 type = "post"
 +++
 

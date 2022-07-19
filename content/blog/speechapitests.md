@@ -2,7 +2,7 @@
 title= "Google Speech API"
 date= 2018-01-10T10:00:03+01:00
 description = "Playing around with the Google Speech API to automagically index sound files"
-tags = [ "google", "speech recognition", "golang" ]
+tags = [ "divers", "google", "speech recognition", "golang" ]
 type = "post"
 feature_image = "/img/google-speech-api.png"
 +++
