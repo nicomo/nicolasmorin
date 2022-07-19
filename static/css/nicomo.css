@@ -2,3 +2,55 @@ img[src$='#books'] {
     background-color: white;
     max-width: 100px;
 }
+
+
+div#mc_embed_signup_scroll {
+    margin: 2rem;
+    text-align: center;
+}
+
+form { 
+
+    align-items: center;
+}
+
+label {
+    margin: 5px 10px 5px 0;
+
+}
+
+input {
+    vertical-align: middle;
+    padding:0.7em 1.7em;
+    margin:0 0.3em 0.3em 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+  
+
+email:focus, input:focus {
+    border: 2px solid #65bd0d;
+}
+
+input#mc-embedded-subscribe.button {
+    max-width: 100% !important;
+    padding:0.7em 1.7em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:400;
+    color:#FFFFFF;
+    background-color:#65bd0d;
+    box-shadow:inset 0 -0.6em 1em -0.35em rgba(0,0,0,0.17),inset 0 0.6em 2em -0.3em rgba(255,255,255,0.15),inset 0 0 0em 0.05em rgba(255,255,255,0.12);
+    text-align:center;
+}
+
+input#mc-embedded-subscribe.button:hover {
+    background-color: #5cad0c;
+}
+
+input#mc-embedded-subscribe.button:active   {
+    box-shadow:inset 0 0.6em 2em -0.3em rgba(0,0,0,0.15),inset 0 0 0em 0.05em rgba(255,255,255,0.12);
+}
