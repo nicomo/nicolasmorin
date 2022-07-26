@@ -2,7 +2,7 @@
 title = "Judith Shklar (1928-1992)"
 date = 2022-07-23T11:06:24+02:00
 description = "Une présentation courte de Judith Shklar (1928-1992) et de son travail en philosophie et théorie politique"
-tags = [ "théorie politique", "éthique", "shklar" ]
+tags = [ "philosophie politique", "shklar" ]
 type = "post"
 feature_image = "/img/shklar.png"
 draft = "true"

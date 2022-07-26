@@ -2,7 +2,7 @@
 title = "Le 1er amendement (2) : le Bill of Rights"
 date = 2020-04-09T07:49:10+02:00
 description = ""
-tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "philosophie politique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 +++

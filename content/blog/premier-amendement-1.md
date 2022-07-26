@@ -2,7 +2,7 @@
 title = "Le 1er amendement (1) : ratification de la constitution"
 date = 2020-04-05T07:01:22+02:00
 description = ""
-tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "philosophie politique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 

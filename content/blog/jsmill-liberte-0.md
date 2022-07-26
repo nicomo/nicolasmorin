@@ -2,7 +2,7 @@
 title = "J.S. Mill. De la liberté (0)"
 date = 2020-05-06T04:45:11+02:00
 description = "Une lecture du De la liberté de John Stuart Mill. Avant-propos."
-tags = [ "éthique", "Liberté d'expression", "Mill", "De la liberté" ]
+tags = [ "philosophie politique", "Liberté d'expression", "Mill", "De la liberté" ]
 type = "post"
 feature_image = "/img/mill-house-avignon.jpg"
 +++

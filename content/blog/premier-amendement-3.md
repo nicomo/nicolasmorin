@@ -2,7 +2,7 @@
 title = "Le 1er amendement (3) : les Lumières écossaises"
 date = 2020-04-10T07:04:26+02:00
 description = "L'influence des Lumières écossaises sur la pensée de James Madison."
-tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "philosophie politique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 +++

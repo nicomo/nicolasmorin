@@ -2,7 +2,7 @@
 title = "Pourquoi parler de liberté d'expression ?"
 date = 2020-04-04T19:09:44+02:00
 description = "Introduction au thème de la liberté d'expression."
-tags = [ "éthique", "liberté d'expression" ]
+tags = [ "philosophie politique", "liberté d'expression" ]
 type = "post"
 feature_image = "/img/liberte-expression-0.png"
 +++

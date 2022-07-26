@@ -2,7 +2,7 @@
 title = "Le 1er amendement (4): les 100 premières années"
 date = 2020-04-11T07:17:39+02:00
 description = "Sedition Act et Incorporation, le 1er amendement au 19e siècle"
-tags = [ "éthique", "liberté d'expression", "Etats-Unis", "Constitution" ]
+tags = [ "philosophie politique", "liberté d'expression", "Etats-Unis", "Constitution" ]
 type = "post"
 feature_image = "/img/we-the-people.jpg"
 +++

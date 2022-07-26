@@ -49,8 +49,8 @@ ignoreErrors = ["error-remote-getjson"]
   weight = 200
 
 [[menu.main]]
-  name = "éthique"
-  url = "/tags/éthique/"
+  name = "philosophie politique"
+  url = "/tags/philosophie-politique/"
   weight = 210
 
 [[menu.main]]
