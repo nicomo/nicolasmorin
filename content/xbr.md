@@ -3,20 +3,19 @@ date = "2017-12-22T17:16:28+02:00"
 title = "XBR"
 menu = "main"
 description = "A Christine Brooke-Rose Bibliography"
-
 feature_image = "/img/xbr_portrait.jpg"
 +++
 
-Portrait of XBR by [Alexa Brunet / Transit](http://www.alexabrunet.com)
-
 ## A Christine Brooke-Rose bibliography
 
-[The Guardian obituary](http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1) of Christine Brooke-Rose is still the best very short introduction, I think. It talks about the &ldquo;marvellously playful and difficult novelist Christine Brooke-Rose&rdquo;. She was a literary critic, an essayist, a novelist, a teacher who lived mainly in the UK and France.<br />
+[The Guardian obituary](http://www.theguardian.com/books/2012/mar/23/christine-brooke-rose1) of Christine Brooke-Rose is still the best very short introduction, I think.<!--more--> It talks about the &ldquo;marvellously playful and difficult novelist Christine Brooke-Rose&rdquo;. She was a literary critic, an essayist, a novelist, a teacher who lived mainly in the UK and France.<br />
 Her books are published mainly by [Carcanet](http://www.carcanet.co.uk/cgi-bin/indexer?owner_id=83).
 
 A [Christine Brooke-Rose society](http://christinebrookerose.org/about-the-society) was launched in 2015 but so far it has a very light footprint online.
 
 You can [download this bibliography](/files/xbr_biblio.ris) as a .RIS file. It was _last updated Feb. 2018_
+
+Portrait of XBR by [Alexa Brunet / Transit](http://www.alexabrunet.com)
 
 ***
 
