@@ -44,21 +44,22 @@ ignoreErrors = ["error-remote-getjson"]
   post = ":slug/"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
-
-[[menu.main]]
-  name = "philosophie politique"
+  name = "Philosophie politique"
   url = "/tags/philosophie-politique/"
   weight = 210
-
-[[menu.main]]
-  name = "cuisine"
-  url = "/cuisine/"
-  weight = 211
 
 [[menu.main]]
   name = "Divers"
   url = "/tags/divers/"
   weight = 220
+
+[[menu.main]]
+  name = "Cuisine"
+  url = "/cuisine/"
+  weight = 230
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
