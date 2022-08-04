@@ -1,6 +1,6 @@
 +++
 title = "Obligation, loyauté, exil"
-date = 2022-09-04T08:00:05+02:00
+date = 2022-10-03T08:00:05+02:00
 description = "Une lecture de Judith Shklar, Political Theory and the Rule of Law (1987)"
 tags = [ "philosophie politique", "shklar" ]
 type = "post"

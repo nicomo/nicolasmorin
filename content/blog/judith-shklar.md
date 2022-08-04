@@ -1,6 +1,6 @@
 +++
 title = "Judith Shklar (1928-1992)"
-publishdate = 2022-08-15T08:00:00+02:00
+publishdate = 2022-09-05T08:00:00+02:00
 description = "Une présentation courte de Judith Shklar (1928-1992) et de son travail en philosophie et théorie politique"
 tags = [ "philosophie politique", "shklar" ]
 type = "post"

@@ -1,6 +1,6 @@
 +++
 title = "Le libéralisme de la peur"
-publishdate = 2022-08-15T08:05:54+02:00
+publishdate = 2022-09-05T08:05:54+02:00
 description = "Une lecture de J. Shklar, The Liberalism of Fear."
 tags = [ "philosophie politique", "libéralisme", "shklar" ]
 type = "post"

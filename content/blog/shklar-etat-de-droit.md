@@ -1,6 +1,6 @@
 +++
 title = "Shklar sur l'état de droit"
-date = 2022-08-28T08:00:05+02:00
+date = 2022-09-19T08:00:05+02:00
 description = "Une lecture de Judith Shklar, Political Theory and the Rule of Law (1987)"
 tags = [ "philosophie politique", "libéralisme", "shklar", "état de droit", "hayek", "montesquieu", "dworkin", "aristote" ]
 type = "post"
