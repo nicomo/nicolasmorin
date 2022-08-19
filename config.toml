@@ -3,16 +3,14 @@ theme           = "hugo-casper3"
 languageCode    = "fr-FR"
 disqusShortname = ""
 paginate        = 10
-Title       = "Nicolas Morin (@nicomo)"
+Title       = "Nicolas Morin 🕶"
 ignoreErrors = ["error-remote-getjson"]
 #SectionPagesMenu = "main"
 # background       = "/img/config-cover-home.jpeg"
 
 [params]
-  Title       = "Nicolas Morin (@nicomo)"
-
-
-  description = "Bricoleur de code et d'idées. Sometimes in English. 🕶"
+  Title       = "Nicolas Morin 🕶"
+  description = "Récits et fictions courtes, rhum, tech, théorie politique et éthique."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["css/nicomo.css"]
