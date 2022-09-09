@@ -1,6 +1,6 @@
 +++
 title = "Le libéralisme de la peur"
-publishdate = 2022-09-05T08:05:54+02:00
+publishdate = 2022-09-09T08:05:54+02:00
 description = "Une lecture de J. Shklar, The Liberalism of Fear."
 tags = [ "philosophie politique", "libéralisme", "shklar" ]
 type = "post"
@@ -9,7 +9,7 @@ feature_image = "/img/liberalism-fear.jpg"
 
 Une lecture de Judith Shklar, _The liberalism of Fear_ (1989).<!--more-->
 
-Si vous ne savez pas du tout de qui on parle, cf. ma présentation générale sur [Judith Shklar]({{< ref "/blog/judith-shklar" >}}).
+Si vous ne savez pas du tout de qui on parle, cf. ma présentation générale sur [Judith Shklar]({{< ref "judith-shklar" >}}).
 
 _The liberalism of Fear_ est un court essai, d’une dizaine de pages, publié en 1989 dans un ouvrage collectif, et qui forme le chapitre 1 du recueil _Political Thought and Political Thinkers_ qui a regroupé en 1998, à titre posthume, un certain nombre d’articles de Judith Shklar.
 

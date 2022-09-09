@@ -1,11 +1,10 @@
 +++
 title = "Judith Shklar (1928-1992)"
-publishdate = 2022-09-05T08:00:00+02:00
+publishdate = 2022-09-09T08:00:00+02:00
 description = "Une présentation courte de Judith Shklar (1928-1992) et de son travail en philosophie et théorie politique"
 tags = [ "philosophie politique", "shklar" ]
 type = "post"
 feature_image = "/img/shklar.png"
-draft = "true"
 +++
 
 Judith Shklar est une philosophe et théoricienne de la politique dont l'oeuvre, méconnue en France, est à mes yeux aussi importante que celle d'un Rawls ou d'une Arendt.<!--more-->

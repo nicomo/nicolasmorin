@@ -1,6 +1,6 @@
 ---
 title: "Lede"
-date: 2022-02-19T08:05:43+02:00
+date: 2022-04-16T08:05:43+02:00
 type: "post"
 tags: ["cuisine"]
 feature_image: "/img/cuisine-lede.png"
