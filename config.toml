@@ -14,7 +14,6 @@ ignoreErrors = ["error-remote-getjson"]
   metaDescription = ""
   googleAnalytics = ""
   customCSS = ["css/nicomo.css"]
-  RSSLink = ""
 
   mainSections = ["post"]
 
@@ -27,16 +26,18 @@ ignoreErrors = ["error-remote-getjson"]
   orgWebsite = ""
   orgDescription = ""
 
-  author = "Nicolas Morin"
   authorAvatar = "img/avatar.jpg"
-  authorLocation = "Paris, France"
-  authorWebsite = ""
-  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
   #casper3
   singleViewStyle = "casper3"
+
+[author]
+  name = "Nicolas Morin"
+
+[services.rss]
+  limit = 10
 
 [permalinks]
   post = ":slug/"
