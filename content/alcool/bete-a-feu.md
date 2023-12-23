@@ -1,0 +1,32 @@
+---
+title: "A1710 Bête à feu"
+date: 2021-05-29T12:09:51+02:00
+tags: [ "alcool", "rhum" ]
+type: "post"
+description: "Renaissance d'une distillerie sur la côte Atlantique de la Caraïbe"
+feature_image: "/img/bete-a-feu.jpg"
+---
+
+Le 20e siècle en Martinique a vu la fermeture de dizaines de distilleries. Celles qui restent se comptent sur les doigts des deux mains. En 2016 pourtant, une nouvelle distillerie a été créée au François, sur la côte Atlantique de l’île, qui commercialise ses rhums sous la marque A1710.<!--more--> La première création depuis des décennies, peut-être plus d’un siècle.
+
+A1710 est une distillerie à la fois extrêmement traditionnelle, et tout à fait innovante, qui produit en relativement petites quantités un rhum artisanal. C’est un rhum fait à partir de cannes locales, pour l’essentiel, qui sont pour partie fournies par des agriculteurs locaux, et pour partie récoltées sur la propriété. Couper la canne est difficile : il fait très chaud, il faut se pencher tout le temps, les cannes sont lourdes. Jadis c’était aussi un travail dangereux : les champs de canne étaient des repaires de serpents dont, aujourd’hui encore, il faut se méfier dans ces hautes herbes. Sur les parcelles d’A1710, la coupe se fait à la main, avec un coutelas (une machette, dirait-on ailleurs), ce qui permet d’avoir une canne plus longue qu’une coupe à la machine. A1710 fait produire ses coutelas par un artisan martiniquais.
+
+Le _vesou_ (jus de canne) est mis à fermenter dans une cuve à double paroi : l’eau qui circule dans la paroi extérieure ralentie la fermentation, qui dure jusqu’à cinq jours : c’est plus long qu’habituellement (24 h à 36 h) et que ce qu’autorise l’AOC Rhum Agricole, mais ça laisse le temps au vin obtenu (la _grappe_) de développer plus d’aromes.
+
+L’alambic utilisé pour la distillation est, ici, Charentais et entièrement en cuivre, ce qui est inhabituel et différencie à nouveau A1710 de ses homologues martiniquais. Le cuivre, qui interagit avec les aliments ou le vin cuit, dans un alambic qui n'est _pas_ une colonne, donne à ce rhum un goût unique, mélange de rhum agricole et de rhum au _funk_ presque jamaïcain.
+
+Bête à Feu a gagné à Londres, au _World Rum Awards 2021_, la catégorie _World’s Best Agricole & Sugarcane Juice_. Sa robe est absolument cristalline, son nez est intense, mélange de notes florales, canne fraîche, fruits mûrs. En bouche on sent d’abord la brûlure de l’alcool (50 %), qui a un goût presque métallique et industriel, avant qu’arrivent des parfums de réglisse, de fruits à nouveau, de miel.
+
+C’est un rhum remarquable. dont il reste à expliquer les noms : _Bête à Feu_ pour le rhum, et _A1710_ pour la marque.
+
+En créole, _bête à fé_ est le nom de la luciole, et _’ti feu_ le nom du rhum servi « sec ».
+
+A1710 ? A pour Yves Assier de Pompignan, le nom du propriétaire, et 1710 pour l’année d’arrivée en Martinique de son ancêtre Jean Assier, amené là comme secrétaire particulier de Raymond-Balthazar Phélypeaux, nouvellement nommé par le Roi comme Gouverneur général des Indes occidentales (qui, d'ailleurs, meurt sur place à peine arrivé).
+
+La famille Assier de Pompignan est l’une des plus anciennes et importantes familles béké de l’île. Les békés sont les blancs créoles descendant des premiers colons européens. Ils sont peu nombreux, quelques milliers de personnes représentant moins de 1 % de la population locale, mais jouent sur l’île un rôle économique important. Ils contrôlent en particulier la grande distribution (Carrefour, Mr Bricolage, Décathlon, etc.), le secteur automobile (Renault), la production agroalimentaire (dont le rhum : Depaz était un béké, Clément appartient au Groupe Bernard Hayot, etc). La plus grande fortune de Martinique, justement, est un autre béké, Bernard Hayot. Il est aussi parmi les plus grandes fortunes de France (275e selon Challenges, pour ceux qui aiment ce genre de classements), et a pour gendre un Assis de Pompignan. C’est à ce monde qu’appartient le fondateur d’A1710 : la distillerie de Sainte-Marie (qui produit aujourd’hui les rhums Saint James) appartenait à son arrière-grand-père, les Rhums Maniba, qui étaient produits dans la même région et se sont arrêtés au début des années 1970, appartenaient à son grand-père maternel. Inutile de dire que dans toute cette histoire familiale, de 1710 à 1848, il y a eu des esclaves.
+
+C’est une histoire encore très vivante et qui se rappelle souvent à nous. Samedi dernier 22 mai 2021, par exemple, jour anniversaire de l’abolition de l’esclavage. France Antilles explique le lendemain que « suite à un appel lancé sur les réseaux sociaux, des manifestants se sont retrouvés samedi soir à Frégate au François puis au Cap Est, lieu de résidence de nombreuses familles béké. » La distillerie A1710 est littéralement sur le chemin de la manifestation. Les manifestants incendient un local poubelle, ce qui oblige les pompiers à intervenir avec trois camions, et les gendarmes à se positionner à proximité, en cas de débordement plus important, ce qui ne sera finalement pas nécessaire.
+
+Toute la Martinique est là ou presque : un rhum exceptionnel, à la fois innovant et traditionnel, dans une île à l’histoire effroyablement complexe et qui n’a jamais été examinée sérieusement, qui perdure et suppure. Les békés dominent l’économie, les populations locales brûlent des poubelles, l’État français surveille. Il ne manque dans ce tableau qu’une seule et dernière catégorie : les hommes politiques locaux, qui ne sont pas békés, pour le coup, mais en général noirs ou métisses, et ont leur propre espace de domination au travers des collectivités locales et territoriales. Les élections régionales ont lieu là comme ailleurs ce mois-ci et le sortant et candidat à sa propre succession est Alfred Marie-Jeanne. Il a 84 ans. Il dirige depuis 1973 le Mouvement Indépendantiste Martiniquais, qu'il a créé avec Marc Pulvar (père de...), qui malgré son nom ne souhaite surtout pas l'indépendance de l'île. Nul doute que s'il est réélu il boira pour fêter ça un rhum dont la recette reviendra au moins en partie à un béké. A moins qu'il ne préfère une coupe de Champagne : la Martinique est le département qui en consomme le plus en France.
+
+Un pays _fascinant et compliqué_, vous dis-je.

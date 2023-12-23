@@ -1,0 +1,22 @@
+---
+title: "Histoire : Da Costa 1654"
+date: 2021-06-26T11:10:51+02:00
+tags: [ "alcool", "rhum" ]
+type: "post"
+feature_image: "/img/dutch-west-india.jpg"
+description: "Histoire de l'invention du rhum dans la Caraïbe : Da Costa 1654"
+---
+
+Il est difficile de parler de l'origine du rhum sans parler des Juifs Néerlandais d'origine portugaise du milieu du 17e siècle.<!--more--> Comme Baruch Spinoza, qui n'a malheureusement rien à voir avec le rhum. Réfugiés aux Pays-Bas à la fin du 15e siècle, les Juifs d'origine portugaise s'insèrent dans la vie économique locale. Or les Néerlandais sont, aux XVe et XVIe siècle, à la pointe de la production d'alcools, considérés aussi comme des médicaments, infusés d'herbes diverses. Pensez, en France, à la Chartreuse, dont la recette originale date aussi de la première moitié du 17e. Aux Pays-Bas, l'alcool équivalent est fait avec des baies de genièvres et deviendra le gin. Pour réaliser ce proto-gin, les Néerlandais perfectionnent alambics et techniques de distillation.
+
+En 1630 la Compagnie néerlandaise des Indes occidentales décide de prendre possession de la région brésilienne de Pernambouc, propriété Espagnole et principale région de production sucrière du commerce atlantique d'alors. La communauté juive néerlandaise participe à l'exploitation du sucre dans la nouvelle colonie : il y a une synagogue à Recife dès 1636. Mais la main mise des Néerlandais sur la région est fragile et dès le début des années 1640 ils cèdent progressivement du terrain aux Portugais (désormais indépendants de l'Espagne), jusqu'à devoir quitter entièrement la région en 1654.
+
+On fait déjà avant 1654 de l'alcool à base de canne à sucre dans les Antilles, par fermentation pour produire une sorte de bière, et il y a quelques signes dans les documents d'époque d'un début d'activité de distillation. Les textes anglophones parlent de _Kill-Divil_ que les Français transforment en _Guildive_, les textes francophones parlent aussi d'eau-de-vie de canne. Ce vocabulaire encore instable est le signe d'une réalité elle-même nouvelle et incertaine. Le terme Rum viendra finalement de _Rumbullion_, un mot du Devonshire signifiant "un grand tumulte", qui peut avoir été adopté par certains des colons originaires de cette région et installés à la Barbade. Bref, il se fait à la fin des années 1640, ici et là, une eau de vie de canne artisanale, probablement en petites quantités. Mais ce n'est pas encore une authentique production de rhum.
+
+Quand la Compagnie néerlandaise des Indes occidentales est expulsée du Brésil, elle cherche à réorienter son activité : elle propose le service de ses bateaux aux colons Anglais et Français des Antilles, dont la production sucrière commence à prendre de l'ampleur mais qui ne bénéficient pas de capacités de transport suffisantes. Par ailleurs plusieurs groupes de Juifs néerlandais expulsés du Pernambouc s'installent, en petit nombre, à la Barbade, à la Martinique et à la Guadeloupe. Ils y apportent les innovations techniques auxquelles ils ont travaillé au Brésil en matière de traitement de la canne, de production sucrière, et de distillerie.
+
+En Martinique en 1654, le gouverneur Du Parquet autorise ainsi 250 juifs néerlandais à s'installer. La famille Da Costa d'Andrade, en particulier, joue un rôle important. Elle plante, par exemple, le premier plan de cacao de l'île, ayant emprunté plante et recette aux Indiens de l'Amazone. A la Barbade, ce sont aussi quelques familles juives venant du Brésil qui améliorent d'un coup la qualité du rhum produit sur place, et le traitement du sucre en général. C'est dans ces années 1650 et dans ces deux îles, Martinique et Barbade, qu'est réellement "inventé" le rhum.
+
+Le Code Noir édicté par Louis XIV en 1685 inclut aussi une mesure d'expulsion des juifs : Benjamin da Costa d'Andrade et sa famille sont spoliés et expulsés de la Martinique, comme tout le reste de la communauté juive. Ils se réfugient sur l'île néerlandaise de Curaçao, où un autre marchand brésilien de Recife, Isaac Da Costa, s'était installé dans les années 1650. Benjamin da Costa est de retour en Europe, à Amsterdam, une dizaine d'années plus tard.
+
+En résumé : le rhum est un cousin du gin par la branche juive néerlandaise et quelqu'un devrait, en hommage, créer une cuvée _BDC 1654_. CQFD.

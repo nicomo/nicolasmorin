@@ -48,8 +48,8 @@ ignoreErrors = ["error-remote-getjson"]
   weight = 210
 
 [[menu.main]]
-  name = "Divers"
-  url = "/tags/divers/"
+  name = "Alcool"
+  url = "/tags/alcool/"
   weight = 220
 
 [[menu.main]]
