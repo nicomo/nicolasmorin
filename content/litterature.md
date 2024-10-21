@@ -7,7 +7,7 @@ description = "Publications personnelles"
 
 
 
-Je produis parfois de la littérature, comme d'autres du mobilier ou de la musique. Je le fais lentement (je n'ai pas que ça à faire, je ne suis pas rentier), mais j'essaie de le faire le plus complètement possible, idéalement du texte aux illustrations, à la typographie, à l'objet-livre lui-même. Ce que je produits est hors commerce, je troque : si vous souhaitez obtenir un exemplaire, le plus simple est de m'écrire à nicolas.morin@gmail.com. Vous pourrez envoyer quelque chose à l'adresse que je vous donnerais (je suggère une bouteille d'un alcool de votre choix), et je vous enverrais un livre en retour.
+Je produis parfois de la littérature, comme d'autres du mobilier ou de la musique. Je le fais lentement (je n'ai pas que ça à faire, je ne suis pas rentier), mais j'essaie de le faire le plus complètement possible, idéalement du texte aux illustrations, à la typographie, à l'objet-livre lui-même. Ce que je produis est hors commerce, je troque : si vous souhaitez obtenir un exemplaire, le plus simple est de m'écrire à nicolas.morin@gmail.com. Vous pourrez envoyer quelque chose à l'adresse que je vous donnerais (je suggère une bouteille d'un alcool de votre choix), et je vous enverrais un livre en retour.
 
 ## Par la fenêtre noire [2025]
 
