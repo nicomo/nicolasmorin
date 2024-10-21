@@ -3,7 +3,7 @@ title: "Marcher et se séparer"
 date: 2021-02-06T15:56:35+02:00
 description: "Cuisine #2. Marcher et se séparer. Barres chocolatées. Macoucherie. Pages de vieux journal. Listes variées."
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/marcher-separer.jpg"
 ---
 

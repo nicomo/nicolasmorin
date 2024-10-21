@@ -2,11 +2,12 @@
 title: "Littérature, ménage, etc."
 date: 2022-09-10T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-litterature-menage-etc.jpg"
 description: "Cuisine #18 Littérature, ménage, etc. 🚀 Saul Bellow. The Old System 🍹 Glace 🔖 Favoris"
 ---
 
+![Littérature ménage](/img/cuisine-litterature-menage-etc.jpg)
 J’ai profité de l’été pour faire un peu de ménage. <!--more-->
 
 Comme les céramistes : ils récupèrent les morceaux de terre qu’ils ont enlevé lors de la production des pièces, ils les trempent, les retravaillent et en font de nouvelles mottes qui serviront à la production de pièces futures. Ils en profitent, j’imagine, pour nettoyer un peu le reste de l’atelier et réfléchir à ce qu’ils vont créer à l’avenir.

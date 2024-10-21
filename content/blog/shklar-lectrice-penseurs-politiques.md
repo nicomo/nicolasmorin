@@ -7,6 +7,8 @@ type = "post"
 feature_image = "/img/shklar-lectrice-penseurs-politiques.png"
 +++
 
+![Shklar lectrice des penseurs politiques](/img/shklar-lectrice-penseurs-politiques.png)
+
 _Learning about Thinkers_, qui forme toute la 3e et dernière partie du recueil _Political Thoughts and Political Thinkers_ (1998), regroupe des essais de Judith Shklar sur Pope, Harrington, Montesquieu, Rousseau, d’Alembert, Bergson, Orwell, Arendt et Walzer.<!--more-->
 
 Je ne veux essayer ni d'en faire une lecture exhaustive, ni d'en tirer de grandes leçons sur Shklar elle-même et sa propre philosophie. Mais de ces textes ressortent tout de même une manière de penser et de lire qui me semble caractéristique.

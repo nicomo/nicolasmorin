@@ -2,7 +2,7 @@
 title: "Ce n’est pas une petite affaire que d’être simple"
 date: 2021-08-21T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-simple.jpg"
 description: "Cuisine #9. Lenteurs. Décapotable rouge. Grog. Pages de vieux journal. Listes."
 ---

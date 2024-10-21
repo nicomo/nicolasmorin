@@ -2,7 +2,7 @@
 title: "Icebergs littéraires"
 date: 2021-09-18T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/icebergs-litteraires.jpg"
 description: "Cuisine #10. Icebergs littéraires. Cérémonies. Shrubb. Journal. Listes."
 ---

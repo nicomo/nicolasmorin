@@ -3,7 +3,7 @@ title: "Eggys ou Eyren"
 date: 2021-01-09T15:56:35+02:00
 description: "Cuisine #1. William Caxton et l'imprimerie. Saccharification. Ti punch. Pages de vieux journal. Listes variées."
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/eyren.png"
 ---
 

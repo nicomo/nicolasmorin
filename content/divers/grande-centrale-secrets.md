@@ -2,7 +2,7 @@
 title: "Grande centrale des secrets"
 date: 2021-05-01T11:09:51+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/grande-centrale-secrets.jpg"
 description: "Cuisine #5. Grande centrale des secrets. Chats multiples. Rhum kitsch. Livres lus et listes."
 ---

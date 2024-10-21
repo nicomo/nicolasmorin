@@ -1,46 +1,36 @@
-baseurl         = "/"
-theme           = "hugo-casper3"
-languageCode    = "fr-FR"
-disqusShortname = ""
-paginate        = 10
-Title       = "Nicolas Morin 🕶"
-ignoreErrors = ["error-remote-getjson"]
-#SectionPagesMenu = "main"
-# background       = "/img/config-cover-home.jpeg"
+baseurl = "https://nicolasmorin.com"
+theme = "PaperMod"
+paginate = 10
+Title = "Nicolas Morin 🕶"
 
 [params]
   Title       = "Nicolas Morin 🕶"
   description = "Récits et fictions courtes, rhum, tech, théorie politique et éthique."
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = ["css/nicomo.css"]
+  enableInlineShortcodes = "true"
+  enableRobotsTXT = "true"
+  buildDrafts = "true"
+  buildFuture = "true"
+  buildExpired = "true"
+  enableEmoji = "true"
+  pygmentsUseClasses = "true"
+  mainsections = ["post"]
 
-  mainSections = ["post"]
+[params.homeInfoParams]
+  Title = "👋"
+  Content = """
+Je rassemble ici des textes sur des sujets divers : 
 
-  twitter = "nicomo"
-  fbName = ""
-  github = "nicomo"
+  - 📚 littérature (en particulier le genre de la nouvelle)
+  - 🗳️ théorie politique et éthique (en particulier Judith Shklar)
+  - 🤖 technologies
+  - 🍹 rhum et alcools
+"""
 
-  logo = ""
-  orgName = ""
-  orgWebsite = ""
-  orgDescription = ""
 
-  authorAvatar = "img/avatar.jpg"
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
 
-  pageNotFoundTitle = "404 - Page not found"
 
-  #casper3
-  singleViewStyle = "casper3"
-
-[author]
-  name = "Nicolas Morin"
-
-[services.rss]
-  limit = 10
-
-[permalinks]
-  post = ":slug/"
 
 [[menu.main]]
   name = "Philosophie politique"
@@ -53,8 +43,8 @@ ignoreErrors = ["error-remote-getjson"]
   weight = 220
 
 [[menu.main]]
-  name = "Cuisine"
-  url = "/cuisine/"
+  name = "Divers"
+  url = "/divers/"
   weight = 230
 
 [frontmatter]

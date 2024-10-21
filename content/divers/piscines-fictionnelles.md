@@ -2,7 +2,7 @@
 title: "Piscines fictionnelles"
 date: 2022-02-19T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-piscines.jpg"
 description: "Cuisine #15. Piscines fictionnelles. Césaire boit du rhum. Pages de vieux journal. La cathédrale de Reims. Favoris."
 ---

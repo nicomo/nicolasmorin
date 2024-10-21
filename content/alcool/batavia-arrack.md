@@ -6,7 +6,7 @@ type = "post"
 feature_image = "/img/cuisine-batavia-arrack.jpg"
 description = "Battavia Arrack."
 +++
-
+![Arrack](/img/cuisine-batavia-arrack.jpg)
 Je vais vous expliquer comment un alcool traditionnel de Jakarta avec 2% de riz pourrait être le meilleur ingrédient pour vos Mai Tai. Ne partez pas!<!--more-->
 
 Comme chacun sait, l'histoire de la distillation et de la vinification, c'est l'histoire de l'humanité. Dans une bouteille d'alcool (l'invention de la bouteille, un sujet à soi : je note), comme dans un plat cuisiné se mélangent culture, économie et politique autant qu'un lieu, des personnes, des sociabilités et une expérience. 

@@ -3,7 +3,7 @@ title: "Physique de la création"
 date: 2021-03-06T15:56:35+02:00
 description: "Cuisine #3. Création dans l'espace. Calvino, La distance de la lune. Rhum charentais et Old Fashioned. Pages de vieux journal. Listes."
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/physique-creation.jpg"
 ---
 

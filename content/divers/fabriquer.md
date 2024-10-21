@@ -2,7 +2,7 @@
 title: "Fabriquer"
 date: 2021-06-26T11:09:51+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/fabriquer.jpg"
 description: "Cuisine #7. Papier. Faire un feu. Rhum Da Costa, 1654. Listes variées."
 ---

@@ -7,6 +7,8 @@ description: "El Presidente et autres cocktails retrouvés par les chercheurs"
 feature_image: "/img/clear-ice.jpg"
 ---
 
+![Glace](/img/clear-ice.jpg)
+
 Si vous buvez du rhum, faites des cocktails au rhum, etc. il vous faut de la glace. Mon activité littéraire entrant sinon en hibernation, au moins en hypothermie, je me suis dit que c’était un bon sujet.<!--more-->
 
 J’ai découvert ces dernières années que la glace est un sujet de _nerds_. Il y a des experts, des méthodes, des philosophies, des guerres, pour ainsi dire, à ce sujet dans le monde du cocktail.

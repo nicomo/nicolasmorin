@@ -7,6 +7,7 @@ type = "post"
 feature_image = "/img/rule-of-law.jpg"
 +++
 
+![Shklar état de droit](/img/rule-of-law.jpg)
 Une lecture de Judith Shklar, _Political Theory and the Rule of Law_ (1987), dans _Political Thought and Political Thinkers_ (1998)<!--more-->
 
 > Note liminaire : on parle de _rule of law_ dans l’original de Judith Shklar, qu’on traduit habituellement par la notion d’_état de droit_ même s’il s’agit en réalité de deux notions légèrement différentes. La notion de _primauté_ ou de _règne de la loi_ ne fait pas directement référence à l’état, même si l’action de ce dernier est couverte par la notion : c’est assez logique dans une tradition jurisprudentielle comme la _common law_. En français, la notion d’_état de droit_ place l’état au centre et ne couvre pas explicitement le droit commun. Par commodité, considérez ci-dessous que _règne de la loi_ et _état de droit_ sont utilisés indifféremment. Cf [Rule of Law dans le wikipedia français](https://fr.wikipedia.org/wiki/Rule_of_law)

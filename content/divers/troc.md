@@ -2,7 +2,7 @@
 title: "Troc"
 date: 2021-12-11T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-troc.jpg"
 description: "Cuisine #13. Troc. Chimie. Journal de 1995. Favoris."
 ---

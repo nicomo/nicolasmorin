@@ -7,6 +7,8 @@ description: "Rhum Neisson : histoire de la marque, visite de la distillerie, d�
 feature_image: "/img/rhum-neisson-01.png"
 ---
 
+![Neisson](/img/rhum-neisson-01.png)
+
 Pendant presque 4 ans, j'ai parcouru régulièrement cette route de la cote Caraïbe, qui monte et descend de mornes en fonds : fond Bourlet, Morne Maniba, fond Boucher, morne aux boeufs et enfin la Plage du Coin au Carbet.<!--more--> Il y a quelques points remarquables sur le chemin, de jolies maisons, deux ou trois vues particulièrement spectaculaires de la mer des Caraïbes, l'énorme centrale électrique de Bellefontaine et pour finir, je le vois les yeux fermés, la longue descente vers la plage. Juste avant d'arriver, sur la droite en bord de route, on longe un fossé et on dépasse un portail de ferronerie noire assez quelconque, encadré des deux drapeaux de la France et de l'Union Européenne. C'est l'entrée de la distillerie Neisson. Je ne me suis jamais arrêté : la plage est à 100 mètres.
 
 C'est pourtant là qu'est fabriqué le meilleur rhum blanc de Martinique. Les rhum sont, en Martinique, comme les équipes de football, chacun soutient le sien. Il n'empêche, pour le rhum comme pour le football, les résultats ne mentent pas : le Stade de Reims de mon enfance a remporté son dernier championnat de France en 1962 et le rhum Neisson est le meilleur rhum blanc agricole que vous trouverez ici-bas.

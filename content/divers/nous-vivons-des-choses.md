@@ -2,7 +2,7 @@
 title: "Nous vivons des choses"
 date: 2022-06-25T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-vivons-des-choses.jpg"
 description: "Cuisine #17 Nous vivons des choses 🚀 Saul Bellow. By the Saint Lawrence 🍹 Panier 🗑️ Pages de vieux journal 🔖 Favoris"
 ---

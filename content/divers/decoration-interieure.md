@@ -2,7 +2,7 @@
 title: "Décoration intérieure"
 date: 2021-04-03T11:09:51+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/decoration-interieure.jpg"
 description: "Cuisine #4. Décoration intérieure. Grotesques. Sucre. Pages de vieux journal. Livres lus. Listes variées."
 ---

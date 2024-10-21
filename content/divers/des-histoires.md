@@ -2,7 +2,7 @@
 title: "Des Histoires"
 date: 2021-07-21T11:09:51+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/des-histoires.jpg"
 description: "Cuisine #8 : Histoires de voitures cassées. Objets trouvés. Barbancourt. Pages de vieux journal. Listes."
 ---

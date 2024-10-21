@@ -2,7 +2,7 @@
 title: "Sans titre"
 date: 2021-10-16T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-sans-titre.jpg"
 description: "Cuisine #11 - l'oulipo socio-économique de la littérature."
 ---

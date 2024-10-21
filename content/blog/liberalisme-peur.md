@@ -7,6 +7,8 @@ type = "post"
 feature_image = "/img/liberalism-fear.jpg"
 +++
 
+![Shklar Libéralisme de la peur](/img/liberalism-fear.jpg)
+
 Une lecture de Judith Shklar, _The liberalism of Fear_ (1989).<!--more-->
 
 Si vous ne savez pas du tout de qui on parle, cf. ma présentation générale sur [Judith Shklar]({{< ref "judith-shklar" >}}).

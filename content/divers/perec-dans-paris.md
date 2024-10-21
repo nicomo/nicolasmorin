@@ -2,7 +2,7 @@
 title: "Perec dans Paris"
 date: 2021-05-29T11:09:51+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/perec-dans-paris.jpg"
 description: "Cuisine #6. Perec dans Paris. Meilleur Souvenir. Bête à feu. Listes."
 ---

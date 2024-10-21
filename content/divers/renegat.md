@@ -2,7 +2,7 @@
 title: "Renégat"
 date: 2022-01-22T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-renegat.jpg"
 description: "Cuisine #14. Ebook. En chariot. Terroir. Pages de vieux journal. Dans mes oreilles. Favoris."
 ---

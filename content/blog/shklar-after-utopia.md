@@ -7,6 +7,8 @@ type = "post"
 feature_image = "/img/shklar-after-utopia.png"
 +++
 
+![After Utopia](/img/shklar-after-utopia.png)
+
 J’aime assez ce proverbe, dont je ne retrouve plus l’origine : « Ne cédez pas au désespoir, il ne tient jamais ses promesses ». C’est un peu le sens d’_After Utopia_, le premier livre que Judith Shklar a publié en 1959, à 31 ans.<!--more--> Un livre étrange, une œuvre de jeunesse certainement, mais une œuvre remarquable néanmoins. Judith Shklar n’y a pas encore trouvé sa « voix » et on sent, dans la forme et à la taille du texte par exemple, le lien direct avec un travail universitaire. On l’imagine aisément, 20 ans plus tard, réduire ce travail de 300 pages à courte série d'articles de 30 pages chacun. Ce livre est aussi de son temps du fait de la place qu’il réserve à la discussion des écrits de penseurs importants dans l’après-Seconde Guerre mondiale, mais qui sont aujourd’hui bien oubliés : la philosophie et la théologie chrétiennes en général, des penseurs conservateurs comme Michael Polanyi ou une grande partie de l’existentialisme. Elle consacre à Sartre un nombre de pages qui, en 2023, n’a de sens et d’intérêt que pour un enseignant du secondaire français.
 
 Malgré tout, ce livre demeure intéressant pour deux raisons.

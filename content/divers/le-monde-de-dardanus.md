@@ -2,7 +2,7 @@
 title: "Le monde de Dardanus"
 date: 2021-10-16T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-monde-dardanus.jpg"
 description: "Cuisine #12. Le monde de Claudius Postumus Dardanus. La machine s'arrête. Rum Verschnit. Pages de vieux journal. Listes."
 ---

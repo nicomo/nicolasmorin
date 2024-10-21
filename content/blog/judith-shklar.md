@@ -7,6 +7,7 @@ type = "post"
 feature_image = "/img/shklar.png"
 +++
 
+![Shklar](/img/shklar.png)
 Judith Shklar est une philosophe et théoricienne de la politique dont l'oeuvre, méconnue en France, est à mes yeux aussi importante que celle d'un Rawls ou d'une Arendt.<!--more-->
 
 Cette petite notice biographique et intellectuelle peut servir de point de départ et vous donner envie, peut-être, d'en savoir plus sur Judith Shklar et de lire ses livres.

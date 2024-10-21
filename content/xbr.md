@@ -1,5 +1,5 @@
 +++
-date = "2017-12-22T17:16:28+02:00"
+date = "2018-02-22T17:16:28+02:00"
 title = "XBR"
 menu = "main"
 description = "A Christine Brooke-Rose Bibliography"
@@ -15,7 +15,7 @@ A [Christine Brooke-Rose society](http://christinebrookerose.org/about-the-socie
 
 You can [download this bibliography](/files/xbr_biblio.ris) as a .RIS file. It was _last updated Feb. 2018_
 
-Portrait of XBR by [Alexa Brunet / Transit](http://www.alexabrunet.com)
+![Portrait of XBR by Alexa Brunet / Transit](/img/xbr_portrait.jpg)
 
 ***
 

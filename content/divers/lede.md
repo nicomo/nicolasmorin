@@ -2,7 +2,7 @@
 title: "Lede"
 date: 2022-04-16T08:05:43+02:00
 type: "post"
-tags: ["cuisine"]
+tags: ["divers"]
 feature_image: "/img/cuisine-lede.png"
 description: "Cuisine #16 Lede J.G. Ballard, Echappement 🍹 El Presidente 🗑️ Pages de vieux journal 🔖 Favoris"
 ---

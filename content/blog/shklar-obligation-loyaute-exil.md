@@ -6,7 +6,7 @@ tags = [ "philosophie politique", "shklar" ]
 type = "post"
 feature_image = "/img/shklar-obligation-loyaute-exil.jpg"
 +++
-
+![Shklar obligation](/img/shklar-obligation-loyaute-exil.jpg)
 Deux essais de Judith Shklar, _Obligation, Loyalty, Exile_ (1993) et _The Bonds of Exile_ (1993), dans _Political Thought and Political Thinkers_ (1998)<!--more-->
 
 Le thème de l’exil intéressait particulièrement Shklar à la fin de sa vie : ces deux textes ont été écrits juste avant sa mort en septembre 1992 et publiés l’année suivante. Le fait qu’elle ait été elle-même exilée enfant la sensibilisit sans doute au sujet et à ses liens à la théorie politique. L’exilé est un cas extrême qui, dans son rapport à la communauté, peut servir de loupe pour observer les limites d’autres concepts, par exemple ceux d’obligation politique et de loyauté, dont Shklar note qu’ils sont souvent utilisés de façon interchangeable dans le langage courant, mais qu’il est important de les distinguer.
