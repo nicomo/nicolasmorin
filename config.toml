@@ -1,6 +1,6 @@
 baseurl = "https://nicolasmorin.com"
 theme = "PaperMod"
-paginate = 10
+pagerSize = 10
 Title = "Nicolas Morin 🕶"
 
 [params]
@@ -53,3 +53,5 @@ Je rassemble ici des textes sur des sujets divers :
   expiryDate = ['expiryDate']
   lastmod = [':git', 'lastmod', 'date', 'publishDate']
   publishDate = ['publishDate', 'date']
+
+ignoreLogs = ['warning-goldmark-raw-html']
