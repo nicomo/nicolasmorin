@@ -6,7 +6,7 @@ tags = [ "philosophie politique", "liberté d'expression", "modération", "plate
 type = "post"
 +++
 
-Je prends quelques notes ici à propos d'un article d'Evelyn Douek paru en 2022 dans la _Harvard Law Review_, qui plaide pour une "approche systémique" de la modération de contenu en ligne ([Content Moderation as Systems Thinking](https://harvardlawreview.org/print/vol-136/content-moderation-as-systems-thinking/)), et de la réponse de Kate Klonick dans le numéro suivant ([Of Systems Thinking and Straw Men](https://harvardlawreview.org/forum/vol-136/of-systems-thinking-and-straw-men/)).
+Je prends quelques notes ici à propos d'un article d'Evelyn Douek paru en 2022 dans la _Harvard Law Review_, qui plaide pour une "approche systémique" de la modération de contenu en ligne<!--more--> ([Content Moderation as Systems Thinking](https://harvardlawreview.org/print/vol-136/content-moderation-as-systems-thinking/)), et de la réponse de Kate Klonick dans le numéro suivant ([Of Systems Thinking and Straw Men](https://harvardlawreview.org/forum/vol-136/of-systems-thinking-and-straw-men/)).
 
 La première phrase de l'article d'E. Douek est la suivante : 
 
